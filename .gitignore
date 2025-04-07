@@ -1,0 +1,12 @@
+# === Python ===
+__pycache__/
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+*.ipynb~ 
+
+# === Virtual Environments ===
+*venv_scraper*
+*venv*
+
+.DS_Store

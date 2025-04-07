@@ -1,0 +1,631 @@
+company;job_description;rating;min_salary;max_salary;median_salary;currency;frequency;city
+BBVA;Data Scientist;4.2;33000;48000;41000;EUR;yearly;Madrid
+Santander;Data Scientist;3.8;30000;40000;36000;EUR;yearly;Madrid
+Accenture;Data Scientist;3.8;30000;46000;35000;EUR;yearly;Madrid
+Minsait;Data Scientist;3.8;30000;38000;33000;EUR;yearly;Madrid
+Telefónica;Data Scientist;4.1;32000;48000;40000;EUR;yearly;Madrid
+EY;Data Scientist;3.7;26000;30000;28000;EUR;yearly;Madrid
+Capgemini Engineering;Data Scientist;3.5;31000;40000;35000;EUR;yearly;Madrid
+Vodafone;Data Scientist;3.9;33000;50000;42000;EUR;yearly;Madrid
+Management Solutions;Data Scientist;3.8;25000;30000;27000;EUR;yearly;Madrid
+Capgemini;Data Scientist;3.8;23000;37000;29000;EUR;yearly;Madrid
+IIC;Data Scientist;3.9;31000;39000;34000;EUR;yearly;Madrid
+Indra;Data Scientist;3.7;29000;38000;33000;EUR;yearly;Madrid
+Orange;Data Scientist;4;29000;42000;37000;EUR;yearly;Madrid
+Deloitte;Data Scientist;3.9;25000;32000;30000;EUR;yearly;Madrid
+Bankinter;Data Scientist;4;30000;44000;42000;EUR;yearly;Madrid
+McKinsey & Company;Data Scientist;4.1;35000;45000;39000;EUR;yearly;Madrid
+IBM;Data Scientist;4;35000;56000;50000;EUR;yearly;Madrid
+ETS Asset Management Factory;Data Scientist;3.4;25000;36000;31000;EUR;yearly;Madrid
+Boston Consulting Group;Data Scientist;4.2;37000;52000;50000;EUR;yearly;Madrid
+Airbus;Data Scientist;4.2;45000;50000;47000;EUR;yearly;Madrid
+NTT DATA;Data Scientist;3.8;27000;31000;30000;EUR;yearly;Madrid
+Quental Technologies;Data Scientist;3.2;25000;32000;30000;EUR;yearly;Madrid
+Endesa S.A.;Data Scientist;4;43000;52000;50000;EUR;yearly;Madrid
+TomTom;Data Scientist;4;38000;48000;43000;EUR;yearly;Madrid
+Cabify;Data Scientist;3.8;40000;45000;40000;EUR;yearly;Madrid
+KPMG;Data Scientist;3.7;24000;35000;25000;EUR;yearly;Madrid
+everis;Data Scientist;3.6;22000;29000;25000;EUR;yearly;Madrid
+Innova-Tsn;Data Scientist;3.8;28000;32000;30000;EUR;yearly;Madrid
+Iberdrola;Data Scientist;3.8;25000;51000;44000;EUR;yearly;Madrid
+PwC;Data Scientist;3.8;29000;36000;30000;EUR;yearly;Madrid
+Intelygenz;Data Scientist;3.9;32000;40000;40000;EUR;yearly;Madrid
+Strategy Big Data;Data Scientist;3.1;40000;52000;45000;EUR;yearly;Madrid
+Openbank;Data Scientist;3.9;45000;66000;50000;EUR;yearly;Madrid
+AEROENGY;Data Scientist;4.6;24000;48000;27000;EUR;yearly;Madrid
+Telefonica Tech;Data Scientist;3.9;38000;52000;43000;EUR;yearly;Madrid
+Zooplus;Data Scientist;3.2;41000;51000;46000;EUR;yearly;Madrid
+Mapfre;Data Scientist;3.9;28000;52000;33000;EUR;yearly;Madrid
+El Corte Inglés;Data Scientist;3.5;26000;54000;35000;EUR;yearly;Madrid
+Banco Sabadell;Data Scientist;3.8;40000;53000;44000;EUR;yearly;Madrid
+Reale Seguros;Data Scientist;4.2;35000;52000;40000;EUR;yearly;Madrid
+Keepler;Data Scientist;4.8;40000;44000;40000;EUR;yearly;Madrid
+Cognizant Technology Solutions;Data Scientist;3.7;29000;34000;32000;EUR;yearly;Madrid
+Olympic Channel Services;Data Scientist;3.9;37000;41000;40000;EUR;yearly;Madrid
+VASS;Data Scientist;4;26000;34000;26000;EUR;yearly;Madrid
+The Cocktail;Data Scientist;3.7;27000;43000;30000;EUR;yearly;Madrid
+Stratio;Data Scientist;3.1;25000;47000;29000;EUR;yearly;Madrid
+Making Science;Data Scientist;3.7;36000;51000;40000;EUR;yearly;Madrid
+SCALIAN SPAIN;Data Scientist;3.6;20000;34000;26000;EUR;yearly;Madrid
+PiperLab;Data Scientist;5;29000;30000;30000;EUR;yearly;Madrid
+Sopra Steria;Data Scientist;3.6;37000;43000;40000;EUR;yearly;Madrid
+Repsol;Data Scientist;4;40000;49000;46000;EUR;yearly;Madrid
+Smartme Analytics;Data Scientist;4.7;16000;22000;20000;EUR;yearly;Madrid
+Seedtag;Data Scientist;3.9;36000;55000;48000;EUR;yearly;Madrid
+Equifax;Data Scientist;3.5;40000;51000;46000;EUR;yearly;Madrid
+Google;Data Scientist;4.3;25000;60000;50000;EUR;yearly;Madrid
+CaixaBank;Data Scientist;3.8;27000;58000;45000;EUR;yearly;Madrid
+Iberia;Data Scientist;3.6;32000;53000;48000;EUR;yearly;Madrid
+GMV;Data Scientist;4.2;28000;33000;31000;EUR;yearly;Madrid
+Clarity AI;Data Scientist;4.4;35000;43000;40000;EUR;yearly;Madrid
+QUANT AI Lab;Data Scientist;3.3;34000;45000;36000;EUR;yearly;Madrid
+Kairós;Data Scientist;4.3;28000;44000;33000;EUR;yearly;Madrid
+ThetaRay;Data Scientist;4.3;47000;53000;51000;EUR;yearly;Madrid
+Ineco;Data Scientist;3.9;26000;34000;29000;EUR;yearly;Madrid
+Acciona;Data Scientist;4;500;800;650;EUR;monthly;Madrid
+Nommon;Data Scientist;3.2;35000;43000;38000;EUR;yearly;Madrid
+ALTEN;Data Scientist;3.2;31000;36000;34000;EUR;yearly;Madrid
+Ryanair;Data Scientist;3.3;46000;58000;49000;EUR;yearly;Madrid
+Mercedes-Benz Group Services Madrid;Data Scientist;3.7;34000;45000;38000;EUR;yearly;Madrid
+Datio;Data Scientist;3.8;39000;47000;46000;EUR;yearly;Madrid
+Securitas Direct;Data Scientist;3.3;33000;48000;41000;EUR;yearly;Madrid
+Menhir Financial;Data Scientist;4.6;32000;39000;35000;EUR;yearly;Madrid
+Ericsson-Worldwide;Data Scientist;4;35000;44000;38000;EUR;yearly;Madrid
+Atos;Data Scientist;3.5;28000;46000;38000;EUR;yearly;Madrid
+Hiberus Tecnología;Data Scientist;3.7;26000;45000;38000;EUR;yearly;Madrid
+Bdeo;Data Scientist;4.2;26000;40000;31000;EUR;yearly;Madrid
+Expert Timing Systems;Data Scientist;3.9;25000;34000;30000;EUR;yearly;Madrid
+Taiger;Data Scientist;2.6;27000;43000;34000;EUR;yearly;Madrid
+Synergic Partners;Data Scientist;2.6;26000;47000;38000;EUR;yearly;Madrid
+Amazon;Data Scientist;3.6;43000;74000;60000;EUR;yearly;Madrid
+T-Systems;Data Scientist;3.7;30000;53000;30000;EUR;yearly;Madrid
+Axactor;Data Scientist;2.5;35000;45000;38000;EUR;yearly;Madrid
+Tinámica;Data Scientist;3.9;25000;32000;28000;EUR;yearly;Madrid
+UST;Data Scientist;3.9;23000;39000;34000;EUR;yearly;Madrid
+Bosonit;Data Scientist;3.4;19000;32000;22000;EUR;yearly;Madrid
+TMC;Data Scientist;4.1;33000;39000;35000;EUR;yearly;Madrid
+OpenSistemas;Data Scientist;4.3;32000;55000;38000;EUR;yearly;Madrid
+Decide Soluciones;Data Scientist;4.4;35000;44000;40000;EUR;yearly;Madrid
+Nextail;Data Scientist;3.9;49000;65000;49000;EUR;yearly;Madrid
+IQVIA;Data Scientist;3.8;35000;50000;37000;EUR;yearly;Madrid
+Turing Challenge;Data Scientist;4.7;35000;46000;45000;EUR;yearly;Madrid
+Ayesa;Data Scientist;3.4;32000;42000;42000;EUR;yearly;Madrid
+Zurich Insurance;Data Scientist;4.3;37000;54000;40000;EUR;yearly;Madrid
+NEDGIA;Data Scientist;4.1;30000;34000;30000;EUR;yearly;Madrid
+Paradigma Digital;Data Scientist;4.3;42000;49000;47000;EUR;yearly;Madrid
+Mercedes-Benz Group;Data Scientist;4.1;40000;45000;42000;EUR;yearly;Madrid
+Savana;Data Scientist;3.9;35000;50000;40000;EUR;yearly;Madrid
+Revolut;Data Scientist;3.9;60000;103000;68000;EUR;yearly;Madrid
+Wise Athena;Data Scientist;4.5;27000;48000;40000;EUR;yearly;Madrid
+Plain Concepts;Data Scientist;3.9;30000;43000;40000;EUR;yearly;Madrid
+Universidad Carlos III de Madrid;Data Scientist;4;18000;39000;35000;EUR;yearly;Madrid
+Universidad Politécnica de Madrid;Data Scientist;3.9;200;1000;500;EUR;monthly;Madrid
+Atmira;Data Scientist;3.5;35000;45000;36000;EUR;yearly;Madrid
+BIP;Data Scientist;3.9;25000;55000;31000;EUR;yearly;Madrid
+Prima Assicurazioni;Data Scientist;4.3;38000;50000;45000;EUR;yearly;Madrid
+Experis;Data Scientist;3.5;24000;30000;28000;EUR;yearly;Madrid
+SDG Group;Data Scientist;3.9;22000;35000;28000;EUR;yearly;Madrid
+Adecco;Data Scientist;3.6;30000;39000;30000;EUR;yearly;Madrid
+Unlimiteck;Data Scientist;3.3;25000;33000;28000;EUR;yearly;Madrid
+Microsoft;Data Scientist;4.2;24000;61000;55000;EUR;yearly;Madrid
+Bluetab;Data Scientist;4.1;24000;49000;32000;EUR;yearly;Madrid
+Grupo Solutio;Data Scientist;2.4;18000;28000;22000;EUR;yearly;Madrid
+Mutua Madrileña;Data Scientist;3.8;30000;45000;30000;EUR;yearly;Madrid
+Fever;Data Scientist;3.6;34000;52000;38000;EUR;yearly;Madrid
+Shift Technology;Data Scientist;3.8;35000;47000;42000;EUR;yearly;Madrid
+Fintonic;Data Scientist;3.5;25000;45000;36000;EUR;yearly;Madrid
+Intrum;Data Scientist;2.9;39000;52000;43000;EUR;yearly;Madrid
+ING;Data Scientist;4.4;36000;70000;48000;EUR;yearly;Madrid
+Universidad de Granada;Data Scientist;4.2;1000;2000;2000;EUR;monthly;Madrid
+Amadeus;Data Scientist;4.1;12000;45000;40000;EUR;yearly;Madrid
+Talgo;Data Scientist;3.6;33000;43000;43000;EUR;yearly;Madrid
+BBVA AI Factory;Data Scientist;3.4;30000;40000;40000;EUR;yearly;Madrid
+Roche;Data Scientist;4.2;30000;53000;42000;EUR;yearly;Madrid
+Bertrandt;Data Scientist;3.5;30000;31000;31000;EUR;yearly;Madrid
+Daimler Group Services Madrid;Data Scientist;3.8;30000;41000;35000;EUR;yearly;Madrid
+Telefónica;Data Scientist;4.1;850;1000;975;EUR;monthly;Madrid
+Ladorian;Data Scientist;2.8;30000;40000;35000;EUR;yearly;Madrid
+Rebold;Data Scientist;3.3;32000;35000;34000;EUR;yearly;Madrid
+Siemens;Data Scientist;4.2;30000;36000;33000;EUR;yearly;Madrid
+Devo;Data Scientist;3;35000;48000;42000;EUR;yearly;Madrid
+Hewlett Packard Enterprise | HPE;Data Scientist;4.1;35000;75000;55000;EUR;yearly;Madrid
+AXA;Data Scientist;3.9;38000;50000;44000;EUR;yearly;Madrid
+Metyis;Data Scientist;3.6;28000;41000;34000;EUR;yearly;Madrid
+Accenture;Data Scientist;3.8;800;3000;2000;EUR;monthly;Madrid
+CSIC;Data Scientist;3.8;2000;3000;2000;EUR;monthly;Madrid
+SpikaTech;Data Scientist;2.5;2000;3000;2000;EUR;monthly;Madrid
+Eviden;Data Scientist;3.3;22000;29000;25000;EUR;yearly;Madrid
+Dentsu;Data Scientist;3.6;40000;47000;44000;EUR;yearly;Madrid
+Acciona;Data Scientist;4;38000;43000;41000;EUR;yearly;Madrid
+BBVA;Data Scientist;4.2;1000;3000;2000;EUR;monthly;Madrid
+Novaquality Consulting;Data Scientist;3.9;20000;27000;24000;EUR;yearly;Madrid
+Scalian;Data Scientist;3.6;28000;37000;33000;EUR;yearly;Madrid
+Avansis;Data Scientist;3.7;18000;48000;33000;EUR;yearly;Madrid
+Carto;Data Scientist;3.9;37000;40000;39000;EUR;yearly;Madrid
+Keedio;Data Scientist;3.9;30000;34000;32000;EUR;yearly;Madrid
+CHEP;Data Scientist;4;59000;63000;61000;EUR;yearly;Madrid
+Freelancer;Data Scientist;4.2;40000;50000;45000;EUR;yearly;Madrid
+Santalucía Seguros;Data Scientist;3.5;43000;48000;46000;EUR;yearly;Madrid
+Unlimiteck;Data Scientist;3.3;700;2000;1000;EUR;monthly;Madrid
+Kernel Analytics;Data Scientist;4;25000;50000;38000;EUR;yearly;Madrid
+DataScientest;Data Scientist;4.2;41000;44000;43000;EUR;yearly;Madrid
+Acierto.com;Data Scientist;3.8;39000;42000;41000;EUR;yearly;Madrid
+Unikie;Data Scientist;3.9;60000;65000;63000;EUR;yearly;Madrid
+GoStudent;Data Scientist;3.1;50000;60000;55000;EUR;yearly;Madrid
+freelance;Data Scientist;4.2;2000;7000;4000;EUR;monthly;Madrid
+BASF;Data Scientist;4.1;50000;53000;52000;EUR;yearly;Madrid
+Instituto de Empresa;Data Scientist;3.5;30000;36000;33000;EUR;yearly;Madrid
+Apara;Data Scientist;3.6;35000;51000;43000;EUR;yearly;Madrid
+Smile and Learn;Data Scientist;2;29000;29000;29000;EUR;yearly;Madrid
+DataBeacon;Data Scientist;5;35000;40000;38000;EUR;yearly;Madrid
+Komorebi AI;Data Scientist;3.4;23000;23000;23000;EUR;yearly;Madrid
+Lingokids;Data Scientist;4.4;45000;45000;45000;EUR;yearly;Madrid
+EUROSTAR MEDIAGROUP;Data Scientist;2.4;37000;42000;40000;EUR;yearly;Madrid
+NielsenIQ;Data Scientist;3.8;40000;55000;48000;EUR;yearly;Madrid
+GfK;Data Scientist;3.6;15000;30000;23000;EUR;yearly;Madrid
+Applus+;Data Scientist;3.5;21000;23000;22000;EUR;yearly;Madrid
+Teradata;Data Scientist;3.7;45000;55000;50000;EUR;yearly;Madrid
+Novanotio;Data Scientist;4.9;23000;39000;31000;EUR;yearly;Madrid
+Metiora;Data Scientist;4.1;18000;27000;23000;EUR;yearly;Madrid
+Universidad Politécnica de Madrid;Data Scientist;3.9;21000;27000;24000;EUR;yearly;Madrid
+IHS Markit;Data Scientist;4;46000;46000;46000;EUR;yearly;Madrid
+Inetum;Data Scientist;3.3;600;600;600;EUR;monthly;Madrid
+Grupo Codere;Data Scientist;3.4;35000;36000;35000;EUR;yearly;Madrid
+Santander;Data Scientist;3.8;600;5000;3000;EUR;monthly;Madrid
+Carrefour;Data Scientist;3.7;650;833;742;EUR;monthly;Madrid
+Telefónica;Data Scientist;4.1;750;900;825;EUR;monthly;Madrid
+Geoblink;Data Scientist;3.7;2000;3000;2000;EUR;monthly;Madrid
+Weplan;Data Scientist;4.6;23000;35000;29000;EUR;yearly;Madrid
+Aubay;Data Scientist;3.5;20000;20000;20000;EUR;yearly;Madrid
+Marketing & Bases De Datos Consultores;Data Scientist;4;30000;37000;34000;EUR;yearly;Madrid
+Bankinter;Data Scientist;4;600;667;634;EUR;monthly;Madrid
+Frontiers;Data Scientist;2.7;53000;55000;54000;EUR;yearly;Madrid
+Carrefour;Data Scientist;3.7;34000;43000;38000;EUR;yearly;Madrid
+DXC Technology;Data Scientist;3.5;25000;30000;28000;EUR;yearly;Madrid
+Universidad Carlos III de Madrid;Data Scientist;4;750;1000;950;EUR;monthly;Madrid
+University of Alcala;Data Scientist;4.1;1000;2000;2000;EUR;monthly;Madrid
+Huxley;Data Scientist;3.8;40000;43000;42000;EUR;yearly;Madrid
+Cepsa;Data Scientist;3.7;40000;49000;45000;EUR;yearly;Madrid
+Sandoz;Data Scientist;4.5;33000;60000;47000;EUR;yearly;Madrid
+VIEWNEXT;Data Scientist;3.5;24000;29000;27000;EUR;yearly;Madrid
+BME | Bolsas y Mercados Españoles;Data Scientist;4.2;40000;65000;53000;EUR;yearly;Madrid
+Multiasistencia;Data Scientist;3.6;30000;30000;30000;EUR;yearly;Madrid
+Tessella;Data Scientist;3.9;25000;25000;25000;EUR;yearly;Madrid
+Altarius Capital;Data Scientist;2.3;30000;50000;40000;EUR;yearly;Madrid
+Olympic Channel Services;Data Scientist;3.9;3000;3000;3000;EUR;monthly;Madrid
+AstraZeneca;Data Scientist;4;29;40;34;EUR;hourly;Madrid
+Tata Consultancy Services;Data Scientist;3.7;30000;30000;30000;EUR;yearly;Madrid
+Olympic Channel Services;Data Scientist;3.9;3000;4000;4000;EUR;monthly;Madrid
+Línea Directa;Data Scientist;3.5;46000;47000;47000;EUR;yearly;Madrid
+BASF;Data Scientist;4.1;24000;26000;25000;EUR;yearly;Madrid
+everis;Data Scientist;3.6;763;839;801;EUR;monthly;Madrid
+Managing Composites;Data Scientist;4.8;33000;36000;35000;EUR;yearly;Madrid
+Lookiero;Data Scientist;3.5;48000;52000;50000;EUR;yearly;Madrid
+Vodafone;Data Scientist;3.9;29000;31000;30000;EUR;yearly;Madrid
+Universidade de São Paulo (USP);Data Scientist;4.4;19000;21000;20000;EUR;yearly;Madrid
+CoverWallet;Data Scientist;3.6;44000;47000;46000;EUR;yearly;Madrid
+CoVerified;Data Scientist;5;29000;31000;30000;EUR;yearly;Madrid
+Experis IT Manpower Group;Data Scientist;3.2;34000;36000;35000;EUR;yearly;Madrid
+Mercedes-Benz Group;Data Scientist;4.1;629;673;651;EUR;monthly;Madrid
+SOLUTE;Data Scientist;3.3;21000;23000;22000;EUR;yearly;Madrid
+Universidad de Granada;Data Scientist;4.2;1000;1000;1000;EUR;monthly;Madrid
+LittleBig Connection;Data Scientist;3.9;29000;31000;30000;EUR;yearly;Madrid
+MediaPost;Data Scientist;4;19000;21000;20000;EUR;yearly;Madrid
+Qaleon;Data Scientist;3.1;29000;31000;30000;EUR;yearly;Madrid
+Mapfre;Data Scientist;3.9;24000;26000;25000;EUR;yearly;Madrid
+Travelgenio;Data Scientist;2.7;72000;78000;75000;EUR;yearly;Madrid
+Universidad de Almería;Data Scientist;4.3;24000;26000;25000;EUR;yearly;Madrid
+Intrum;Data Scientist;2.9;29000;31000;30000;EUR;yearly;Madrid
+Pepephone;Data Scientist;3.5;29000;31000;30000;EUR;yearly;Madrid
+Brambles;Data Scientist;4.3;53000;57000;55000;EUR;yearly;Madrid
+SimplAI;Data Scientist;5;33000;36000;35000;EUR;yearly;Madrid
+SATEC;Data Scientist;3.6;34000;36000;35000;EUR;yearly;Madrid
+Full On Net;Data Scientist;4.1;35000;38000;36000;EUR;yearly;Madrid
+IE University;Data Scientist;3.8;33000;36000;35000;EUR;yearly;Madrid
+Avansis;Data Scientist;3.7;23000;25000;24000;EUR;yearly;Madrid
+Santander Consumer Finanace;Data Scientist;3.6;25000;27000;26000;EUR;yearly;Madrid
+EY;Data Scientist;3.7;38000;42000;40000;EUR;yearly;Madrid
+BBVA Next Technologies;Data Scientist;4;29000;31000;30000;EUR;yearly;Madrid
+Kairós;Data Scientist;4.3;483;524;504;EUR;monthly;Madrid
+Rastreator;Data Scientist;4.2;29000;31000;30000;EUR;yearly;Madrid
+Havas Worldwide;Data Scientist;3.4;41000;44000;42000;EUR;yearly;Madrid
+Future Space;Data Scientist;3.3;13000;14000;14000;EUR;yearly;Madrid
+Akamai;Data Scientist;4.3;86000;94000;90000;EUR;yearly;Madrid
+Dive;Data Scientist;4.3;29000;31000;30000;EUR;yearly;Madrid
+Nestlé;Data Scientist;4.1;19000;21000;20000;EUR;yearly;Madrid
+Corus Entertainment;Data Scientist;3.2;24000;26000;25000;EUR;yearly;Madrid
+Sanitas Medical Center;Data Scientist;2.9;45000;50000;47000;EUR;yearly;Madrid
+Endesa S.A.;Data Scientist;4;862;935;898;EUR;monthly;Madrid
+Universidad Carlos III de Madrid;Data Scientist;4;10000;10000;10000;EUR;yearly;Madrid
+Solera;Data Scientist;2.8;42000;47000;45000;EUR;yearly;Madrid
+Redsys;Data Scientist;3.9;28000;30000;29000;EUR;yearly;Madrid
+Deep BI;Data Scientist;4;24000;26000;25000;EUR;yearly;Madrid
+University of Jaén;Data Scientist;4.3;1000;1000;1000;EUR;monthly;Madrid
+Correos Group;Data Scientist;3.7;579;624;601;EUR;monthly;Madrid
+Crayon;Data Scientist;3.6;63000;68000;66000;EUR;yearly;Madrid
+The Wise Seeker;Data Scientist;2.7;20000;22000;21000;EUR;yearly;Madrid
+Grupo Servinform;Data Scientist;3.2;46000;49000;48000;EUR;yearly;Madrid
+Azerion;Data Scientist;2.8;33000;36000;35000;EUR;yearly;Madrid
+Link Finanzas;Data Scientist;3.4;577;625;601;EUR;monthly;Madrid
+Dentsu;Data Scientist;3.6;477;522;500;EUR;monthly;Madrid
+Recognai;Data Scientist;-0.10000000149011612;40000;43000;41000;EUR;yearly;Madrid
+Técnicas Reunidas;Data Scientist;3.9;620;678;649;EUR;monthly;Madrid
+MCA Groupe;Data Scientist;3.6;34000;36000;35000;EUR;yearly;Madrid
+mscope;Data Scientist;-0.10000000149011612;38000;41000;40000;EUR;yearly;Madrid
+Bestway;Data Scientist;3;54000;59000;57000;EUR;yearly;Madrid
+BNZSA;Data Scientist;2.8;38000;42000;40000;EUR;yearly;Madrid
+Digilant;Data Scientist;3.7;39000;42000;40000;EUR;yearly;Madrid
+Pascual;Data Scientist;2.6;25000;27000;26000;EUR;yearly;Madrid
+AyGloo;Data Scientist;-0.10000000149011612;29000;31000;30000;EUR;yearly;Madrid
+Universidad Complutense de Madrid;Data Scientist;3.6;24000;26000;25000;EUR;yearly;Madrid
+Oceana;Data Scientist;3.7;33000;37000;35000;EUR;yearly;Madrid
+Inditex;Data Scientist;3.8;29000;31000;30000;EUR;yearly;Madrid
+Podo Technology;Data Scientist;5;45000;49000;47000;EUR;yearly;Madrid
+Grupo TRC;Data Scientist;4.2;26000;28000;27000;EUR;yearly;Madrid
+Nunegal Consulting;Data Scientist;3.6;38000;41000;40000;EUR;yearly;Madrid
+Evo Banco;Data Scientist;4;48000;52000;50000;EUR;yearly;Madrid
+DFDS;Data Scientist;3.9;48000;52000;50000;EUR;yearly;Madrid
+DatMean;Data Scientist;5;23000;25000;24000;EUR;yearly;Madrid
+Mercadona Tech;Data Scientist;4.1;71000;77000;74000;EUR;yearly;Madrid
+Burger King;Data Scientist;3.4;53000;57000;55000;EUR;yearly;Madrid
+Grupo Imprex Europe;Data Scientist;4.1;19000;21000;20000;EUR;yearly;Madrid
+AXA XL;Data Scientist;3.8;44000;47000;45000;EUR;yearly;Madrid
+medicalmotion;Data Scientist;4.5;3000;4000;3000;EUR;monthly;Madrid
+Sherpa.ai;Data Scientist;3.5;2000;2000;2000;EUR;monthly;Madrid
+Digittal;Data Scientist;-0.10000000149011612;2000;2000;2000;EUR;monthly;Madrid
+Leroy Merlin;Data Scientist;3.9;34000;36000;35000;EUR;yearly;Madrid
+Grupo Cooperativo Cajamar;Data Scientist;3.4;24000;26000;25000;EUR;yearly;Madrid
+KNOWENCE;Data Scientist;-0.10000000149011612;46000;49000;48000;EUR;yearly;Madrid
+Google;Data Scientist;4.3;10000;10000;10000;EUR;yearly;Madrid
+ZENER;Data Scientist;4;27000;29000;28000;EUR;yearly;Madrid
+Autonomo;Data Scientist;4.4;67000;72000;70000;EUR;yearly;Madrid
+Liberty Mutual Insurance;Data Scientist;3.6;35000;37000;36000;EUR;yearly;Madrid
+M&GT Consulting;Data Scientist;3.6;29000;31000;30000;EUR;yearly;Madrid
+Interacso;Data Scientist;4.4;29000;31000;30000;EUR;yearly;Madrid
+Colegio Universitario de Estudios Financieros;Data Scientist;4.1;46000;50000;48000;EUR;yearly;Madrid
+Growara;Data Scientist;4.8;41000;44000;42000;EUR;yearly;Madrid
+BRGI;Data Scientist;3.5;23000;25000;24000;EUR;yearly;Madrid
+Raíz Cimentaciones;Data Scientist;-0.10000000149011612;43000;47000;45000;EUR;yearly;Madrid
+Digital Rubik;Data Scientist;3.5;97000;103000;100000;EUR;yearly;Madrid
+Freepik;Data Scientist;3.8;34000;36000;35000;EUR;yearly;Madrid
+Nova Talent;Data Scientist;4.6;39000;42000;40000;EUR;yearly;Madrid
+Fundacion Para El Desarrollo Y La Innovacion Tecnologica;Data Scientist;2;29000;31000;30000;EUR;yearly;Madrid
+IBM;Data Scientist;4;35000;37000;36000;EUR;yearly;Madrid
+Cognodata Consulting;Data Scientist;3.7;19000;21000;20000;EUR;yearly;Madrid
+Nexthink;Data Scientist;4.2;67000;72000;70000;EUR;yearly;Madrid
+Data Centric Solutions;Data Scientist;2.8;31000;33000;32000;EUR;yearly;Madrid
+Hocelot Financial Technologies;Data Scientist;4;31000;33000;32000;EUR;yearly;Madrid
+Autovista Group;Data Scientist;4.3;37000;40000;38000;EUR;yearly;Madrid
+Altostratus Cloud Consulting;Data Scientist;3.5;66000;71000;68000;EUR;yearly;Madrid
+Decskill;Data Scientist;3.6;36000;39000;38000;EUR;yearly;Madrid
+Tinsa;Data Scientist;3.8;33000;35000;34000;EUR;yearly;Madrid
+Inetum;Data Scientist;3.3;998;1000;1000;EUR;monthly;Madrid
+Vertiv;Data Scientist;3.6;48000;52000;50000;EUR;yearly;Madrid
+Accenture;Data Scientist;3.8;24000;26000;25000;EUR;yearly;Madrid
+Logista;Data Scientist;3.7;36000;39000;38000;EUR;yearly;Madrid
+Inetum;Data Scientist;3.2;19000;21000;20000;EUR;yearly;Madrid
+GSK;Data Scientist;4.1;670;726;698;EUR;monthly;Madrid
+Santander;Data Scientist;3.8;67000;73000;70000;EUR;yearly;Madrid
+Tendam;Data Scientist;3.4;1000;1000;1000;EUR;monthly;Madrid
+Chess.com;Data Scientist;4.5;58000;62000;60000;EUR;yearly;Madrid
+Voith;Data Scientist;4.1;29000;31000;30000;EUR;yearly;Madrid
+Oracle;Data Scientist;3.8;79000;86000;82000;EUR;yearly;Madrid
+Aderen;Data Scientist;3.3;27;29;28;EUR;hourly;Madrid
+Gestión;Data Scientist;4;22000;24000;23000;EUR;yearly;Madrid
+FRG Technology Consulting;Data Scientist;2.9;26000;29000;27000;EUR;yearly;Madrid
+EY;Data Scientist;3.7;575;623;599;EUR;monthly;Madrid
+aggity;Data Scientist;2.5;38000;41000;40000;EUR;yearly;Madrid
+El Arte de Medir;Data Scientist;4.5;27000;29000;28000;EUR;yearly;Madrid
+Jakala Iberia;Data Scientist;3.6;27000;29000;28000;EUR;yearly;Madrid
+Grass Roots Group;Data Scientist;3.7;207;225;216;EUR;monthly;Madrid
+Adiant;Data Scientist;3.8;23000;25000;24000;EUR;yearly;Madrid
+Labelium;Data Scientist;3.8;26000;28000;27000;EUR;yearly;Madrid
+HipoGes Iberia;Data Scientist;3.9;29000;31000;30000;EUR;yearly;Madrid
+Ferrovial;Data Scientist;3.8;573;628;601;EUR;monthly;Madrid
+Glovo;Data Scientist;3.5;2000;2000;2000;EUR;monthly;Madrid
+Action Contre la Faim;Data Scientist;4.2;26000;28000;27000;EUR;yearly;Madrid
+Artefact;Data Scientist;4;46000;50000;48000;EUR;yearly;Madrid
+Scopely;Data Scientist;3.8;57000;62000;60000;EUR;yearly;Madrid
+Smartick;Data Scientist;4.3;32000;34000;33000;EUR;yearly;Madrid
+Pablo;Data Scientist;4.3;30000;32000;31000;EUR;yearly;Madrid
+Técnicas Reunidas;Data Scientist;3.9;40000;43000;41000;EUR;yearly;Madrid
+Apple;Data Scientist;4.1;29000;31000;30000;EUR;yearly;Madrid
+Universidad Carlos III de Madrid;Data Scientist;4;21000;23000;22000;EUR;yearly;Madrid
+Altran Corporation;Data Scientist;3.5;27000;29000;28000;EUR;yearly;Madrid
+Fullstep Networks;Data Scientist;3.3;29000;31000;30000;EUR;yearly;Madrid
+Findasense;Data Scientist;3.4;19000;21000;20000;EUR;yearly;Madrid
+MagicLamp Software;Data Scientist;5;43000;46000;45000;EUR;yearly;Madrid
+ESADE;Data Scientist;4.2;34000;37000;35000;EUR;yearly;Madrid
+Freelancer;Data Scientist;4.2;19000;21000;20000;EUR;yearly;Madrid
+Ignis;Data Scientist;4.1;27000;29000;28000;EUR;yearly;Madrid
+IKEA;Data Scientist;3.8;64000;69000;66000;EUR;yearly;Madrid
+MEGAMEDIA;Data Scientist;3.2;36000;39000;38000;EUR;yearly;Madrid
+Stealth Startup;Data Scientist;4.2;39000;43000;41000;EUR;yearly;Madrid
+YUMP;Data Scientist;4.5;45000;49000;47000;EUR;yearly;Madrid
+Arkeero;Data Scientist;3.3;39000;42000;40000;EUR;yearly;Madrid
+Stellantis;Data Scientist;3.6;34000;37000;35000;EUR;yearly;Madrid
+LLYC;Data Scientist;3.1;56000;60000;58000;EUR;yearly;Madrid
+Grupo Caja de Ingenieros;Data Scientist;3.5;37000;39000;38000;EUR;yearly;Madrid
+Idrica;Data Scientist;3.7;31000;33000;32000;EUR;yearly;Madrid
+Hays;Data Scientist;3.5;35000;37000;36000;EUR;yearly;Madrid
+Tendam;Data Scientist;3.4;31000;33000;32000;EUR;yearly;Madrid
+NEORIS;Data Scientist;4;28000;30000;29000;EUR;yearly;Madrid
+Quest Global;Data Scientist;3.7;24000;26000;25000;EUR;yearly;Madrid
+INNOVA Consulting Group;Data Scientist;-0.10000000149011612;46000;49000;48000;EUR;yearly;Madrid
+Swivel;Data Scientist;3.4;24000;26000;25000;EUR;yearly;Madrid
+Grupo CPS (Spain);Data Scientist;3.6;26000;28000;27000;EUR;yearly;Madrid
+WaveMaker;Data Scientist;4.1;22000;24000;23000;EUR;yearly;Madrid
+TomTom;Data Scientist;4;1000;1000;1000;EUR;monthly;Madrid
+IPG Mediabrands;Data Scientist;3.6;27000;29000;28000;EUR;yearly;Madrid
+Good Rebels;Data Scientist;3.8;34000;37000;36000;EUR;yearly;Madrid
+Amazon;Data Scientist;3.6;1000;1000;1000;EUR;monthly;Madrid
+BEONx;Data Scientist;4.8;26000;28000;27000;EUR;yearly;Madrid
+Roche Pharmaceuticals;Data Scientist;4.1;57000;62000;60000;EUR;yearly;Madrid
+ExxonMobil;Data Scientist;3.6;41000;44000;43000;EUR;yearly;Madrid
+Inbonis;Data Scientist;5;45000;50000;47000;EUR;yearly;Madrid
+Networks Test;Data Scientist;2.6;21000;23000;22000;EUR;yearly;Madrid
+Clintell Technology;Data Scientist;-0.10000000149011612;43000;47000;45000;EUR;yearly;Madrid
+EY-Parthenon;Data Scientist;3.8;39000;42000;40000;EUR;yearly;Madrid
+Iman Temporing;Data Scientist;3.7;16000;17000;16000;EUR;yearly;Madrid
+Serem;Data Scientist;3;36000;39000;38000;EUR;yearly;Madrid
+R&M Data Scientist;Data Scientist;4.5;45000;49000;47000;EUR;yearly;Madrid
+Kernel;Data Scientist;4.3;43000;47000;45000;EUR;yearly;Madrid
+Lynx Talent;Data Scientist;-0.10000000149011612;30000;33000;31000;EUR;yearly;Madrid
+Gyrus AI;Data Scientist;4.7;35000;38000;37000;EUR;yearly;Madrid
+Zenith Solar;Data Scientist;3.5;30000;32000;31000;EUR;yearly;Madrid
+Verisk;Data Scientist;4;53000;58000;55000;EUR;yearly;Madrid
+Transped;Data Scientist;2.6;1000;1000;1000;EUR;monthly;Madrid
+Building Outstanding Designs;Data Scientist;-0.10000000149011612;25000;27000;26000;EUR;yearly;Madrid
+Bravent;Data Scientist;4.2;48000;52000;50000;EUR;yearly;Madrid
+Foliume;Data Scientist;5;29000;31000;30000;EUR;yearly;Madrid
+BCC;Data Scientist;3.6;28000;30000;29000;EUR;yearly;Madrid
+Marconi International Usa;Data Scientist;5;44000;48000;46000;EUR;yearly;Madrid
+Page Personnel;Data Scientist;3.6;20000;22000;21000;EUR;yearly;Madrid
+Factoría F5;Data Scientist;4.6;29000;31000;30000;EUR;yearly;Madrid
+Acciona;Data Scientist;4;623;679;651;EUR;monthly;Madrid
+NEXO Professional Community;Data Scientist;-0.10000000149011612;26000;28000;27000;EUR;yearly;Madrid
+BABEL;Data Scientist;3.6;481;520;501;EUR;monthly;Madrid
+AXA Seguros;Data Scientist;4.1;29000;31000;30000;EUR;yearly;Madrid
+Caffè Nero;Data Scientist;3.3;54000;59000;56000;EUR;yearly;Madrid
+Datary;Data Scientist;-0.10000000149011612;57000;63000;60000;EUR;yearly;Madrid
+clipmgmt;Data Scientist;-0.10000000149011612;45000;49000;47000;EUR;yearly;Madrid
+Academia Sinica;Data Scientist;4.1;17000;19000;18000;EUR;yearly;Madrid
+TE Connectivity;Data Scientist;3.8;2000;2000;2000;EUR;monthly;Madrid
+Eurocontrol;Data Scientist;3;46000;50000;48000;EUR;yearly;Madrid
+GlobalTMS;Data Scientist;3.5;26000;28000;27000;EUR;yearly;Madrid
+DEKRA;Data Scientist;3.5;39000;41000;40000;EUR;yearly;Madrid
+Epic;Data Scientist;3.3;1000;1000;1000;EUR;monthly;Madrid
+Fotowatio Renewable Ventures;Data Scientist;4.1;35000;38000;36000;EUR;yearly;Madrid
+Ironhack;Data Scientist;3.5;24000;26000;25000;EUR;yearly;Madrid
+NET CHECK;Data Scientist;3.6;44000;48000;46000;EUR;yearly;Madrid
+Accenture;Data Scientist;3.8;48000;52000;50000;EUR;yearly;Madrid
+NorayBio;Data Scientist;3.6;23000;25000;24000;EUR;yearly;Madrid
+ETS Asset Management Factory;Data Scientist;3.4;676;723;700;EUR;monthly;Madrid
+Nubentos;Data Scientist;5;29000;31000;30000;EUR;yearly;Madrid
+Comunidad de Madrid;Data Scientist;3.9;2;2;2;EUR;hourly;Madrid
+SATEC (Spain);Data Scientist;4.5;581;619;600;EUR;monthly;Madrid
+Paro;Data Scientist;2.9;10000;10000;10000;EUR;yearly;Madrid
+BBVA;Data Scientist;4.2;31000;33000;32000;EUR;yearly;Madrid
+BNP Paribas;Data Scientist;3.8;38000;42000;40000;EUR;yearly;Madrid
+British Council;Data Scientist;3.7;26000;28000;27000;EUR;yearly;Madrid
+Indra Renewable Technologies;Data Scientist;3.8;26000;28000;27000;EUR;yearly;Madrid
+AnalyticAlways;Data Scientist;3.3;43000;46000;45000;EUR;yearly;Madrid
+Experius IT Consultancy;Data Scientist;-0.10000000149011612;29000;31000;30000;EUR;yearly;Madrid
+SelfEmployed.com;Data Scientist;4.4;48000;52000;50000;EUR;yearly;Madrid
+Mapfre;Data Scientist;3.9;674;729;701;EUR;monthly;Madrid
+FLYDE;Data Scientist;5;29000;31000;30000;EUR;yearly;Madrid
+Oliver Wyman;Data Scientist;4.1;57000;62000;60000;EUR;yearly;Madrid
+freelance;Data Scientist;4.2;5000;5000;5000;EUR;monthly;Madrid
+Procesia Proyectos y Servicios;Data Scientist;3.7;37000;39000;38000;EUR;yearly;Madrid
+The Hotels Network;Data Scientist;4.6;27000;29000;28000;EUR;yearly;Madrid
+Doofinder;Data Scientist;3.8;24000;26000;25000;EUR;yearly;Madrid
+Astrata;Data Scientist;3.5;37000;41000;39000;EUR;yearly;Madrid
+Ericsson IT Solutions & Services;Data Scientist;4;33000;36000;35000;EUR;yearly;Madrid
+Zensar Technologies;Data Scientist;3.9;48000;53000;51000;EUR;yearly;Madrid
+Emerson;Data Scientist;3.9;29000;31000;30000;EUR;yearly;Madrid
+Repsol;Data Scientist;4;36000;39000;37000;EUR;yearly;Madrid
+Mercanza;Data Scientist;3.9;864;938;901;EUR;monthly;Madrid
+BBVA;Data Scientist;4.2;53000;58000;55000;EUR;yearly;Madrid
+System to Increase Quality and Knowledge;Data Scientist;5;15000;17000;16000;EUR;yearly;Madrid
+Ryanair DAC;Data Scientist;3.3;44000;48000;46000;EUR;yearly;Madrid
+Instituto Superior Politécnico José Antonio Echeverría;Data Scientist;3.1;1000;2000;2000;EUR;monthly;Madrid
+Altoro Analytics;Data Scientist;-0.10000000149011612;1000;1000;1000;EUR;monthly;Madrid
+BNP Paribas;Data Scientist;3.8;2000;2000;2000;EUR;monthly;Madrid
+BBVA;Data Scientist;4.2;1000;2000;2000;EUR;monthly;Madrid
+Cheil;Data Scientist;3;55000;59000;57000;EUR;yearly;Madrid
+sngular;Data Scientist;4.2;43000;47000;45000;EUR;yearly;Madrid
+TFS HealthScience;Data Scientist;3.7;48000;52000;50000;EUR;yearly;Madrid
+Analistas Financieros Internacionales;Data Scientist;3.8;23000;25000;24000;EUR;yearly;Madrid
+alfanar;Data Scientist;4;29000;31000;30000;EUR;yearly;Madrid
+Lagertha;Data Scientist;-0.10000000149011612;34000;36000;35000;EUR;yearly;Madrid
+Instituto de Salud Carlos III;Data Scientist;3.6;43000;47000;45000;EUR;yearly;Madrid
+Aplicaciones en Informática Avanzada;Data Scientist;2.9;34000;38000;36000;EUR;yearly;Madrid
+Factoría Ambiental;Data Scientist;5;2000;3000;2000;EUR;monthly;Madrid
+CrediMarket;Data Scientist;4;39000;42000;40000;EUR;yearly;Madrid
+Universidade Estácio de Sá;Data Scientist;3.9;1000;1000;1000;EUR;monthly;Madrid
+Avansis;Data Scientist;1.4;46000;50000;48000;EUR;yearly;Madrid
+Randstad;Data Scientist;3.7;24000;26000;25000;EUR;yearly;Madrid
+Rural Servicios Informáticos;Data Scientist;3.9;22000;24000;23000;EUR;yearly;Madrid
+Idealista.com;Data Scientist;3.8;43000;47000;45000;EUR;yearly;Madrid
+Amadeus Fire;Data Scientist;3.7;24000;26000;25000;EUR;yearly;Madrid
+Vizzuality;Data Scientist;4.6;29000;31000;30000;EUR;yearly;Madrid
+Subway;Data Scientist;3.4;38000;42000;40000;EUR;yearly;Madrid
+Ferretech Herramega;Data Scientist;-0.10000000149011612;45000;49000;47000;EUR;yearly;Madrid
+Frenetic;Data Scientist;2.9;26000;28000;27000;EUR;yearly;Madrid
+Foqum;Data Scientist;-0.10000000149011612;33000;37000;35000;EUR;yearly;Madrid
+MACSF;Data Scientist;3.7;144000;156000;150000;EUR;yearly;Madrid
+Infoser New Tecnologies;Data Scientist;3.1;35000;39000;37000;EUR;yearly;Madrid
+@WORK;Data Scientist;3.3;39000;42000;40000;EUR;yearly;Madrid
+Banco Popular Español;Data Scientist;3.1;45000;50000;48000;EUR;yearly;Madrid
+Comunicación Creativa Manifiesto;Data Scientist;3.3;29000;31000;30000;EUR;yearly;Madrid
+Universidad Politécnica de Madrid;Data Scientist;3.9;17000;19000;18000;EUR;yearly;Madrid
+Comunidad de Madrid;Data Scientist;3.9;19000;21000;20000;EUR;yearly;Madrid
+MIOTI;Data Scientist;4;31000;33000;32000;EUR;yearly;Madrid
+Inetum;Data Scientist;3.3;25000;27000;26000;EUR;yearly;Madrid
+CGI;Data Scientist;3.8;30000;32000;31000;EUR;yearly;Madrid
+Cabify;Data Scientist;3.8;533;571;552;EUR;monthly;Madrid
+Universidad de La Habana;Data Scientist;4;29000;31000;30000;EUR;yearly;Madrid
+Aubay;Data Scientist;3.5;28000;30000;29000;EUR;yearly;Madrid
+Olympic Channel Services;Data Scientist;3.9;43000;47000;45000;EUR;yearly;Madrid
+Galgus;Data Scientist;3.4;904;983;943;EUR;monthly;Madrid
+Bank of America;Data Scientist;3.9;126000;135000;131000;EUR;yearly;Madrid
+Mapfre;Data Scientist;3.9;772;827;799;EUR;monthly;Madrid
+Between;Data Scientist;4.1;38000;42000;40000;EUR;yearly;Madrid
+Nebulova Solutions;Data Scientist;1;46000;50000;48000;EUR;yearly;Madrid
+Big Data Scientists;Data Scientist;4.6;33000;35000;34000;EUR;yearly;Madrid
+ArcelorMittal;Data Scientist;4;336;367;352;EUR;monthly;Madrid
+Vocento;Data Scientist;3.3;27000;29000;28000;EUR;yearly;Madrid
+Talent Search People;Data Scientist;2.6;39000;42000;40000;EUR;yearly;Madrid
+Generali;Data Scientist;3.7;476;516;496;EUR;monthly;Madrid
+Ferrovial;Data Scientist;3.8;37000;41000;39000;EUR;yearly;Madrid
+baobab soluciones;Data Scientist;-0.10000000149011612;23000;25000;24000;EUR;yearly;Madrid
+Goal Systems;Data Scientist;3.3;17000;19000;18000;EUR;yearly;Madrid
+SGS Consulting;Data Scientist;4.1;22000;24000;23000;EUR;yearly;Madrid
+Hitachi Energy;Data Scientist;4.1;53000;58000;55000;EUR;yearly;Madrid
+Pursuit Collection;Data Scientist;3.2;12000;12000;12000;EUR;yearly;Madrid
+The HEINEKEN Company;Data Scientist;4.3;51000;55000;53000;EUR;yearly;Madrid
+Accenture;Data Scientist;3.8;721;779;750;EUR;monthly;Madrid
+Ditech (Spain);Data Scientist;3.8;31000;33000;32000;EUR;yearly;Madrid
+LG Electronics;Data Scientist;3.5;29000;31000;30000;EUR;yearly;Madrid
+Merkle;Data Scientist;3.6;23000;25000;24000;EUR;yearly;Madrid
+StyleSage;Data Scientist;5;43000;47000;45000;EUR;yearly;Madrid
+Mott MacDonald;Data Scientist;4;35000;38000;37000;EUR;yearly;Madrid
+iryo;Data Scientist;3.4;25000;27000;26000;EUR;yearly;Madrid
+Gi Group Holding;Data Scientist;3.6;28000;30000;29000;EUR;yearly;Madrid
+Vivo (Telefônica Brasil);Data Scientist;4.5;29000;31000;30000;EUR;yearly;Madrid
+HPE COXA;Data Scientist;4.1;31000;33000;32000;EUR;yearly;Madrid
+Gobierno de Aragón;Data Scientist;3.6;31000;34000;32000;EUR;yearly;Madrid
+CoHispania;Data Scientist;4.4;19000;21000;20000;EUR;yearly;Madrid
+LCC España;Data Scientist;2.9;29000;31000;30000;EUR;yearly;Madrid
+Pipet Lab;Data Scientist;4;24000;26000;25000;EUR;yearly;Madrid
+Ada;Data Scientist;3.5;27000;29000;28000;EUR;yearly;Madrid
+SegurCaixa Adeslas;Data Scientist;3.6;24000;26000;25000;EUR;yearly;Madrid
+CoworkIntel;Data Scientist;5;37000;40000;38000;EUR;yearly;Madrid
+No Name;Data Scientist;3.6;29000;31000;30000;EUR;yearly;Madrid
+SLB;Data Scientist;4;48000;52000;50000;EUR;yearly;Madrid
+Stratio;Data Scientist;3.1;45000;49000;47000;EUR;yearly;Madrid
+Janssen;Data Scientist;3.9;37000;39000;38000;EUR;yearly;Madrid
+Chiara;Data Scientist;4;20000;22000;21000;EUR;yearly;Madrid
+Universidad Rey Juan Carlos;Data Scientist;3.8;29000;31000;30000;EUR;yearly;Madrid
+Levi Strauss;Data Scientist;3.9;48000;52000;50000;EUR;yearly;Madrid
+Bestinver;Data Scientist;3.9;45000;49000;47000;EUR;yearly;Madrid
+Minsait;Data Scientist;3.8;29000;31000;30000;EUR;yearly;Madrid
+Aptitude Global;Data Scientist;4.2;41000;45000;43000;EUR;yearly;Madrid
+Meteologica;Data Scientist;4.9;56000;60000;58000;EUR;yearly;Madrid
+Generali;Data Scientist;3.7;481;524;502;EUR;monthly;Madrid
+Sila Solutions Group;Data Scientist;4.4;19000;21000;20000;EUR;yearly;Madrid
+TeleMail DirektMarketing;Data Scientist;-0.10000000149011612;31000;33000;32000;EUR;yearly;Madrid
+Northside Hospital;Data Scientist;4.4;48000;52000;50000;EUR;yearly;Madrid
+Rede Marista;Data Scientist;4.4;13000;15000;14000;EUR;yearly;Madrid
+INSTITUT DE RECERCA BIOMÈDICA DE LLEIDA;Data Scientist;3.6;19000;21000;20000;EUR;yearly;Madrid
+Gestamp;Data Scientist;3.6;1000;1000;1000;EUR;monthly;Madrid
+DeJames Builders;Data Scientist;2.5;19000;21000;20000;EUR;yearly;Madrid
+Kabel;Data Scientist;4.2;25000;27000;26000;EUR;yearly;Madrid
+Adecco Group;Data Scientist;3.5;2000;2000;2000;EUR;monthly;Madrid
+Fintonic;Data Scientist;3.5;288;309;299;EUR;monthly;Madrid
+Airbus;Data Scientist;4.2;836;908;872;EUR;monthly;Madrid
+QueBueno;Data Scientist;4.3;33000;37000;35000;EUR;yearly;Madrid
+Zurich Insurance;Data Scientist;4.3;48000;52000;50000;EUR;yearly;Madrid
+Mphasis;Data Scientist;3.4;39000;42000;40000;EUR;yearly;Madrid
+AbbVie;Data Scientist;4;48000;52000;50000;EUR;yearly;Madrid
+CSIC;Data Scientist;3.8;58000;62000;60000;EUR;yearly;Madrid
+Allianz;Data Scientist;4;58000;62000;60000;EUR;yearly;Madrid
+BASE life science;Data Scientist;3.9;40000;44000;42000;EUR;yearly;Madrid
+Zimmer Biomet;Data Scientist;3.6;48000;52000;50000;EUR;yearly;Madrid
+DOCOMO Digital;Data Scientist;3.8;45000;49000;47000;EUR;yearly;Madrid
+En GantaBI;Data Scientist;-0.10000000149011612;45000;49000;47000;EUR;yearly;Madrid
+JOT Internet Media;Data Scientist;4;35000;38000;36000;EUR;yearly;Madrid
+Amadeus;Data Scientist;4.3;40000;44000;42000;EUR;yearly;Madrid
+8Belts;Data Scientist;2.8;20000;22000;21000;EUR;yearly;Madrid
+Universidad Politécnica de Madrid;Data Scientist;3.9;956;1000;1000;EUR;monthly;Madrid
+ACCIONA;Data Scientist;4.1;34000;37000;36000;EUR;yearly;Madrid
+Accentue;Data Scientist;4.2;618;677;648;EUR;monthly;Madrid
+Savills;Data Scientist;3.9;24000;26000;25000;EUR;yearly;Madrid
+Capita;Data Scientist;3;45000;48000;47000;EUR;yearly;Madrid
+Alter;Data Scientist;3.8;46000;49000;47000;EUR;yearly;Madrid
+Quibim;Data Scientist;4.9;34000;37000;35000;EUR;yearly;Madrid
+Compass Group;Data Scientist;3.4;25000;27000;26000;EUR;yearly;Madrid
+Saptools Consulting;Data Scientist;2.8;46000;49000;48000;EUR;yearly;Madrid
+CoachHub;Data Scientist;3.8;115000;124000;119000;EUR;yearly;Madrid
+The Olin Group;Data Scientist;4.2;23000;25000;24000;EUR;yearly;Madrid
+Avianca;Data Scientist;4.1;96000;104000;100000;EUR;yearly;Madrid
+Secuoyas;Data Scientist;3.1;26000;28000;27000;EUR;yearly;Madrid
+The CT Engineering Group;Data Scientist;3.9;30000;32000;31000;EUR;yearly;Madrid
+Alkemy;Data Scientist;3.6;965;1000;1000;EUR;monthly;Madrid
+Irium;Data Scientist;2.4;35000;37000;36000;EUR;yearly;Madrid
+Roura & Cevasa;Data Scientist;4;34000;37000;36000;EUR;yearly;Madrid
+Centro de Cirugía de Mínima Invasión Jesús Usón;Data Scientist;1.7;14000;16000;15000;EUR;yearly;Madrid
+Grupo Inmoglaciar;Data Scientist;3.4;43000;47000;45000;EUR;yearly;Madrid
+Hispatec Analytics;Data Scientist;5;26000;28000;27000;EUR;yearly;Madrid
+ASTARA;Data Scientist;3.4;40000;44000;42000;EUR;yearly;Madrid
+Orange Business;Data Scientist;4;48000;52000;50000;EUR;yearly;Madrid
+Panel Sistemas Informáticos;Data Scientist;4;26000;28000;27000;EUR;yearly;Madrid
+May Business Consulting;Data Scientist;3.7;25000;27000;26000;EUR;yearly;Madrid
+SENER;Data Scientist;4.2;38000;41000;40000;EUR;yearly;Madrid
+Toptal;Data Scientist;3.5;76000;84000;80000;EUR;yearly;Madrid
+Vasalto Tech & Talent;Data Scientist;3;29000;31000;30000;EUR;yearly;Madrid
+Novabase;Data Scientist;3.6;24000;26000;25000;EUR;yearly;Madrid
+NetCheck;Data Scientist;3.8;40000;44000;42000;EUR;yearly;Madrid
+Universidad Autónoma de Madrid;Data Scientist;3.3;33000;36000;35000;EUR;yearly;Madrid
+Arfima Trading;Data Scientist;3.3;17000;19000;18000;EUR;yearly;Madrid
+Cofares;Data Scientist;3.6;27000;29000;28000;EUR;yearly;Madrid
+Moody's;Data Scientist;3.9;53000;58000;56000;EUR;yearly;Madrid
+Meta;Data Scientist;3.9;38000;42000;40000;EUR;yearly;Madrid
+Besoftware;Data Scientist;3.4;289;315;302;EUR;monthly;Madrid
+Pepe's Piri Piri;Data Scientist;3.9;10;10;10;EUR;hourly;Madrid
+MACC Residencial;Data Scientist;3.8;764;827;795;EUR;monthly;Madrid
+GMV;Data Scientist;4.2;24000;26000;25000;EUR;yearly;Madrid
+Inetum;Data Scientist;3.2;21000;23000;22000;EUR;yearly;Madrid
+Pompeii;Data Scientist;5;25000;27000;26000;EUR;yearly;Madrid
+Innaxis;Data Scientist;5;32000;35000;33000;EUR;yearly;Madrid
+DataJuicers;Data Scientist;5;38000;41000;40000;EUR;yearly;Madrid
+Luca TIC;Data Scientist;3.2;20000;22000;21000;EUR;yearly;Madrid
+Geoban;Data Scientist;3.2;1000;1000;1000;EUR;monthly;Madrid
+Manpower;Data Scientist;4.1;23000;25000;24000;EUR;yearly;Madrid
+Geotab;Data Scientist;3.8;46000;50000;48000;EUR;yearly;Madrid
+Freelance;Data Scientist;4.2;4000;5000;5000;EUR;monthly;Madrid
+Signify;Data Scientist;3.5;53000;57000;55000;EUR;yearly;Madrid
+Smart Protection;Data Scientist;3.5;14000;16000;15000;EUR;yearly;Madrid
+Walmeric Soluciones;Data Scientist;3.7;29000;31000;30000;EUR;yearly;Madrid
+Capgemini;Data Scientist;3.8;484;523;504;EUR;monthly;Madrid
+Santillana;Data Scientist;3.5;46000;49000;48000;EUR;yearly;Madrid
+Isdefe;Data Scientist;3.6;29000;31000;30000;EUR;yearly;Madrid
+Inserta Empleo;Data Scientist;3.5;32000;34000;33000;EUR;yearly;Madrid
+Blueliv;Data Scientist;3.8;27000;29000;28000;EUR;yearly;Madrid
+Artelnics;Data Scientist;2.2;23000;25000;24000;EUR;yearly;Madrid
+Logisfashion;Data Scientist;2.9;25000;27000;26000;EUR;yearly;Madrid
+NTT DATA;Data Scientist;3.8;29000;31000;30000;EUR;yearly;Madrid
+Tempotel;Data Scientist;4;25000;27000;26000;EUR;yearly;Madrid
+Autonomo;Data Scientist;4.4;2000;2000;2000;EUR;monthly;Madrid
+NPR Software;Data Scientist;-0.10000000149011612;31000;33000;32000;EUR;yearly;Madrid
+AXA / France;Data Scientist;4.1;34000;37000;36000;EUR;yearly;Madrid
+Nielsen;Data Scientist;3.3;2000;2000;2000;EUR;monthly;Madrid
+Satellogic;Data Scientist;3.8;35000;37000;36000;EUR;yearly;Madrid
+FH2L Arquitectos;Data Scientist;4;29000;31000;30000;EUR;yearly;Madrid
+Sum (Spain);Data Scientist;-0.10000000149011612;29000;31000;30000;EUR;yearly;Madrid
+Universidad Internacional de La Rioja;Data Scientist;3.2;38000;41000;40000;EUR;yearly;Madrid
+Centro de Astrobiología;Data Scientist;4;15000;17000;16000;EUR;yearly;Madrid
+Electronic Arts;Data Scientist;4.1;29000;31000;30000;EUR;yearly;Madrid
+Walt Disney Company;Data Scientist;3.9;62000;68000;65000;EUR;yearly;Madrid
+Agence de l'eau Loire-Bretagne;Data Scientist;3.7;37000;40000;38000;EUR;yearly;Madrid
+THE BRIDGE (Spain);Data Scientist;3.5;29000;31000;30000;EUR;yearly;Madrid
+Seedtag;Data Scientist;3.9;4000;5000;5000;EUR;monthly;Madrid
+Amadix.;Data Scientist;-0.10000000149011612;48000;52000;50000;EUR;yearly;Madrid
+NBQ Systems;Data Scientist;5;23000;25000;24000;EUR;yearly;Madrid
+CEIEC;Data Scientist;3.4;1000;1000;1000;EUR;monthly;Madrid
+Unicaja;Data Scientist;2.9;43000;47000;45000;EUR;yearly;Madrid
+University of Valencia;Data Scientist;4.1;1000;1000;1000;EUR;monthly;Madrid
+Voodoo;Data Scientist;4.4;59000;64000;62000;EUR;yearly;Madrid
+Kairós;Data Scientist;4.3;476;523;499;EUR;monthly;Madrid
+Holcim;Data Scientist;3.8;43000;47000;45000;EUR;yearly;Madrid
+WayOps;Data Scientist;2.5;29;31;30;EUR;hourly;Madrid
+Robert Bosch;Data Scientist;4.2;773;824;799;EUR;monthly;Madrid
+Verisure;Data Scientist;3.3;573;625;599;EUR;monthly;Madrid
+bchange;Data Scientist;1;38000;41000;40000;EUR;yearly;Madrid
+Tidart Digital Media & Data Agency;Data Scientist;4.2;26000;28000;27000;EUR;yearly;Madrid
+Bjumper;Data Scientist;4.3;29000;31000;30000;EUR;yearly;Madrid
+GFT Technologies;Data Scientist;4.3;53000;57000;55000;EUR;yearly;Madrid
+Driblab;Data Scientist;5;24000;26000;25000;EUR;yearly;Madrid
+Universidad de Navarra;Data Scientist;4.3;34000;36000;35000;EUR;yearly;Madrid
+SGS;Data Scientist;3.3;29000;31000;30000;EUR;yearly;Madrid
+Ypióca;Data Scientist;4.6;24000;26000;25000;EUR;yearly;Madrid
