@@ -32,7 +32,7 @@ Paack;Data Engineer;2.8;38000;50000;50000;EUR;yearly;Barcelona
 Contentsquare;Data Engineer;3.5;67000;73000;72000;EUR;yearly;Barcelona
 Mad Collective;Data Engineer;3.3;47000;48000;48000;EUR;yearly;Barcelona
 SEIDOR;Data Engineer;3.9;37000;55000;45000;EUR;yearly;Barcelona
-Chartboost;Data Engineer;3;50000;66000;50000;EUR;yearly;Barcelona
+Chartboost;Data Engineer;3.3;50000;66000;50000;EUR;yearly;Barcelona
 Sage;Data Engineer;3.5;48000;57000;56000;EUR;yearly;Barcelona
 Socialpoint;Data Engineer;4.1;40000;40000;40000;EUR;yearly;Barcelona
 WIRIS;Data Engineer;3.7;37000;49000;40000;EUR;yearly;Barcelona
@@ -46,7 +46,7 @@ Thoughtworks;Data Engineer;3.9;59000;128000;94000;EUR;yearly;Barcelona
 Nnergix;Data Engineer;5;42000;44000;43000;EUR;yearly;Barcelona
 Nestlé;Data Engineer;4.1;24000;60000;42000;EUR;yearly;Barcelona
 Barcelona Supercomputing Center;Data Engineer;3.9;30000;33000;32000;EUR;yearly;Barcelona
-ERNI;Data Engineer;4;34000;50000;42000;EUR;yearly;Barcelona
+ERNI;Data Engineer;3.8;34000;50000;42000;EUR;yearly;Barcelona
 The Keenfolks;Data Engineer;2.2;34000;41000;38000;EUR;yearly;Barcelona
 Prenomics;Data Engineer;4;22000;30000;26000;EUR;yearly;Barcelona
 Glovo;Data Engineer;3.5;69000;69000;69000;EUR;yearly;Barcelona
@@ -62,7 +62,7 @@ Kabel;Data Engineer;4.2;32000;52000;42000;EUR;yearly;Barcelona
 Bitpanda;Data Engineer;3.8;65000;80000;73000;EUR;yearly;Barcelona
 Driven by Data;Data Engineer;-0.10000000149011612;40000;42000;41000;EUR;yearly;Barcelona
 Koa Health Digital Solutions;Data Engineer;3.2;50000;70000;60000;EUR;yearly;Barcelona
-Typeform;Data Engineer;3.4;55000;63000;59000;EUR;yearly;Barcelona
+Typeform;Data Engineer;3.3;55000;63000;59000;EUR;yearly;Barcelona
 InnoIT;Data Engineer;4.2;42000;50000;46000;EUR;yearly;Barcelona
 AWWG;Data Engineer;2.9;36000;36000;36000;EUR;yearly;Barcelona
 PepsiCo;Data Engineer;3.9;53000;55000;54000;EUR;yearly;Barcelona
@@ -78,129 +78,129 @@ Manomano;Data Engineer;3.8;40000;53000;47000;EUR;yearly;Barcelona
 Veepee;Data Engineer;3.5;40000;49000;45000;EUR;yearly;Barcelona
 Zenital;Data Engineer;3.1;30000;35000;33000;EUR;yearly;Barcelona
 Simon Fraser University;Data Engineer;4;19000;21000;20000;EUR;yearly;Barcelona
-Banco Sabadell;Data Engineer;3.8;37000;40000;39000;EUR;yearly;Barcelona
-Freelancer;Data Engineer;4.2;39000;42000;40000;EUR;yearly;Barcelona
+Banco Sabadell;Data Engineer;3.8;37000;40000;38000;EUR;yearly;Barcelona
+Freelancer;Data Engineer;4.2;38000;41000;40000;EUR;yearly;Barcelona
 Simon Electric;Data Engineer;4.2;34000;36000;35000;EUR;yearly;Barcelona
 Leadtech (Spain);Data Engineer;4.2;36000;40000;38000;EUR;yearly;Barcelona
 Rakuten TV;Data Engineer;3.8;2000;3000;2000;EUR;monthly;Barcelona
-Abast;Data Engineer;3.8;38000;41000;40000;EUR;yearly;Barcelona
-Digital Point;Data Engineer;4;1000;2000;2000;EUR;monthly;Barcelona
-The Hokus Platform;Data Engineer;4.7;62000;67000;64000;EUR;yearly;Barcelona
+Abast;Data Engineer;3.8;38000;42000;40000;EUR;yearly;Barcelona
+Digital Point;Data Engineer;4;1000;2000;1000;EUR;monthly;Barcelona
+The Hokus Platform;Data Engineer;4.7;62000;68000;65000;EUR;yearly;Barcelona
 Izertis;Data Engineer;2.9;32000;34000;33000;EUR;yearly;Barcelona
 VASS;Data Engineer;4;45000;49000;47000;EUR;yearly;Barcelona
 El Corte Inglés;Data Engineer;3.5;43000;47000;45000;EUR;yearly;Barcelona
 elternativa;Data Engineer;1.8;27000;29000;28000;EUR;yearly;Barcelona
-Factor Energia;Data Engineer;2.5;38000;41000;40000;EUR;yearly;Barcelona
-Kiwi.com;Data Engineer;3.6;46000;49000;48000;EUR;yearly;Barcelona
+Factor Energia;Data Engineer;2.5;38000;42000;40000;EUR;yearly;Barcelona
+Kiwi.com;Data Engineer;3.6;45000;49000;47000;EUR;yearly;Barcelona
 Grupo CTAIMA;Data Engineer;3.3;1000;1000;1000;EUR;monthly;Barcelona
 Hiberus Tecnología;Data Engineer;3.7;24000;26000;25000;EUR;yearly;Barcelona
 Altia (Spain);Data Engineer;3.5;31000;33000;32000;EUR;yearly;Barcelona
 DocPlanner;Data Engineer;4.5;34000;38000;36000;EUR;yearly;Barcelona
 International Education City;Data Engineer;1;23000;25000;24000;EUR;yearly;Barcelona
-Talent Up;Data Engineer;5;38000;42000;40000;EUR;yearly;Barcelona
-Boycor;Data Engineer;4.2;38000;41000;40000;EUR;yearly;Barcelona
-Test;Data Engineer;4;45000;48000;47000;EUR;yearly;Barcelona
+Talent Up;Data Engineer;5;39000;42000;40000;EUR;yearly;Barcelona
+Boycor;Data Engineer;4.2;39000;42000;40000;EUR;yearly;Barcelona
+Test;Data Engineer;4;44000;48000;46000;EUR;yearly;Barcelona
 Teladoc Health;Data Engineer;3.3;48000;52000;50000;EUR;yearly;Barcelona
-TravelPerk;Data Engineer;4.1;53000;58000;55000;EUR;yearly;Barcelona
-PUIG;Data Engineer;3.7;40000;44000;42000;EUR;yearly;Barcelona
-HP Inc.;Data Engineer;4.1;34000;37000;36000;EUR;yearly;Barcelona
-Sportium;Data Engineer;3.3;38000;41000;40000;EUR;yearly;Barcelona
+TravelPerk;Data Engineer;4.1;53000;57000;55000;EUR;yearly;Barcelona
+PUIG;Data Engineer;3.7;40000;43000;42000;EUR;yearly;Barcelona
+HP Inc.;Data Engineer;4.1;34000;37000;35000;EUR;yearly;Barcelona
+Sportium;Data Engineer;3.3;38000;42000;40000;EUR;yearly;Barcelona
 ISDIN;Data Engineer;4;72000;78000;75000;EUR;yearly;Barcelona
 CatSalut. Catalan Health Service;Data Engineer;2.9;39000;42000;40000;EUR;yearly;Barcelona
 Universitat Oberta de Catalunya;Data Engineer;3.8;31000;34000;33000;EUR;yearly;Barcelona
 NTT DATA;Data Engineer;3.8;8;8;8;EUR;hourly;Barcelona
-GFT;Data Engineer;4.3;38000;42000;40000;EUR;yearly;Barcelona
-Keyrus;Data Engineer;4.1;26000;29000;27000;EUR;yearly;Barcelona
+GFT;Data Engineer;4.3;38000;41000;40000;EUR;yearly;Barcelona
+Keyrus;Data Engineer;4.1;26000;28000;27000;EUR;yearly;Barcelona
 Ironhack;Data Engineer;3.5;2000;2000;2000;EUR;monthly;Barcelona
 MediaMarkt;Data Engineer;3.4;37000;40000;38000;EUR;yearly;Barcelona
-Proppos;Data Engineer;-0.10000000149011612;13000;13000;13000;EUR;yearly;Barcelona
+Proppos;Data Engineer;-0.10000000149011612;12000;13000;13000;EUR;yearly;Barcelona
 BLING;Data Engineer;4.1;48000;52000;50000;EUR;yearly;Barcelona
-Oxigent;Data Engineer;4.3;39000;42000;40000;EUR;yearly;Barcelona
-Sandsoft;Data Engineer;3.3;53000;58000;55000;EUR;yearly;Barcelona
+Oxigent;Data Engineer;4.3;38000;42000;40000;EUR;yearly;Barcelona
+Sandsoft;Data Engineer;3.3;52000;57000;55000;EUR;yearly;Barcelona
 Burger King;Data Engineer;3.4;19000;21000;20000;EUR;yearly;Barcelona
-Tiendeo;Data Engineer;3.1;34000;37000;35000;EUR;yearly;Barcelona
-ID Finance;Data Engineer;3.6;96000;104000;100000;EUR;yearly;Barcelona
-Heroes Technology;Data Engineer;4.1;62000;68000;65000;EUR;yearly;Barcelona
+Tiendeo;Data Engineer;3.1;34000;36000;35000;EUR;yearly;Barcelona
+ID Finance;Data Engineer;3.6;96000;105000;100000;EUR;yearly;Barcelona
+Heroes Technology;Data Engineer;4.1;62000;67000;65000;EUR;yearly;Barcelona
 Appodeal Stack;Data Engineer;4.3;5000;5000;5000;EUR;monthly;Barcelona
 Mitek Systems;Data Engineer;3.9;29000;31000;30000;EUR;yearly;Barcelona
-The Knot Worldwide;Data Engineer;3.3;44000;46000;45000;EUR;yearly;Barcelona
+The Knot Worldwide;Data Engineer;3.3;43000;47000;45000;EUR;yearly;Barcelona
 Accenture Solutions;Data Engineer;3.9;24000;26000;25000;EUR;yearly;Barcelona
-Scopely;Data Engineer;3.8;36000;39000;38000;EUR;yearly;Barcelona
+Scopely;Data Engineer;3.9;36000;39000;38000;EUR;yearly;Barcelona
 Biorem Biomedical Engineering;Data Engineer;-0.10000000149011612;29000;31000;30000;EUR;yearly;Barcelona
 Omya;Data Engineer;3.4;48000;52000;50000;EUR;yearly;Barcelona
 Amadeus;Data Engineer;4.1;45000;49000;47000;EUR;yearly;Barcelona
 ForceManager;Data Engineer;4.1;28000;30000;29000;EUR;yearly;Barcelona
-Sphera Investment;Data Engineer;1;43000;46000;45000;EUR;yearly;Barcelona
+Sphera Investment;Data Engineer;1;44000;47000;45000;EUR;yearly;Barcelona
 ZYMVOL;Data Engineer;4;38000;42000;40000;EUR;yearly;Barcelona
-Cognizant Technology Solutions;Data Engineer;3.7;36000;39000;38000;EUR;yearly;Barcelona
+Cognizant Technology Solutions;Data Engineer;3.7;36000;40000;38000;EUR;yearly;Barcelona
 Omega CRM;Data Engineer;4.1;45000;49000;47000;EUR;yearly;Barcelona
 BaseTIS;Data Engineer;3.5;27000;29000;28000;EUR;yearly;Barcelona
 SoftwareOne;Data Engineer;3.9;31000;34000;32000;EUR;yearly;Barcelona
-Craft.co;Data Engineer;3.6;96000;103000;100000;EUR;yearly;Barcelona
-Alden Network;Data Engineer;3;29000;31000;30000;EUR;yearly;Barcelona
+Craft.co;Data Engineer;3.6;96000;104000;100000;EUR;yearly;Barcelona
+Alden Network;Data Engineer;2.9;29000;31000;30000;EUR;yearly;Barcelona
 SoloLearn;Data Engineer;4.1;57000;62000;60000;EUR;yearly;Barcelona
 Promefarma;Data Engineer;3.1;34000;36000;35000;EUR;yearly;Barcelona
-GFT Technologies;Data Engineer;4.3;38000;42000;40000;EUR;yearly;Barcelona
+GFT Technologies;Data Engineer;4.2;39000;42000;40000;EUR;yearly;Barcelona
 Labkafe;Data Engineer;4.3;24000;26000;25000;EUR;yearly;Barcelona
 FXStreet;Data Engineer;3.1;40000;44000;42000;EUR;yearly;Barcelona
-ZITRO;Data Engineer;3.6;35000;37000;36000;EUR;yearly;Barcelona
-Superside;Data Engineer;4.4;87000;93000;90000;EUR;yearly;Barcelona
+ZITRO;Data Engineer;3.6;35000;38000;36000;EUR;yearly;Barcelona
+Superside;Data Engineer;4.4;86000;93000;90000;EUR;yearly;Barcelona
 Thoughtworks;Data Engineer;3.9;72000;78000;75000;EUR;yearly;Barcelona
-CAS TRAINING;Data Engineer;2.9;45000;49000;47000;EUR;yearly;Barcelona
-Afterpay;Data Engineer;4;76000;82000;79000;EUR;yearly;Barcelona
+CAS TRAINING;Data Engineer;2.9;45000;48000;47000;EUR;yearly;Barcelona
+Afterpay;Data Engineer;3.9;76000;82000;79000;EUR;yearly;Barcelona
 Scytl;Data Engineer;3.5;29000;31000;30000;EUR;yearly;Barcelona
 Retirement Plan Concepts & Services;Data Engineer;3.6;43000;47000;45000;EUR;yearly;Barcelona
-Paack;Data Engineer;2.8;37000;40000;39000;EUR;yearly;Barcelona
-Schwarz IT;Data Engineer;3.6;58000;63000;60000;EUR;yearly;Barcelona
+Paack;Data Engineer;2.8;37000;41000;39000;EUR;yearly;Barcelona
+Schwarz IT;Data Engineer;3.6;58000;62000;60000;EUR;yearly;Barcelona
 Strategic Platform;Data Engineer;4;43000;47000;45000;EUR;yearly;Barcelona
-Bobo Choses;Data Engineer;3;41000;45000;43000;EUR;yearly;Barcelona
+Bobo Choses;Data Engineer;3;41000;44000;43000;EUR;yearly;Barcelona
 Telefónica;Data Engineer;4.1;37000;40000;38000;EUR;yearly;Barcelona
-AG Solution;Data Engineer;4.1;30000;33000;31000;EUR;yearly;Barcelona
-Tangelo Games;Data Engineer;3.8;31000;35000;33000;EUR;yearly;Barcelona
-Europcar Mobility Group;Data Engineer;3.7;49000;53000;51000;EUR;yearly;Barcelona
-Clarivate;Data Engineer;3.6;41000;44000;42000;EUR;yearly;Barcelona
+AG Solution;Data Engineer;4.1;30000;32000;31000;EUR;yearly;Barcelona
+Tangelo Games;Data Engineer;3.8;32000;34000;33000;EUR;yearly;Barcelona
+Europcar Mobility Group;Data Engineer;3.6;49000;53000;51000;EUR;yearly;Barcelona
+Clarivate;Data Engineer;3.6;40000;44000;42000;EUR;yearly;Barcelona
 Accenture;Data Engineer;3.8;24;26;25;EUR;hourly;Barcelona
-Bitio;Data Engineer;5;14;16;15;EUR;hourly;Barcelona
-011h;Data Engineer;3.9;43000;47000;45000;EUR;yearly;Barcelona
+Bitio;Data Engineer;5;15;16;15;EUR;hourly;Barcelona
+011h;Data Engineer;3.9;43000;46000;45000;EUR;yearly;Barcelona
 Capitole Consulting;Data Engineer;4.3;45000;49000;47000;EUR;yearly;Barcelona
-ClearPeaks;Data Engineer;4.3;39000;41000;40000;EUR;yearly;Barcelona
-Tenkai Technologies;Data Engineer;4.6;34000;37000;35000;EUR;yearly;Barcelona
+ClearPeaks;Data Engineer;4.3;39000;42000;40000;EUR;yearly;Barcelona
+Tenkai Technologies;Data Engineer;4.6;34000;36000;35000;EUR;yearly;Barcelona
 K-LAGAN;Data Engineer;3.8;45000;49000;47000;EUR;yearly;Barcelona
-Minsait;Data Engineer;3.8;38000;41000;40000;EUR;yearly;Barcelona
+Minsait;Data Engineer;3.8;38000;42000;40000;EUR;yearly;Barcelona
 IKEA;Data Engineer;3.8;29000;31000;30000;EUR;yearly;Barcelona
-VISEO;Data Engineer;3.6;31000;33000;32000;EUR;yearly;Barcelona
+VISEO;Data Engineer;3.6;30000;33000;32000;EUR;yearly;Barcelona
 Kalua;Data Engineer;4.8;2000;2000;2000;EUR;monthly;Barcelona
-TotalEnergies;Data Engineer;4;43000;47000;45000;EUR;yearly;Barcelona
-Grupo Planeta;Data Engineer;4.4;669;727;698;EUR;monthly;Barcelona
+TotalEnergies;Data Engineer;3.9;43000;46000;45000;EUR;yearly;Barcelona
+Grupo Planeta;Data Engineer;4.4;677;722;700;EUR;monthly;Barcelona
 IThinkUPC;Data Engineer;3.8;25000;27000;26000;EUR;yearly;Barcelona
 Nan;Data Engineer;3.2;34000;36000;35000;EUR;yearly;Barcelona
 Stream Hatchet;Data Engineer;3.9;27000;29000;28000;EUR;yearly;Barcelona
-Metriplica;Data Engineer;3.3;39000;42000;40000;EUR;yearly;Barcelona
-Business Insights;Data Engineer;3.5;43000;47000;45000;EUR;yearly;Barcelona
-KPMG;Data Engineer;3.7;31000;33000;32000;EUR;yearly;Barcelona
-Tripledot Studios;Data Engineer;3.6;71000;78000;75000;EUR;yearly;Barcelona
+Metriplica;Data Engineer;3.3;38000;42000;40000;EUR;yearly;Barcelona
+Business Insights;Data Engineer;3.5;43000;46000;45000;EUR;yearly;Barcelona
+KPMG;Data Engineer;3.7;30000;33000;32000;EUR;yearly;Barcelona
+Tripledot Studios;Data Engineer;3.7;73000;78000;75000;EUR;yearly;Barcelona
 AVL;Data Engineer;4.1;46000;50000;48000;EUR;yearly;Barcelona
-Glovo;Data Engineer;3.5;64000;68000;66000;EUR;yearly;Barcelona
+Glovo;Data Engineer;3.5;64000;69000;66000;EUR;yearly;Barcelona
 Privalia;Data Engineer;3.3;26000;28000;27000;EUR;yearly;Barcelona
 Educaonline;Data Engineer;4;19;21;20;EUR;hourly;Barcelona
-Indra;Data Engineer;3.7;32000;34000;33000;EUR;yearly;Barcelona
-letgo;Data Engineer;3.9;57000;63000;60000;EUR;yearly;Barcelona
+Indra;Data Engineer;3.7;32000;35000;33000;EUR;yearly;Barcelona
+letgo;Data Engineer;3.9;58000;62000;60000;EUR;yearly;Barcelona
 Devoteam;Data Engineer;3.8;34000;38000;36000;EUR;yearly;Barcelona
-Okta;Data Engineer;3.6;68000;73000;70000;EUR;yearly;Barcelona
+Okta;Data Engineer;3.6;67000;73000;70000;EUR;yearly;Barcelona
 PlanetWatch (France);Data Engineer;4;48000;52000;50000;EUR;yearly;Barcelona
 Hound Line;Data Engineer;4.5;21000;23000;22000;EUR;yearly;Barcelona
-Penguin Random House Grupo Editorial;Data Engineer;4.4;27000;28000;28000;EUR;yearly;Barcelona
+Penguin Random House Grupo Editorial;Data Engineer;4.4;26000;29000;27000;EUR;yearly;Barcelona
 Dorna Sports;Data Engineer;3.8;39000;42000;40000;EUR;yearly;Barcelona
-International Airlines Group;Data Engineer;3.4;38000;42000;40000;EUR;yearly;Barcelona
+International Airlines Group;Data Engineer;3.4;39000;42000;40000;EUR;yearly;Barcelona
 Tiendeo;Data Engineer;3.1;9;9;9;EUR;hourly;Barcelona
-Upshelf;Data Engineer;1.9;29000;32000;31000;EUR;yearly;Barcelona
-Zurich Insurance;Data Engineer;4.3;599;651;625;EUR;monthly;Barcelona
-SmartFocus;Data Engineer;2.5;31000;34000;33000;EUR;yearly;Barcelona
+Upshelf;Data Engineer;1.9;29000;31000;30000;EUR;yearly;Barcelona
+Zurich Insurance;Data Engineer;4.3;601;647;624;EUR;monthly;Barcelona
+SmartFocus;Data Engineer;2.5;32000;34000;33000;EUR;yearly;Barcelona
 T2C Group;Data Engineer;4;22000;24000;23000;EUR;yearly;Barcelona
-Welocalize;Data Engineer;3.3;43000;47000;45000;EUR;yearly;Barcelona
+Welocalize;Data Engineer;3.4;43000;47000;45000;EUR;yearly;Barcelona
 Avanade;Data Engineer;3.8;2000;2000;2000;EUR;monthly;Barcelona
 Vestas Wind Systems;Data Engineer;4;48000;52000;50000;EUR;yearly;Barcelona
-CIRSA;Data Engineer;3.6;53000;58000;56000;EUR;yearly;Barcelona
+CIRSA;Data Engineer;3.6;54000;59000;56000;EUR;yearly;Barcelona
 Utopia Music;Data Engineer;2.3;58000;62000;60000;EUR;yearly;Barcelona
 BestPrice.gr;Data Engineer;4.2;4000;5000;5000;EUR;monthly;Barcelona
 Glovo;Data Engineer;3.5;19000;21000;20000;EUR;yearly;Barcelona
@@ -210,32 +210,1406 @@ Cofidis;Data Engineer;4;37000;40000;38000;EUR;yearly;Barcelona
 Aszendit;Data Engineer;3.9;44000;48000;46000;EUR;yearly;Barcelona
 TSD Consulting;Data Engineer;4.1;1000;1000;1000;EUR;monthly;Barcelona
 Hospital Germans Trias i Pujol;Data Engineer;4.3;29000;31000;30000;EUR;yearly;Barcelona
-Datatonic;Data Engineer;4;38000;41000;40000;EUR;yearly;Barcelona
+Datatonic;Data Engineer;4;39000;42000;40000;EUR;yearly;Barcelona
 Universitat Politecnica de Catalunya;Data Engineer;4.1;29000;31000;30000;EUR;yearly;Barcelona
 NEORIS;Data Engineer;4;58000;63000;60000;EUR;yearly;Barcelona
-Gelato;Data Engineer;4.5;58000;62000;60000;EUR;yearly;Barcelona
-Automatiq;Data Engineer;4.6;52000;57000;55000;EUR;yearly;Barcelona
+Gelato;Data Engineer;4.5;57000;63000;60000;EUR;yearly;Barcelona
+Automatiq;Data Engineer;4.6;53000;57000;55000;EUR;yearly;Barcelona
 Autonomo;Data Engineer;4.4;46000;50000;48000;EUR;yearly;Barcelona
 Netquest (Spain);Data Engineer;3;24000;26000;25000;EUR;yearly;Barcelona
-IntelliSense.io;Data Engineer;4.4;33000;36000;35000;EUR;yearly;Barcelona
-Marcel;Data Engineer;3.4;53000;57000;55000;EUR;yearly;Barcelona
-Mitiga Solutions;Data Engineer;4;39000;42000;40000;EUR;yearly;Barcelona
+IntelliSense.io;Data Engineer;4.4;34000;37000;35000;EUR;yearly;Barcelona
+Marcel;Data Engineer;3.4;52000;57000;55000;EUR;yearly;Barcelona
+Mitiga Solutions;Data Engineer;4;38000;42000;40000;EUR;yearly;Barcelona
 Satellogic;Data Engineer;3.8;27000;29000;28000;EUR;yearly;Barcelona
-Onebox;Data Engineer;4.8;43000;47000;45000;EUR;yearly;Barcelona
+Onebox;Data Engineer;4.8;44000;47000;45000;EUR;yearly;Barcelona
 BBVA;Data Engineer;4.2;29000;31000;30000;EUR;yearly;Barcelona
-Bluecap;Data Engineer;3.6;6;6;6;EUR;hourly;Barcelona
-HH Global;Data Engineer;3.2;31000;33000;32000;EUR;yearly;Barcelona
-Saivo;Data Engineer;-0.10000000149011612;34000;37000;35000;EUR;yearly;Barcelona
+Bluecap;Data Engineer;3.8;6;6;6;EUR;hourly;Barcelona
+HH Global;Data Engineer;3.3;31000;34000;32000;EUR;yearly;Barcelona
+Saivo;Data Engineer;-0.10000000149011612;34000;36000;35000;EUR;yearly;Barcelona
 Bertrandt;Data Engineer;3.5;35000;39000;37000;EUR;yearly;Barcelona
-Spark (Ireland);Data Engineer;3.1;53000;58000;55000;EUR;yearly;Barcelona
+Spark (Ireland);Data Engineer;3.1;53000;57000;55000;EUR;yearly;Barcelona
 Assist;Data Engineer;3.6;27000;29000;28000;EUR;yearly;Barcelona
 Me, Myself and I;Data Engineer;4.4;29000;31000;30000;EUR;yearly;Barcelona
 Hemav;Data Engineer;3.9;48000;52000;50000;EUR;yearly;Barcelona
-Researcher;Data Engineer;4.3;30000;33000;32000;EUR;yearly;Barcelona
+Researcher;Data Engineer;4.3;31000;33000;32000;EUR;yearly;Barcelona
 Stayforlong;Data Engineer;4.3;34000;37000;35000;EUR;yearly;Barcelona
 Universitat Rovira i Virgili;Data Engineer;4.1;19000;21000;20000;EUR;yearly;Barcelona
 Computer Vision Centre;Data Engineer;4.2;4;4;4;EUR;hourly;Barcelona
 Hosco;Data Engineer;4.5;34000;36000;35000;EUR;yearly;Barcelona
 Plain Concepts;Data Engineer;3.9;24000;26000;25000;EUR;yearly;Barcelona
-Quadpack;Data Engineer;3.3;37000;39000;38000;EUR;yearly;Barcelona
+Quadpack;Data Engineer;3.3;36000;39000;38000;EUR;yearly;Barcelona
 Amazon;Data Engineer;3.6;49000;53000;51000;EUR;yearly;Barcelona
+Glovo;Data Scientist;3.5;50000;65000;54000;EUR;yearly;Barcelona
+Accenture;Data Scientist;3.8;30000;40000;37000;EUR;yearly;Barcelona
+Glovo;Senior Data Analyst;3.5;42000;50000;49000;EUR;yearly;Barcelona
+SDG Group;Data Analyst;3.9;25000;28000;26000;EUR;yearly;Barcelona
+CaixaBank;Data Scientist;3.8;34000;47000;43000;EUR;yearly;Barcelona
+Glovo;Data Analyst;3.5;32000;44000;37000;EUR;yearly;Barcelona
+Aily;Senior Data Scientist;3.2;60000;75000;63000;EUR;yearly;Barcelona
+Glovo;Senior Data Scientist;3.5;69000;82000;79000;EUR;yearly;Barcelona
+eDreams ODIGEO;Data Scientist;4.1;48000;58000;52000;EUR;yearly;Barcelona
+Amazon;Data Analyst;3.6;28000;36000;28000;EUR;yearly;Barcelona
+SDG Group;Junior Data Analyst;3.9;23000;25000;24000;EUR;yearly;Barcelona
+Banco Sabadell;Data Scientist;3.8;35000;46000;40000;EUR;yearly;Barcelona
+Revolut;Data Analyst;3.9;55000;65000;58000;EUR;yearly;Barcelona
+HP Inc.;Data Scientist;4.1;32000;48000;39000;EUR;yearly;Barcelona
+Eurecat;Data Scientist;3.5;32000;40000;35000;EUR;yearly;Barcelona
+Amazon;Junior Data Analyst;3.6;25000;31000;28000;EUR;yearly;Barcelona
+Accenture;Data Science Analyst;3.8;31000;35000;35000;EUR;yearly;Barcelona
+Socialpoint;Data Scientist;4.1;40000;57000;49000;EUR;yearly;Barcelona
+Glovo;Senior Data Engineer;3.5;68000;81000;74000;EUR;yearly;Barcelona
+FocusEconomics;Junior Data Analyst;3.5;14000;19000;18000;EUR;yearly;Barcelona
+SDG Group;Data Consultant;3.9;30000;33000;30000;EUR;yearly;Barcelona
+BaseTIS;Data Scientist;3.5;22000;29000;26000;EUR;yearly;Barcelona
+Novartis;Data Scientist;4;38000;44000;41000;EUR;yearly;Barcelona
+Accenture;Data Analyst;3.8;28000;36000;33000;EUR;yearly;Barcelona
+Glovo;Data Analyst II;3.5;37000;44000;40000;EUR;yearly;Barcelona
+Zurich Insurance;Data Scientist;4.3;40000;51000;44000;EUR;yearly;Barcelona
+Boston Consulting Group;Data Scientist;4.2;43000;56000;55000;EUR;yearly;Barcelona
+Mango;Data Scientist;3.5;32000;52000;39000;EUR;yearly;Barcelona
+King;Data Scientist;3.4;42000;55000;52000;EUR;yearly;Barcelona
+Adevinta;Senior Data Engineer;3.6;66000;78000;72000;EUR;yearly;Barcelona
+Accenture;Senior Data Scientist;3.8;53000;61000;55000;EUR;yearly;Barcelona
+CaixaBank;Senior Data Scientist;3.8;37000;69000;50000;EUR;yearly;Barcelona
+NTT DATA;Data Scientist;3.8;26000;38000;33000;EUR;yearly;Barcelona
+Vista;Senior Data Scientist;3.8;56000;62000;60000;EUR;yearly;Barcelona
+Typeform;Senior Data Scientist;3.3;69000;82000;72000;EUR;yearly;Barcelona
+Novartis;Senior Data Scientist;4;52000;61000;59000;EUR;yearly;Barcelona
+Glovo;Junior Data Analyst;3.5;29000;34000;32000;EUR;yearly;Barcelona
+Glovo;Data Manager;3.5;74000;110000;104000;EUR;yearly;Barcelona
+Activision Blizzard;Data Scientist;3.7;40000;58000;53000;EUR;yearly;Barcelona
+Adevinta Spain;Data Scientist;4;28000;65000;55000;EUR;yearly;Barcelona
+Adevinta;Data Scientist;3.6;36000;80000;52000;EUR;yearly;Barcelona
+Vista;Senior Data Engineer;3.8;59000;64000;62000;EUR;yearly;Barcelona
+eDreams ODIGEO;Data Analyst;4.1;33000;38000;36000;EUR;yearly;Barcelona
+Chartboost;Senior Data Scientist;3.3;75000;86000;77000;EUR;yearly;Barcelona
+Adevinta Spain;Senior Data Analyst;4;58000;63000;63000;EUR;yearly;Barcelona
+Aily;Junior Data Scientist;3.2;36000;40000;37000;EUR;yearly;Barcelona
+VHIO;Data Entry;4;24000;27000;24000;EUR;yearly;Barcelona
+Vueling Airlines;Data Scientist;3.7;41000;55000;46000;EUR;yearly;Barcelona
+Accenture;Data Scientist;3.8;738;2000;878;EUR;monthly;Barcelona
+Allianz;Data Scientist;4;40000;48000;44000;EUR;yearly;Barcelona
+Aily;Data Scientist;3.2;45000;59000;46000;EUR;yearly;Barcelona
+Criteo;Data Scientist;4.1;42000;61000;61000;EUR;yearly;Barcelona
+Nestlé;Data Scientist;4.1;48000;65000;55000;EUR;yearly;Barcelona
+Sanofi;Data Scientist;4.2;49000;72000;66000;EUR;yearly;Barcelona
+PepsiCo;Senior Data Engineer;3.9;74000;89000;87000;EUR;yearly;Barcelona
+TransPerfect;Data Analyst;3;20000;24000;23000;EUR;yearly;Barcelona
+Criteo;Data Analyst;4.1;42000;52000;48000;EUR;yearly;Barcelona
+Vista;Senior Data Analyst;3.8;50000;57000;54000;EUR;yearly;Barcelona
+Glovo;Data Engineer II;3.5;57000;64000;62000;EUR;yearly;Barcelona
+Minsait;Data Scientist;3.8;22000;31000;28000;EUR;yearly;Barcelona
+Aplicaciones en Informática Avanzada;Data Scientist;2.9;26000;45000;35000;EUR;yearly;Barcelona
+Amazon;Data Scientist;3.6;31000;48000;35000;EUR;yearly;Barcelona
+Adevinta Spain;Senior Data Engineer;4;58000;75000;67000;EUR;yearly;Barcelona
+Stuart;Senior Data Engineer;3;65000;74000;65000;EUR;yearly;Barcelona
+Sanofi;Data Analyst;4.2;36000;58000;53000;EUR;yearly;Barcelona
+Scopely;Data Analyst;3.9;35000;47000;44000;EUR;yearly;Barcelona
+Stuart;Senior Data Scientist;3;57000;62000;60000;EUR;yearly;Barcelona
+Zurich Insurance;Senior Data Scientist;4.3;47000;61000;48000;EUR;yearly;Barcelona
+Boston Consulting Group;Senior Data Scientist;4.2;100000;114000;102000;EUR;yearly;Barcelona
+PepsiCo;Senior Data Scientist;3.9;57000;62000;60000;EUR;yearly;Barcelona
+Criteo;Senior Data Analyst;4.1;46000;56000;50000;EUR;yearly;Barcelona
+Boston Consulting Group;Lead Data Scientist;4.2;115000;153000;143000;EUR;yearly;Barcelona
+Kernel Analytics;Data Scientist;4;27000;35000;29000;EUR;yearly;Barcelona
+Telefónica;Data Scientist;4.1;31000;58000;45000;EUR;yearly;Barcelona
+Semrush;Data Scientist;3.7;59000;77000;62000;EUR;yearly;Barcelona
+Schibsted;Data Scientist;4.2;40000;64000;49000;EUR;yearly;Barcelona
+Typeform;Data Scientist;3.3;49000;86000;63000;EUR;yearly;Barcelona
+SDG Group;Data Scientist;3.9;21000;33000;28000;EUR;yearly;Barcelona
+Factor Energia;Data Scientist;2.5;21000;35000;31000;EUR;yearly;Barcelona
+everis;Data Scientist;3.6;22000;30000;26000;EUR;yearly;Barcelona
+PepsiCo;Data Scientist;3.9;39000;73000;48000;EUR;yearly;Barcelona
+Universitat Politecnica de Catalunya;Data Scientist;4.1;26000;44000;32000;EUR;yearly;Barcelona
+Siemens Energy;Data Scientist;4.2;41000;50000;48000;EUR;yearly;Barcelona
+Grupo Planeta;Data Scientist;4.4;35000;36000;35000;EUR;yearly;Barcelona
+SDG Group;Senior Data Engineer;3.9;35000;44000;38000;EUR;yearly;Barcelona
+Aily;Senior Data Engineer;3.2;69000;74000;71000;EUR;yearly;Barcelona
+CaixaBank;Data Analyst;3.8;31000;50000;42000;EUR;yearly;Barcelona
+Clarivate;Data Analyst;3.6;40000;41000;40000;EUR;yearly;Barcelona
+HolaLuz;Data Analyst;2.8;29000;46000;39000;EUR;yearly;Barcelona
+Schneider Electric;Data Analyst;4.3;37000;63000;47000;EUR;yearly;Barcelona
+eDreams ODIGEO;Senior Data Scientist;4.1;50000;66000;57000;EUR;yearly;Barcelona
+Mango;Senior Data Scientist;3.5;51000;64000;58000;EUR;yearly;Barcelona
+HP Inc.;Senior Data Scientist;4.1;58000;77000;67000;EUR;yearly;Barcelona
+NTT DATA;Senior Data Scientist;3.8;36000;42000;36000;EUR;yearly;Barcelona
+King;Senior Data Scientist;3.4;51000;59000;56000;EUR;yearly;Barcelona
+Skyscanner;Senior Data Scientist;4.5;71000;93000;81000;EUR;yearly;Barcelona
+Bayer;Senior Data Analyst;3.9;28000;51000;39000;EUR;yearly;Barcelona
+Brainly;Senior Data Analyst;3.4;54000;64000;60000;EUR;yearly;Barcelona
+Typeform;Senior Data Analyst;3.3;60000;65000;60000;EUR;yearly;Barcelona
+Adevinta;Senior Data Analyst;3.6;46000;71000;57000;EUR;yearly;Barcelona
+Wallapop;Senior Data Analyst;4.2;50000;57000;55000;EUR;yearly;Barcelona
+Wallbox;Senior Data Analyst;2.7;46000;50000;49000;EUR;yearly;Barcelona
+Scopely;Senior Data Analyst;3.9;42000;73000;52000;EUR;yearly;Barcelona
+Papernest;Data Analyst Intern;3.7;638;750;750;EUR;monthly;Barcelona
+Criteo;Data Analyst Intern;4.1;1000;1000;1000;EUR;monthly;Barcelona
+Glovo;Junior Data Scientist;3.5;33000;55000;54000;EUR;yearly;Barcelona
+King;Junior Data Scientist;3.4;30000;41000;35000;EUR;yearly;Barcelona
+IDIBELL;Data Entry;3.7;18000;25000;25000;EUR;yearly;Barcelona
+Veepee;Data Manager;3.5;18000;21000;20000;EUR;yearly;Barcelona
+Accenture;Data Science Consultant;3.8;46000;58000;53000;EUR;yearly;Barcelona
+ALTEN;Data Scientist;3.2;32000;42000;40000;EUR;yearly;Barcelona
+Revolut;Data Scientist;3.9;36000;100000;50000;EUR;yearly;Barcelona
+Product Madness;Data Scientist;4.1;44000;57000;55000;EUR;yearly;Barcelona
+VidaCaixa;Data Scientist;3.4;30000;40000;31000;EUR;yearly;Barcelona
+Metyis;Data Scientist;3.6;27000;35000;32000;EUR;yearly;Barcelona
+Wallapop;Data Scientist;4.2;39000;51000;50000;EUR;yearly;Barcelona
+NTENT;Data Scientist;2.9;50000;58000;50000;EUR;yearly;Barcelona
+Gameloft;Data Scientist;3.8;26000;36000;35000;EUR;yearly;Barcelona
+Microsoft;Data Scientist;4.2;76000;147000;93000;EUR;yearly;Barcelona
+SEAT:CODE;Data Scientist;3.3;46000;58000;48000;EUR;yearly;Barcelona
+Vista;Data Scientist;3.8;46000;50000;50000;EUR;yearly;Barcelona
+Google;Data Scientist;4.3;35000;42000;36000;EUR;yearly;Barcelona
+Dribia;Data Scientist;4.3;31000;36000;36000;EUR;yearly;Barcelona
+Hola Consultores;Data Scientist;3.8;43000;50000;45000;EUR;yearly;Barcelona
+Preply;Data Scientist;4.1;36000;55000;50000;EUR;yearly;Barcelona
+buynomics;Data Scientist;4.1;55000;70000;58000;EUR;yearly;Barcelona
+Job&Talent;Data Scientist;4;38000;55000;55000;EUR;yearly;Barcelona
+Badi;Data Scientist;3.5;40000;43000;43000;EUR;yearly;Barcelona
+SEIDOR;Data Scientist;3.9;24000;32000;30000;EUR;yearly;Barcelona
+Stuart;Data Scientist;3;44000;55000;55000;EUR;yearly;Barcelona
+Grupo Hotusa;Data Scientist;2.6;28000;35000;35000;EUR;yearly;Barcelona
+Landbot;Data Scientist;4.9;35000;48000;35000;EUR;yearly;Barcelona
+Capitole Consulting;Senior Data Engineer;4.3;41000;54000;52000;EUR;yearly;Barcelona
+Scopely;Senior Data Engineer;3.9;46000;73000;54000;EUR;yearly;Barcelona
+Accenture;Senior Data Engineer;3.8;52000;55000;52000;EUR;yearly;Barcelona
+Contentsquare;Senior Data Engineer;3.5;73000;75000;75000;EUR;yearly;Barcelona
+Wallapop;Data Analyst;4.2;42000;52000;50000;EUR;yearly;Barcelona
+Deloitte;Data Analyst;3.9;33000;39000;34000;EUR;yearly;Barcelona
+TELUS Digital;Data Analyst;3.6;20000;28000;26000;EUR;yearly;Barcelona
+Vueling Airlines;Data Analyst;3.7;29000;36000;30000;EUR;yearly;Barcelona
+ClearPeaks;Data Analyst;4.3;29000;34000;32000;EUR;yearly;Barcelona
+Apple;Data Analyst;4.1;23000;29000;28000;EUR;yearly;Barcelona
+Bayer;Data Analyst;3.9;40000;47000;46000;EUR;yearly;Barcelona
+knowmad mood;Data Analyst;4.1;31000;40000;33000;EUR;yearly;Barcelona
+SCRM;Data Analyst;4.3;37000;48000;40000;EUR;yearly;Barcelona
+MediaMarktSaturn;Senior Data Analyst;3.4;41000;52000;45000;EUR;yearly;Barcelona
+Zurich Insurance;Senior Data Analyst;4.3;30000;50000;50000;EUR;yearly;Barcelona
+Revolut;Senior Data Analyst;3.9;89000;104000;92000;EUR;yearly;Barcelona
+ID Finance;Senior Data Analyst;3.6;33000;55000;42000;EUR;yearly;Barcelona
+Capgemini;Junior Data Engineer;3.8;18000;21000;21000;EUR;yearly;Barcelona
+HP Inc.;Data Science Intern;4.1;7;8;8;EUR;hourly;Barcelona
+Criteo;Data Analyst Intern;4.1;1000;1000;1000;EUR;monthly;Barcelona
+FocusEconomics;Junior Data Scientist;3.5;24000;33000;24000;EUR;yearly;Barcelona
+Innova-Tsn;Junior Data Scientist;3.8;25000;26000;26000;EUR;yearly;Barcelona
+Minsait;Junior Data Analyst;3.8;23000;27000;25000;EUR;yearly;Barcelona
+NTT DATA;Junior Data Analyst;3.8;22000;31000;24000;EUR;yearly;Barcelona
+Glovo;Data Engineering Manager;3.5;79000;115000;95000;EUR;yearly;Barcelona
+Aily;Principal Data Scientist;3.2;84000;96000;92000;EUR;yearly;Barcelona
+Criteo;Data Analyst II;4.1;44000;47000;47000;EUR;yearly;Barcelona
+ISDIN;Data Specialist;4;48000;50000;49000;EUR;yearly;Barcelona
+TD SYNNEX;Master Data Analyst;3.7;20000;20000;20000;EUR;yearly;Barcelona
+Tech Data;Master Data Analyst;3.8;20000;20000;20000;EUR;yearly;Barcelona
+Veepee;Data Coordinator;3.5;19000;19000;19000;EUR;yearly;Barcelona
+Glovo;Data Engineer I;3.5;35000;50000;42000;EUR;yearly;Barcelona
+IQVIA;Data Scientist;3.8;30000;31000;31000;EUR;yearly;Barcelona
+Block;Data Scientist;3.8;48000;56000;52000;EUR;yearly;Barcelona
+FIATC Seguros;Data Scientist;4;30000;32000;31000;EUR;yearly;Barcelona
+Capgemini;Data Scientist;3.8;30000;48000;39000;EUR;yearly;Barcelona
+CYBERCLICK MARKETING;Data Scientist;3.7;30000;34000;32000;EUR;yearly;Barcelona
+ClearPeaks;Data Scientist;4.3;28000;29000;29000;EUR;yearly;Barcelona
+Smadex;Data Scientist;4;29000;30000;29000;EUR;yearly;Barcelona
+SEAT S.A.;Data Scientist;4.2;35000;47000;41000;EUR;yearly;Barcelona
+Entrust;Data Scientist;3.6;30000;30000;30000;EUR;yearly;Barcelona
+Cdmon;Data Scientist;2.8;36000;38000;37000;EUR;yearly;Barcelona
+BaseTIS;Data Scientist;3.5;9;10;9;EUR;hourly;Barcelona
+Between;Data Scientist;4.1;31000;36000;33000;EUR;yearly;Barcelona
+Universitat Pompeu Fabra;Data Scientist;3.7;600;2000;1000;EUR;monthly;Barcelona
+IOMED Medical Solutions;Data Scientist;4.8;35000;42000;39000;EUR;yearly;Barcelona
+Telefónica;Data Scientist;4.1;750;1000;875;EUR;monthly;Barcelona
+The Keenfolks;Data Scientist;2.2;25000;35000;30000;EUR;yearly;Barcelona
+Bayer;Data Scientist;3.9;48000;61000;55000;EUR;yearly;Barcelona
+Chartboost;Data Scientist;3.3;60000;66000;63000;EUR;yearly;Barcelona
+ZF Group;Data Scientist;3.9;50000;55000;53000;EUR;yearly;Barcelona
+The Knot Worldwide;Data Scientist;3.3;41000;55000;48000;EUR;yearly;Barcelona
+Hospital del Mar;Data Scientist;3.8;45000;45000;45000;EUR;yearly;Barcelona
+Scopely;Data Scientist;3.9;30000;66000;48000;EUR;yearly;Barcelona
+Catalan Institute of Nanoscience and Nanotechnology;Data Scientist;4.3;18000;20000;19000;EUR;yearly;Barcelona
+Barcelona Supercomputing Center;Data Scientist;3.9;48000;55000;51000;EUR;yearly;Barcelona
+Citibeats;Data Scientist;4;30000;42000;36000;EUR;yearly;Barcelona
+The Hotels Network;Data Scientist;4.6;40000;40000;40000;EUR;yearly;Barcelona
+knowmad mood;Data Scientist;4.1;40000;43000;42000;EUR;yearly;Barcelona
+ITnow;Data Scientist;3.5;24000;38000;31000;EUR;yearly;Barcelona
+Quantion;Data Scientist;3.4;40000;40000;40000;EUR;yearly;Barcelona
+EcoVadis;Data Scientist;3.9;40000;41000;40000;EUR;yearly;Barcelona
+King;Data Scientist;3.4;33000;40000;37000;EUR;yearly;Barcelona
+DEXMA;Data Scientist;4.7;44000;48000;46000;EUR;yearly;Barcelona
+Satellogic;Data Scientist;3.8;32000;36000;34000;EUR;yearly;Barcelona
+Havas Media;Data Scientist;3.6;8;9;8;EUR;hourly;Barcelona
+Mitiga Solutions;Data Scientist;4;35000;50000;43000;EUR;yearly;Barcelona
+Servihabitat Servicios Inmobiliarios;Data Scientist;3.3;35000;37000;36000;EUR;yearly;Barcelona
+Rover.com;Senior Data Engineer;3.9;103000;140000;122000;EUR;yearly;Barcelona
+Dow Jones;Senior Data Engineer;3.6;47000;52000;50000;EUR;yearly;Barcelona
+letgo;Senior Data Engineer;3.9;65000;75000;70000;EUR;yearly;Barcelona
+OLX Group;Senior Data Engineer;3.9;90000;177000;134000;EUR;yearly;Barcelona
+Semrush;Senior Data Engineer;3.7;70000;70000;70000;EUR;yearly;Barcelona
+Typeform;Senior Data Engineer;3.3;73000;85000;79000;EUR;yearly;Barcelona
+Product Madness;Data Analyst;4.1;45000;48000;46000;EUR;yearly;Barcelona
+Plexus Tech;Data Analyst;3.8;35000;35000;35000;EUR;yearly;Barcelona
+AXA;Data Analyst;3.9;27000;31000;29000;EUR;yearly;Barcelona
+Zurich Insurance;Data Analyst;4.3;39000;47000;43000;EUR;yearly;Barcelona
+Devoteam;Data Analyst;3.8;38000;43000;40000;EUR;yearly;Barcelona
+Proton, privacy by default;Data Analyst;4;52000;54000;53000;EUR;yearly;Barcelona
+Locaria;Data Analyst;4.5;30000;39000;35000;EUR;yearly;Barcelona
+MediaMarktSaturn;Data Analyst;3.4;33000;36000;35000;EUR;yearly;Barcelona
+URBASER;Data Analyst;3.1;32000;32000;32000;EUR;yearly;Barcelona
+NTT DATA;Data Analyst;3.8;27000;30000;29000;EUR;yearly;Barcelona
+Management Intelligence Consulting;Data Analyst;-0.10000000149011612;30000;30000;30000;EUR;yearly;Barcelona
+Socialpoint;Data Analyst;4.1;40000;45000;43000;EUR;yearly;Barcelona
+Sogeti;Data Analyst;3.4;21000;32000;26000;EUR;yearly;Barcelona
+ID Finance;Data Analyst;3.6;63000;75000;69000;EUR;yearly;Barcelona
+dsm-firmenich;Data Analyst;3.8;32000;32000;32000;EUR;yearly;Barcelona
+Ogilvy;Data Analyst;3.7;20000;24000;22000;EUR;yearly;Barcelona
+Leadtech (Spain);Data Analyst;4.2;33000;35000;34000;EUR;yearly;Barcelona
+Gartner;Data Analyst;4;55000;55000;55000;EUR;yearly;Barcelona
+ExoClick;Data Analyst;3.7;29000;29000;29000;EUR;yearly;Barcelona
+Telefonica Tech;Big Data Engineer;3.9;60000;66000;63000;EUR;yearly;Barcelona
+LIFULL Connect;Big Data Engineer;2.8;38000;40000;39000;EUR;yearly;Barcelona
+Accenture;Big Data Engineer;3.8;32000;52000;42000;EUR;yearly;Barcelona
+everis;Big Data Engineer;3.6;19000;30000;25000;EUR;yearly;Barcelona
+Ocado Technology;Senior Data Scientist;3.7;60000;77000;69000;EUR;yearly;Barcelona
+Nestlé;Senior Data Scientist;4.1;78000;82000;80000;EUR;yearly;Barcelona
+buynomics;Senior Data Scientist;4.1;60000;68000;64000;EUR;yearly;Barcelona
+Socialpoint;Senior Data Scientist;4.1;55000;68000;62000;EUR;yearly;Barcelona
+Prima Assicurazioni;Senior Data Scientist;4.3;56000;80000;68000;EUR;yearly;Barcelona
+Activision Blizzard;Senior Data Scientist;3.7;61000;64000;62000;EUR;yearly;Barcelona
+Sanofi;Senior Data Scientist;4.2;78000;78000;78000;EUR;yearly;Barcelona
+NTENT;Senior Data Scientist;2.9;65000;79000;72000;EUR;yearly;Barcelona
+Kernel Analytics;Senior Data Scientist;4;36000;50000;43000;EUR;yearly;Barcelona
+ClearPeaks;Senior Data Scientist;4.3;47000;50000;49000;EUR;yearly;Barcelona
+Semrush;Senior Data Analyst;3.7;4000;8000;6000;EUR;monthly;Barcelona
+eDreams ODIGEO;Senior Data Analyst;4.1;50000;58000;54000;EUR;yearly;Barcelona
+EY;Senior Data Analyst;3.7;36000;38000;37000;EUR;yearly;Barcelona
+Datarmony;Senior Data Analyst;5;35000;35000;35000;EUR;yearly;Barcelona
+SDG Group;Senior Data Analyst;3.9;38000;42000;40000;EUR;yearly;Barcelona
+Mango;Senior Data Analyst;3.5;38000;42000;40000;EUR;yearly;Barcelona
+Tangelo Games;Senior Data Analyst;3.8;50000;55000;53000;EUR;yearly;Barcelona
+HolaLuz;Senior Data Analyst;2.8;50000;57000;54000;EUR;yearly;Barcelona
+Alibaba Group;Senior Data Analyst;3.8;75000;95000;85000;EUR;yearly;Barcelona
+Cognizant Technology Solutions;Lead Data Engineer;3.7;64000;65000;64000;EUR;yearly;Barcelona
+PromoFarma by DocMorris;Junior Data Engineer;3.5;32000;35000;34000;EUR;yearly;Barcelona
+NTT DATA;Junior Data Engineer;3.8;26000;26000;26000;EUR;yearly;Barcelona
+Hiberus Tecnología;Junior Data Engineer;3.7;25000;26000;26000;EUR;yearly;Barcelona
+Accenture;Data Science Intern;3.8;4;7;6;EUR;hourly;Barcelona
+Accenture;Data Analyst Intern;3.8;4;10;7;EUR;hourly;Barcelona
+Aquiles Solutions;Junior Data Scientist;4.7;2000;3000;2000;EUR;monthly;Barcelona
+BaseTIS;Junior Data Scientist;3.5;22000;26000;24000;EUR;yearly;Barcelona
+En GantaBI;Junior Data Scientist;-0.10000000149011612;21000;27000;24000;EUR;yearly;Barcelona
+Hospital Clínic de Barcelona;Data Entry;4;19000;30000;25000;EUR;yearly;Barcelona
+IQVIA;Data Science;3.8;950;1000;1000;EUR;monthly;Barcelona
+Accenture;Data Science;3.8;9;9;9;EUR;hourly;Barcelona
+eDreams ODIGEO;Data Science;4.1;50000;66000;58000;EUR;yearly;Barcelona
+BaseTIS;Data Science;3.5;9;9;9;EUR;hourly;Barcelona
+Accenture;Data Science;3.8;40000;53000;47000;EUR;yearly;Barcelona
+Criteo;Junior Data Analyst;4.1;39000;43000;41000;EUR;yearly;Barcelona
+Universitat de Barcelona;Junior Data Analyst;3.6;17000;25000;21000;EUR;yearly;Barcelona
+Capgemini;Junior Data Analyst;3.8;20000;27000;24000;EUR;yearly;Barcelona
+everis;Junior Data Analyst;3.6;24000;26000;25000;EUR;yearly;Barcelona
+Wallbox;Junior Data Analyst;2.7;27000;35000;31000;EUR;yearly;Barcelona
+Zurich Insurance;Junior Data Analyst;4.3;26000;32000;29000;EUR;yearly;Barcelona
+Deloitte;Junior Data Analyst;3.9;24000;26000;25000;EUR;yearly;Barcelona
+Aily;Lead Data Scientist;3.2;85000;92000;89000;EUR;yearly;Barcelona
+Factorial HR;Data Analytics Engineer;3.1;30000;30000;30000;EUR;yearly;Barcelona
+everis;Big Data Developer;3.6;18000;27000;23000;EUR;yearly;Barcelona
+Amazon;Business Data Analyst;3.6;23;30;26;EUR;hourly;Barcelona
+Amadeus;Data Specialist;4.1;28000;30000;29000;EUR;yearly;Barcelona
+Adevinta;Staff Data Engineer;3.6;90000;94000;92000;EUR;yearly;Barcelona
+Glovo;Data Science Manager;3.5;80000;102000;91000;EUR;yearly;Barcelona
+PepsiCo;Data Science Manager;3.9;65000;72000;68000;EUR;yearly;Barcelona
+Accenture;Data Science Manager;3.8;60000;90000;75000;EUR;yearly;Barcelona
+Aily;Sr Data Scientist;3.2;55000;75000;65000;EUR;yearly;Barcelona
+IsGlobal;Data Manager;4.2;30000;35000;33000;EUR;yearly;Barcelona
+Asphalion;Data Manager;3;21000;24000;23000;EUR;yearly;Barcelona
+Institut d'Investigacions Biomèdiques August Pi i Sunyer;Data Manager;3.6;25000;27000;26000;EUR;yearly;Barcelona
+Hospital Clínic de Barcelona;Data Manager;4;25000;25000;25000;EUR;yearly;Barcelona
+Vista;Sr Data Analyst;3.8;47000;55000;51000;EUR;yearly;Barcelona
+letgo;Sr Data Analyst;3.9;45000;53000;49000;EUR;yearly;Barcelona
+PepsiCo;Data Science Analyst;3.9;36000;45000;41000;EUR;yearly;Barcelona
+Glovo;Data Analytics;3.5;42000;45000;44000;EUR;yearly;Barcelona
+Vista;Lead Data Analyst;3.8;65000;70000;68000;EUR;yearly;Barcelona
+Amadeus;Data Entry Operator;4.1;22000;25000;23000;EUR;yearly;Barcelona
+Syniti;Data Consultant;4.2;30000;42000;36000;EUR;yearly;Barcelona
+Roche;Data Scientist;4.2;58000;63000;60000;EUR;yearly;Barcelona
+DatActions;Data Scientist;3.5;20000;22000;21000;EUR;yearly;Barcelona
+Universitat Politecnica de Catalunya;Data Scientist;4.1;18000;20000;19000;EUR;yearly;Barcelona
+Siemens Energy;Data Scientist;4.2;31000;34000;32000;EUR;yearly;Barcelona
+Platanomelón;Data Scientist;3.6;33000;36000;35000;EUR;yearly;Barcelona
+Beabloo;Data Scientist;2.4;27000;29000;28000;EUR;yearly;Barcelona
+Lead Ratings;Data Scientist;-0.10000000149011612;46000;49000;47000;EUR;yearly;Barcelona
+Farmy.ch;Data Scientist;3.8;40000;43000;42000;EUR;yearly;Barcelona
+Unnax;Data Scientist;4;9;9;9;EUR;hourly;Barcelona
+Eurecat;Data Scientist;3.5;10;10;10;EUR;hourly;Barcelona
+Apple;Data Scientist;4.1;53000;57000;55000;EUR;yearly;Barcelona
+es Marketing Digital;Data Scientist;-0.10000000149011612;29000;31000;30000;EUR;yearly;Barcelona
+TELUS Digital;Data Scientist;3.6;26000;29000;27000;EUR;yearly;Barcelona
+Nestlé;Data Scientist;4.1;923;1000;961;EUR;monthly;Barcelona
+Limitless Games;Data Scientist;2.1;50000;53000;52000;EUR;yearly;Barcelona
+Molins;Data Scientist;3.1;29000;31000;30000;EUR;yearly;Barcelona
+Trebol Energía;Data Scientist;4;27000;29000;28000;EUR;yearly;Barcelona
+Indra;Data Scientist;3.7;34000;36000;35000;EUR;yearly;Barcelona
+Systelab Technologies;Data Scientist;3.7;42000;46000;44000;EUR;yearly;Barcelona
+Opera Software;Data Scientist;3.7;48000;52000;50000;EUR;yearly;Barcelona
+CSIC;Data Scientist;3.8;1000;1000;1000;EUR;monthly;Barcelona
+Qumram;Data Scientist;4.9;43000;47000;45000;EUR;yearly;Barcelona
+Zeptolab;Data Scientist;4.1;46000;49000;47000;EUR;yearly;Barcelona
+Ubiqum Code Academy;Data Scientist;3.5;46000;49000;47000;EUR;yearly;Barcelona
+Scalpers Fashion;Data Scientist;3.3;19;21;20;EUR;hourly;Barcelona
+Glovory;Data Scientist;3.6;67000;72000;69000;EUR;yearly;Barcelona
+ABB;Data Scientist;4;42000;45000;43000;EUR;yearly;Barcelona
+GE Vernova;Data Scientist;3.8;43000;46000;45000;EUR;yearly;Barcelona
+Siemens;Data Scientist;4.1;67000;73000;70000;EUR;yearly;Barcelona
+Grupo Tyspa;Data Scientist;3.9;21000;23000;22000;EUR;yearly;Barcelona
+Computacenter;Data Scientist;3.7;21000;23000;22000;EUR;yearly;Barcelona
+ABA English;Data Scientist;3.4;44000;47000;46000;EUR;yearly;Barcelona
+Aimsun;Data Scientist;4.6;38000;42000;40000;EUR;yearly;Barcelona
+Entefy;Data Scientist;4.2;72000;79000;76000;EUR;yearly;Barcelona
+Nexus Geographics;Data Scientist;4.5;21000;23000;22000;EUR;yearly;Barcelona
+BanSabadell Vida;Data Scientist;4;34000;37000;35000;EUR;yearly;Barcelona
+Anonymous;Data Scientist;3.5;58000;63000;60000;EUR;yearly;Barcelona
+PHD;Data Scientist;3.9;3000;3000;3000;EUR;monthly;Barcelona
+F.C. Barcelona;Data Scientist;3.9;77000;82000;80000;EUR;yearly;Barcelona
+Kantox;Data Scientist;4.6;774;833;803;EUR;monthly;Barcelona
+Istari;Data Scientist;4.5;15;17;16;EUR;hourly;Barcelona
+Biability;Data Scientist;5;10000;10000;10000;EUR;yearly;Barcelona
+Amazon;Data Scientist;3.6;27000;29000;28000;EUR;yearly;Barcelona
+Criteo;Data Scientist;4.1;1000;1000;1000;EUR;monthly;Barcelona
+Page Group (London);Data Scientist;3.7;28000;30000;29000;EUR;yearly;Barcelona
+Nando's;Data Scientist;3.7;19000;21000;20000;EUR;yearly;Barcelona
+Zyte;Data Scientist;4.5;32000;35000;34000;EUR;yearly;Barcelona
+Glassdoor;Data Scientist;4.2;53000;58000;56000;EUR;yearly;Barcelona
+SelfEmployed.com;Data Scientist;4.4;4000;4000;4000;EUR;monthly;Barcelona
+Prima Assicurazioni;Data Scientist;4.3;44000;47000;46000;EUR;yearly;Barcelona
+Colvin;Data Scientist;3.4;34000;36000;35000;EUR;yearly;Barcelona
+Koa Health Digital Solutions;Data Scientist;3.2;67000;73000;70000;EUR;yearly;Barcelona
+Softonic;Data Scientist;4.5;58000;62000;60000;EUR;yearly;Barcelona
+Vall d'Hebron Institut de Recerca;Data Scientist;3.5;29000;31000;30000;EUR;yearly;Barcelona
+Hays;Data Scientist;3.5;38000;42000;40000;EUR;yearly;Barcelona
+NEORIS;Data Scientist;4;34000;37000;35000;EUR;yearly;Barcelona
+BABEL;Data Scientist;3.6;16000;17000;16000;EUR;yearly;Barcelona
+Driving01;Data Scientist;4;24000;25000;25000;EUR;yearly;Barcelona
+CHEP;Data Scientist;4;38000;42000;40000;EUR;yearly;Barcelona
+Freelancer;Data Scientist;4.2;1000;2000;1000;EUR;monthly;Barcelona
+Pagantis;Data Scientist;3.3;83000;90000;87000;EUR;yearly;Barcelona
+Schneider Electric;Data Scientist;4.3;34000;37000;35000;EUR;yearly;Barcelona
+OpenText;Data Scientist;3.4;41000;45000;43000;EUR;yearly;Barcelona
+Skyscanner;Data Scientist;4.5;71000;76000;74000;EUR;yearly;Barcelona
+TheFork;Data Scientist;3.8;43000;47000;45000;EUR;yearly;Barcelona
+Blue Yonder;Data Scientist;3.9;27000;29000;28000;EUR;yearly;Barcelona
+Unknown Planner;Data Scientist;3.8;22000;24000;23000;EUR;yearly;Barcelona
+InnoIT;Data Scientist;4.2;44000;47000;45000;EUR;yearly;Barcelona
+Gafas;Data Scientist;-0.10000000149011612;38000;42000;40000;EUR;yearly;Barcelona
+Eurecat;Data Scientist;3.5;29000;31000;30000;EUR;yearly;Barcelona
+CRG;Data Scientist;3;29000;32000;30000;EUR;yearly;Barcelona
+AIS Group;Data Scientist;4.7;34000;37000;35000;EUR;yearly;Barcelona
+Tech Data;Data Scientist;3.8;19000;21000;20000;EUR;yearly;Barcelona
+GINDUMAC;Data Scientist;3.4;769;836;802;EUR;monthly;Barcelona
+Cash App;Data Scientist;3.6;69000;75000;72000;EUR;yearly;Barcelona
+Nokia;Data Scientist;4;62000;68000;65000;EUR;yearly;Barcelona
+Software AG;Data Scientist;3.9;39000;42000;40000;EUR;yearly;Barcelona
+F.C. Barcelona;Data Scientist;3.9;21;23;22;EUR;hourly;Barcelona
+Zurich Insurance;Data Scientist;4.3;6;6;6;EUR;hourly;Barcelona
+Verychic;Data Scientist;3.6;716;782;749;EUR;monthly;Barcelona
+Exportadora Data Base;Data Scientist;2;29000;31000;30000;EUR;yearly;Barcelona
+New Born Solutions;Data Scientist;-0.10000000149011612;23000;25000;24000;EUR;yearly;Barcelona
+EY;Data Scientist;3.7;34000;36000;35000;EUR;yearly;Barcelona
+Institut de Recerca en Energia;Data Scientist;3.5;573;622;597;EUR;monthly;Barcelona
+Ledmotive;Data Scientist;5;34000;36000;35000;EUR;yearly;Barcelona
+Generali;Data Scientist;3.7;968;1000;1000;EUR;monthly;Barcelona
+Open Cosmos;Data Scientist;4.1;43000;47000;45000;EUR;yearly;Barcelona
+Werfen;Data Scientist;4;46000;50000;48000;EUR;yearly;Barcelona
+Beabloo;Data Scientist;2.4;23000;25000;24000;EUR;yearly;Barcelona
+IThinkUPC;Data Scientist;3.8;27000;29000;28000;EUR;yearly;Barcelona
+Connecthink;Data Scientist;3;30000;33000;32000;EUR;yearly;Barcelona
+Generalitat de Catalunya;Data Scientist;4;23000;25000;24000;EUR;yearly;Barcelona
+Accentue;Data Scientist;4.1;39000;42000;40000;EUR;yearly;Barcelona
+IsGlobal;Data Scientist;4.2;26000;28000;27000;EUR;yearly;Barcelona
+Management Solutions;Data Scientist;3.9;24000;26000;25000;EUR;yearly;Barcelona
+Hospital Sant Joan de Déu;Data Scientist;3.7;35000;38000;37000;EUR;yearly;Barcelona
+KingEclient;Data Scientist;3.5;38000;41000;40000;EUR;yearly;Barcelona
+Barcelona Supercomputing Center;Data Scientist;3.9;36000;40000;38000;EUR;yearly;Barcelona
+Cien;Data Scientist;4.5;23000;25000;24000;EUR;yearly;Barcelona
+Verychic;Data Scientist;3.6;53000;57000;55000;EUR;yearly;Barcelona
+PromoFarma by DocMorris;Data Scientist;3.5;53000;57000;55000;EUR;yearly;Barcelona
+Subway;Data Scientist;3.4;32000;35000;33000;EUR;yearly;Barcelona
+Innovamat Education;Data Scientist;3.7;34000;37000;36000;EUR;yearly;Barcelona
+Momentum Worldwide;Data Scientist;3.6;43000;47000;45000;EUR;yearly;Barcelona
+TTTech Auto;Data Scientist;3.5;31000;34000;33000;EUR;yearly;Barcelona
+Lidl;Data Scientist;3.4;44000;46000;45000;EUR;yearly;Barcelona
+Urgo Medical;Data Scientist;3.8;10;10;10;EUR;hourly;Barcelona
+Zhilabs;Data Scientist;4;25000;27000;26000;EUR;yearly;Barcelona
+Glovo;Data Scientist;3.5;773;829;801;EUR;monthly;Barcelona
+Locaria;Data Scientist;4.5;41000;44000;42000;EUR;yearly;Barcelona
+Minsait;Data Scientist;3.8;91;99;95;EUR;hourly;Barcelona
+Institut d'Estudis Espacials de Catalunya;Data Scientist;3.8;31000;34000;32000;EUR;yearly;Barcelona
+Entravision;Data Scientist;3.4;58000;64000;61000;EUR;yearly;Barcelona
+Burger King;Data Scientist;3.4;43000;47000;45000;EUR;yearly;Barcelona
+Eurofirms;Data Scientist;3;24000;26000;25000;EUR;yearly;Barcelona
+Deloitte;Data Scientist;3.9;29000;31000;30000;EUR;yearly;Barcelona
+AIA Group;Data Scientist;3.8;36000;39000;38000;EUR;yearly;Barcelona
+Engipro Energy;Data Scientist;-0.10000000149011612;24000;26000;25000;EUR;yearly;Barcelona
+DXC Technology;Data Scientist;3.5;46000;50000;48000;EUR;yearly;Barcelona
+HSBC;Data Scientist;3.9;48000;52000;50000;EUR;yearly;Barcelona
+Rubix Group;Data Scientist;3.6;45000;50000;47000;EUR;yearly;Barcelona
+Socralex Espagne;Data Scientist;3;45000;49000;47000;EUR;yearly;Barcelona
+None of Your Business Boutique;Data Scientist;4.1;58000;62000;60000;EUR;yearly;Barcelona
+Mad Collective;Data Scientist;3.3;38000;42000;40000;EUR;yearly;Barcelona
+inAtlas;Data Scientist;4;33000;35000;34000;EUR;yearly;Barcelona
+Meta;Data Scientist;3.9;38000;42000;40000;EUR;yearly;Barcelona
+Faromatics;Data Scientist;5;43000;47000;45000;EUR;yearly;Barcelona
+NexTReT;Data Scientist;3.2;45000;49000;47000;EUR;yearly;Barcelona
+Rentals United;Data Scientist;4.2;28000;30000;29000;EUR;yearly;Barcelona
+Cognizant Technology Solutions;Data Scientist;3.7;51000;57000;54000;EUR;yearly;Barcelona
+Zurich Insurance;Data Scientist;4.3;769;828;798;EUR;monthly;Barcelona
+HP Inc.;Data Scientist;4.1;38000;42000;40000;EUR;yearly;Barcelona
+Minimax Viking;Data Scientist;4;50000;55000;52000;EUR;yearly;Barcelona
+CINESA;Data Scientist;3.7;39000;43000;41000;EUR;yearly;Barcelona
+OneRagtime;Data Scientist;4.1;34000;36000;35000;EUR;yearly;Barcelona
+HP Inc.;Data Scientist;4.1;627;672;650;EUR;monthly;Barcelona
+Justinmind;Data Scientist;4.7;29000;31000;30000;EUR;yearly;Barcelona
+Kantar;Data Scientist;3.6;29000;31000;30000;EUR;yearly;Barcelona
+PromoFarma by DocMorris;Data Scientist;3.5;53000;57000;55000;EUR;yearly;Barcelona
+GMV;Data Scientist;4.2;38000;41000;40000;EUR;yearly;Barcelona
+New Scientist;Data Scientist;4.2;29000;31000;30000;EUR;yearly;Barcelona
+Afterpay;Data Scientist;3.9;41000;44000;43000;EUR;yearly;Barcelona
+Centre de Recerca Matemàtica;Data Scientist;4.8;10;10;10;EUR;hourly;Barcelona
+PayXpert;Data Scientist;4;29000;31000;30000;EUR;yearly;Barcelona
+KIABI;Data Scientist;3.8;39000;42000;40000;EUR;yearly;Barcelona
+GFT Technologies;Data Scientist;4.2;23000;25000;24000;EUR;yearly;Barcelona
+Universidad de Vigo;Data Scientist;4;29000;31000;30000;EUR;yearly;Barcelona
+Wind River;Data Scientist;3.7;55000;60000;58000;EUR;yearly;Barcelona
+CBRE;Data Scientist;3.9;29000;31000;30000;EUR;yearly;Barcelona
+Kings Games;Data Scientist;3.7;48000;52000;50000;EUR;yearly;Barcelona
+Billy;Data Scientist;3.9;46000;50000;48000;EUR;yearly;Barcelona
+Domestika;Data Scientist;2.4;43000;47000;45000;EUR;yearly;Barcelona
+Sportmas;Data Scientist;-0.10000000149011612;45000;50000;47000;EUR;yearly;Barcelona
+Ametller Origen;Data Scientist;3.4;28000;30000;29000;EUR;yearly;Barcelona
+Centre for Research in Agricultural Genomics - CRAG;Data Scientist;4.1;57000;62000;60000;EUR;yearly;Barcelona
+CornerJob;Data Scientist;2.9;27000;29000;28000;EUR;yearly;Barcelona
+Institut d'Investigacions Biomèdiques August Pi i Sunyer;Data Scientist;3.6;25000;27000;26000;EUR;yearly;Barcelona
+Nature’s Logic;Data Scientist;3.2;23000;25000;24000;EUR;yearly;Barcelona
+Mutt Data;Data Scientist;4.6;3000;3000;3000;EUR;monthly;Barcelona
+Cofidis;Data Scientist;4;29000;32000;30000;EUR;yearly;Barcelona
+NPAW;Data Scientist;2.5;21000;23000;22000;EUR;yearly;Barcelona
+Kaizen for Pharma;Data Scientist;-0.10000000149011612;29000;31000;30000;EUR;yearly;Barcelona
+Aizon;Data Scientist;4.1;45000;49000;47000;EUR;yearly;Barcelona
+One.Five;Data Scientist;5;57000;63000;60000;EUR;yearly;Barcelona
+Tesis;Data Scientist;3.9;29000;31000;30000;EUR;yearly;Barcelona
+Grupo Constant;Data Scientist;3.3;34000;37000;35000;EUR;yearly;Barcelona
+PharmaLex;Data Scientist;3.2;35000;37000;36000;EUR;yearly;Barcelona
+Emailing Network;Data Scientist;3.2;45000;49000;47000;EUR;yearly;Barcelona
+Ironhack;Data Scientist;3.5;24000;26000;25000;EUR;yearly;Barcelona
+Typeform;Data Scientist;3.3;1000;1000;1000;EUR;monthly;Barcelona
+Halbit Avionics;Data Scientist;2.7;39000;42000;40000;EUR;yearly;Barcelona
+Schibsted;Data Scientist;4.2;962;1000;1000;EUR;monthly;Barcelona
+Mática;Data Scientist;3.5;29000;31000;30000;EUR;yearly;Barcelona
+QIAGEN;Data Scientist;3.7;8;8;8;EUR;hourly;Barcelona
+Eli Lilly and Company;Data Scientist;4.1;100000;108000;104000;EUR;yearly;Barcelona
+ID Finance;Data Scientist;3.6;70000;76000;73000;EUR;yearly;Barcelona
+GPA Innovative;Data Scientist;2.6;27000;29000;28000;EUR;yearly;Barcelona
+SeQura;Data Scientist;4.4;30000;33000;31000;EUR;yearly;Barcelona
+Justcode;Data Scientist;4.7;23000;25000;24000;EUR;yearly;Barcelona
+Altran Technologies;Data Scientist;3;33000;37000;35000;EUR;yearly;Barcelona
+Ailytic;Data Scientist;5;48000;52000;50000;EUR;yearly;Barcelona
+GoldenSpear;Data Scientist;2.4;33000;36000;35000;EUR;yearly;Barcelona
+Altostratus Cloud Consulting;Data Scientist;3.5;23000;25000;24000;EUR;yearly;Barcelona
+CatSalut. Catalan Health Service;Data Scientist;2.9;39000;42000;41000;EUR;yearly;Barcelona
+Center for Genomic Regulation;Data Scientist;4.3;29000;31000;30000;EUR;yearly;Barcelona
+Ogilvy;Data Scientist;3.6;19000;21000;20000;EUR;yearly;Barcelona
+DatActions;Data Scientist;3.5;22000;24000;23000;EUR;yearly;Barcelona
+Accenture;Data Scientist;3.8;762;837;799;EUR;monthly;Barcelona
+Festo;Data Scientist;4;44000;48000;46000;EUR;yearly;Barcelona
+Sandsoft;Data Scientist;3.3;29000;32000;30000;EUR;yearly;Barcelona
+Ecolab;Data Scientist;3.7;29000;31000;30000;EUR;yearly;Barcelona
+Netquest (Spain);Data Scientist;3;17000;19000;18000;EUR;yearly;Barcelona
+Port d'Informació Científica;Data Scientist;-0.10000000149011612;32000;34000;33000;EUR;yearly;Barcelona
+Heetco;Data Scientist;3;48000;52000;50000;EUR;yearly;Barcelona
+TravelPerk;Data Scientist;4.1;48000;52000;50000;EUR;yearly;Barcelona
+Boehringer Ingelheim;Data Scientist;4.1;48000;52000;50000;EUR;yearly;Barcelona
+PwC;Data Scientist;3.8;44000;48000;46000;EUR;yearly;Barcelona
+ESADE;Data Scientist;4.2;24000;26000;25000;EUR;yearly;Barcelona
+Liceu Opera Barcelona;Data Scientist;3;966;1000;1000;EUR;monthly;Barcelona
+IDT;Data Scientist;4.2;37000;39000;38000;EUR;yearly;Barcelona
+Chemotargets;Data Scientist;-0.10000000149011612;26000;29000;28000;EUR;yearly;Barcelona
+REDICO;Data Scientist;4.3;68000;73000;71000;EUR;yearly;Barcelona
+Talent Up;Data Scientist;5;8;8;8;EUR;hourly;Barcelona
+Page Personnel;Data Scientist;3.6;28000;31000;29000;EUR;yearly;Barcelona
+SCRM;Data Scientist;4.3;32000;35000;33000;EUR;yearly;Barcelona
+DataScientest;Data Scientist;4.1;39000;42000;41000;EUR;yearly;Barcelona
+Talent Up;Data Scientist;5;12000;13000;13000;EUR;yearly;Barcelona
+IntelliSense.io;Data Scientist;4.4;49000;53000;51000;EUR;yearly;Barcelona
+Derbysoft;Data Scientist;4;44000;48000;46000;EUR;yearly;Barcelona
+Reply;Data Scientist;3.9;28000;30000;29000;EUR;yearly;Barcelona
+Artidis;Data Scientist;4;5000;5000;5000;EUR;monthly;Barcelona
+Bluetab;Data Scientist;4.1;27000;29000;28000;EUR;yearly;Barcelona
+freelance;Data Scientist;4.2;31000;34000;32000;EUR;yearly;Barcelona
+IDEMIA;Data Scientist;3.9;10000;10000;10000;EUR;yearly;Barcelona
+Grupo Planeta;Data Scientist;4.4;6;7;6;EUR;hourly;Barcelona
+Input Output;Data Scientist;3.8;77000;83000;80000;EUR;yearly;Barcelona
+EFA Ventures;Data Scientist;2.9;39000;41000;40000;EUR;yearly;Barcelona
+Econocom;Data Scientist;2.9;19000;21000;20000;EUR;yearly;Barcelona
+Upshelf;Data Scientist;1.9;29000;31000;30000;EUR;yearly;Barcelona
+Hiberus Tecnología;Data Scientist;3.7;33000;36000;34000;EUR;yearly;Barcelona
+Grupo Godó;Data Scientist;2.7;58000;62000;60000;EUR;yearly;Barcelona
+TeamCMP;Data Scientist;3.7;53000;57000;55000;EUR;yearly;Barcelona
+Trencadis;Data Scientist;3.9;1000;1000;1000;EUR;monthly;Barcelona
+Toptal;Data Scientist;3.5;43;47;45;EUR;hourly;Barcelona
+Grifols;Data Scientist;3.4;29000;31000;30000;EUR;yearly;Barcelona
+Rover.com;Data Scientist;3.9;43000;46000;45000;EUR;yearly;Barcelona
+Ofertia;Data Scientist;3.6;35000;38000;36000;EUR;yearly;Barcelona
+PepsiCo;Data Scientist;3.9;21000;23000;22000;EUR;yearly;Barcelona
+Lighthouse Digital;Data Scientist;-0.10000000149011612;39000;42000;40000;EUR;yearly;Barcelona
+Weekendesk;Data Scientist;3.7;27000;29000;28000;EUR;yearly;Barcelona
+AleaSoft Energy Forecasting;Data Scientist;2;29000;31000;30000;EUR;yearly;Barcelona
+The Coca-Cola Company;Data Scientist;4.1;38000;42000;40000;EUR;yearly;Barcelona
+Saptools Consulting;Data Scientist;2.8;34000;37000;36000;EUR;yearly;Barcelona
+Frontiers;Data Scientist;2.7;38000;42000;40000;EUR;yearly;Barcelona
+Toptal;Data Scientist;3.5;53;57;55;EUR;hourly;Barcelona
+Norwegian Air Shuttle;Data Scientist;4.3;43000;47000;45000;EUR;yearly;Barcelona
+BenevolentAI;Data Scientist;3.4;53000;57000;55000;EUR;yearly;Barcelona
+EOLOS Floating Lidar Solutions;Data Scientist;4;37000;40000;38000;EUR;yearly;Barcelona
+REML;Data Scientist;-0.10000000149011612;24;26;25;EUR;hourly;Barcelona
+Universal Robots;Data Scientist;3.4;952;1000;999;EUR;monthly;Barcelona
+Wikiloc;Data Scientist;-0.10000000149011612;43000;47000;45000;EUR;yearly;Barcelona
+BLING;Data Scientist;4.1;33000;35000;34000;EUR;yearly;Barcelona
+Adevinta Spain;Data Scientist;4;574;619;596;EUR;monthly;Barcelona
+Privalia;Data Scientist;3.3;27000;29000;28000;EUR;yearly;Barcelona
+Arquia Banca;Data Scientist;3.2;40000;43000;42000;EUR;yearly;Barcelona
+Grupo CMC;Data Scientist;2.9;29000;31000;30000;EUR;yearly;Barcelona
+NTT DATA;Data Scientist;3.8;669;730;699;EUR;monthly;Barcelona
+ProcessTalks;Data Scientist;-0.10000000149011612;11;12;11;EUR;hourly;Barcelona
+Vortex;Data Scientist;5;42000;46000;44000;EUR;yearly;Barcelona
+Science4Tech;Data Scientist;3.5;29000;31000;30000;EUR;yearly;Barcelona
+Firmenich;Data Scientist;3.8;64000;69000;67000;EUR;yearly;Barcelona
+Henkel;Data Scientist;4.3;43000;47000;45000;EUR;yearly;Barcelona
+inLab FIB;Data Scientist;4.9;562;599;580;EUR;monthly;Barcelona
+KU Leuven;Data Scientist;4.2;43000;47000;45000;EUR;yearly;Barcelona
+Deporvillage;Data Scientist;2.7;48000;52000;50000;EUR;yearly;Barcelona
+FocusEconomics;Data Scientist;3.5;29000;31000;30000;EUR;yearly;Barcelona
+Hypefactors;Data Scientist;3.2;3000;4000;3000;EUR;monthly;Barcelona
+dsm-firmenich;Data Scientist;3.8;49000;53000;51000;EUR;yearly;Barcelona
+Teladoc Health;Data Scientist;3.3;54000;58000;56000;EUR;yearly;Barcelona
+NTT DATA;Data Scientist;3.8;5;5;5;EUR;hourly;Barcelona
+Multiplica;Data Scientist;3.4;30000;33000;31000;EUR;yearly;Barcelona
+Ocado Technology;Data Scientist;3.7;35000;37000;36000;EUR;yearly;Barcelona
+Desigual;Data Scientist;3.6;958;1000;1000;EUR;monthly;Barcelona
+M47 AI Company;Data Scientist;3.3;48000;52000;50000;EUR;yearly;Barcelona
+Infosys;Data Scientist;3.6;47000;50000;48000;EUR;yearly;Barcelona
+Earth Rover;Data Scientist;5;39000;42000;40000;EUR;yearly;Barcelona
+SITA;Data Scientist;3.6;26000;28000;27000;EUR;yearly;Barcelona
+I2cat;Senior Data Engineer;4.2;49000;53000;51000;EUR;yearly;Barcelona
+Packlink;Senior Data Engineer;3.9;58000;62000;60000;EUR;yearly;Barcelona
+Socialpoint;Senior Data Engineer;4.1;48000;52000;50000;EUR;yearly;Barcelona
+Spotify;Senior Data Engineer;4;89000;97000;93000;EUR;yearly;Barcelona
+Fluidra;Senior Data Engineer;4.1;42000;46000;44000;EUR;yearly;Barcelona
+Automatiq;Senior Data Engineer;4.6;58000;62000;60000;EUR;yearly;Barcelona
+Activision Blizzard;Senior Data Engineer;3.7;63000;69000;66000;EUR;yearly;Barcelona
+Belvo;Senior Data Engineer;4.5;91000;98000;95000;EUR;yearly;Barcelona
+Sparta Commodities;Senior Data Engineer;4.1;61000;65000;63000;EUR;yearly;Barcelona
+Ayesa;Senior Data Engineer;3.4;58000;63000;61000;EUR;yearly;Barcelona
+SlashMobility;Senior Data Engineer;3.6;34000;36000;35000;EUR;yearly;Barcelona
+TKWW;Senior Data Engineer;4.2;42000;46000;44000;EUR;yearly;Barcelona
+Volkswagen Financial Services;Senior Data Engineer;3.7;90000;99000;95000;EUR;yearly;Barcelona
+( caravelo (;Senior Data Engineer;3.8;68000;73000;70000;EUR;yearly;Barcelona
+WIRIS;Senior Data Engineer;3.7;34000;36000;35000;EUR;yearly;Barcelona
+Privalia;Senior Data Engineer;3.3;26000;28000;27000;EUR;yearly;Barcelona
+Clarity AI;Senior Data Engineer;4.3;58000;62000;60000;EUR;yearly;Barcelona
+North Shore Supply;Senior Data Engineer;3.4;48000;52000;50000;EUR;yearly;Barcelona
+King;Senior Data Engineer;3.4;71000;77000;74000;EUR;yearly;Barcelona
+SWORD GROUP;Senior Data Engineer;3.6;48000;52000;50000;EUR;yearly;Barcelona
+CoachHub;Senior Data Engineer;3.8;69000;75000;72000;EUR;yearly;Barcelona
+SCRM;Senior Data Engineer;4.3;53000;58000;56000;EUR;yearly;Barcelona
+Minsait;Senior Data Engineer;3.8;29000;31000;30000;EUR;yearly;Barcelona
+Strategic Platform;Senior Data Engineer;4;43000;47000;45000;EUR;yearly;Barcelona
+Vueling Airlines;Senior Data Engineer;3.7;95000;103000;99000;EUR;yearly;Barcelona
+Hybrid Theory;Senior Data Engineer;3.7;52000;58000;55000;EUR;yearly;Barcelona
+SEAT:CODE;Senior Data Engineer;3.3;60000;66000;63000;EUR;yearly;Barcelona
+Stratesys;Senior Data Engineer;3.8;43000;47000;45000;EUR;yearly;Barcelona
+Chartboost;Senior Data Engineer;3.3;68000;73000;70000;EUR;yearly;Barcelona
+Zurich Insurance;Senior Data Engineer;4.3;49000;53000;51000;EUR;yearly;Barcelona
+BertIA;Senior Data Engineer;5;46000;50000;48000;EUR;yearly;Barcelona
+BaseTIS;Senior Data Engineer;3.5;39000;42000;40000;EUR;yearly;Barcelona
+Lemonade Advanced Software Development;Senior Data Engineer;5;57000;62000;59000;EUR;yearly;Barcelona
+buynomics;Senior Data Engineer;4.1;60000;64000;62000;EUR;yearly;Barcelona
+Bayer;Senior Data Engineer;3.9;56000;60000;58000;EUR;yearly;Barcelona
+Accenture;Data Analyst;3.8;38000;42000;40000;EUR;yearly;Barcelona
+BertIA;Data Analyst;5;29000;32000;31000;EUR;yearly;Barcelona
+Adevinta;Data Analyst;3.6;57000;62000;60000;EUR;yearly;Barcelona
+SDG Consultants;Data Analyst;4;25000;27000;26000;EUR;yearly;Barcelona
+wefox;Data Analyst;3.1;46000;50000;48000;EUR;yearly;Barcelona
+Autodesk;Data Analyst;4.2;44000;48000;46000;EUR;yearly;Barcelona
+bolttech;Data Analyst;4;42000;46000;44000;EUR;yearly;Barcelona
+NextLink Solutions;Data Analyst;3.7;54000;58000;56000;EUR;yearly;Barcelona
+Miebach Consulting;Data Analyst;4.1;24000;26000;25000;EUR;yearly;Barcelona
+Amplifon;Data Analyst;3.2;6;6;6;EUR;hourly;Barcelona
+Media Markt;Data Analyst;3.4;25000;27000;26000;EUR;yearly;Barcelona
+IQVIA;Data Analyst;3.8;29000;31000;30000;EUR;yearly;Barcelona
+AirDNA;Data Analyst;3.6;31000;34000;33000;EUR;yearly;Barcelona
+Prologis;Data Analyst;4.6;32000;35000;34000;EUR;yearly;Barcelona
+Dynatrace;Data Analyst;4.1;44000;48000;46000;EUR;yearly;Barcelona
+Colt Technology Services Group Limited;Data Analyst;4.2;29000;31000;30000;EUR;yearly;Barcelona
+Mundo Deportivo (Spain);Data Analyst;3.7;31000;33000;32000;EUR;yearly;Barcelona
+The Wittmore;Data Analyst;4.6;22000;24000;23000;EUR;yearly;Barcelona
+Global;Data Analyst;3.4;1000;2000;1000;EUR;monthly;Barcelona
+Sage;Data Analyst;3.5;35000;38000;36000;EUR;yearly;Barcelona
+Fedefarma;Data Analyst;3.8;34000;36000;35000;EUR;yearly;Barcelona
+Colvin;Data Analyst;3.4;29000;31000;30000;EUR;yearly;Barcelona
+Ogilvy;Data Analyst;3.6;3000;3000;3000;EUR;monthly;Barcelona
+Pawer;Data Analyst;3.9;27000;29000;28000;EUR;yearly;Barcelona
+Damm;Data Analyst;4.2;33000;36000;35000;EUR;yearly;Barcelona
+Capgemini;Data Analyst;3.8;25000;27000;26000;EUR;yearly;Barcelona
+FocusEconomics;Data Analyst;3.5;24000;26000;25000;EUR;yearly;Barcelona
+Hotel Investment Partners;Data Analyst;4.4;41000;45000;43000;EUR;yearly;Barcelona
+Typeform;Data Analyst;3.3;65000;70000;68000;EUR;yearly;Barcelona
+LIFULL Connect;Data Analyst;2.8;39000;42000;40000;EUR;yearly;Barcelona
+Siemens;Data Analyst;4.1;62000;68000;65000;EUR;yearly;Barcelona
+Desigual;Data Analyst;3.6;29000;31000;30000;EUR;yearly;Barcelona
+GFT Technologies;Data Analyst;4.2;34000;36000;35000;EUR;yearly;Barcelona
+CSB;Data Analyst;3.3;35000;38000;36000;EUR;yearly;Barcelona
+Grupo Planeta;Data Analyst;4.4;25000;27000;26000;EUR;yearly;Barcelona
+Voodoo;Data Analyst;4.3;65000;70000;67000;EUR;yearly;Barcelona
+Job&Talent;Data Analyst;4;43000;47000;45000;EUR;yearly;Barcelona
+ISDIN;Data Analyst;4;38000;41000;39000;EUR;yearly;Barcelona
+San Diego Gas & Electric;Data Analyst;3.9;24000;26000;25000;EUR;yearly;Barcelona
+Reckitt;Data Analyst;3.8;32000;34000;33000;EUR;yearly;Barcelona
+Jarvis Labs;Data Analyst;5;35000;39000;37000;EUR;yearly;Barcelona
+Domestika;Data Analyst;2.4;48000;52000;50000;EUR;yearly;Barcelona
+Netquest;Data Analyst;-0.10000000149011612;19000;21000;20000;EUR;yearly;Barcelona
+SEAT:CODE;Data Analyst;3.3;35000;38000;37000;EUR;yearly;Barcelona
+TransPerfect;Data Analyst;3;22000;24000;23000;EUR;yearly;Barcelona
+Doxa (italy);Data Analyst;3.6;38000;42000;40000;EUR;yearly;Barcelona
+Wallbox;Data Analyst;2.7;39000;42000;40000;EUR;yearly;Barcelona
+Concentrix;Data Analyst;3.9;28000;30000;29000;EUR;yearly;Barcelona
+Autodesk;Data Analyst;4.2;96000;104000;100000;EUR;yearly;Barcelona
+HP Inc.;Data Analyst;4.1;26000;28000;27000;EUR;yearly;Barcelona
+Ajuntament de Barcelona;Data Analyst;4.2;32000;34000;33000;EUR;yearly;Barcelona
+NTT DATA;Data Analyst;3.8;26000;28000;27000;EUR;yearly;Barcelona
+Hexagon;Data Analyst;3.9;41000;45000;43000;EUR;yearly;Barcelona
+Bismart;Data Analyst;3.2;34000;37000;36000;EUR;yearly;Barcelona
+STALICLA;Data Analyst;4;23000;25000;24000;EUR;yearly;Barcelona
+Google;Data Analyst;4.3;48000;52000;50000;EUR;yearly;Barcelona
+Taylor Nelson Sofres International;Data Analyst;5;19000;21000;20000;EUR;yearly;Barcelona
+Telematel;Data Analyst;2.6;20000;22000;21000;EUR;yearly;Barcelona
+Bershka;Data Analyst;3.4;38000;41000;40000;EUR;yearly;Barcelona
+Contentsquare;Data Analyst;3.5;72000;78000;75000;EUR;yearly;Barcelona
+Hotelbeds;Data Analyst;3.5;38000;40000;39000;EUR;yearly;Barcelona
+Boehringer Ingelheim;Data Analyst;4.1;48000;52000;50000;EUR;yearly;Barcelona
+Reby;Data Analyst;3.2;27000;29000;28000;EUR;yearly;Barcelona
+Opella Healthcare Group;Data Analyst;3.9;29000;31000;30000;EUR;yearly;Barcelona
+Lidl;Data Analyst;3.4;574;622;598;EUR;monthly;Barcelona
+eworks;Data Analyst;3.2;21000;23000;22000;EUR;yearly;Barcelona
+Momentum Data;Data Analyst;4.2;29000;31000;30000;EUR;yearly;Barcelona
+Comercia Global Payments;Data Analyst;3.3;26000;28000;27000;EUR;yearly;Barcelona
+BABEL;Data Analyst;3.6;29000;31000;30000;EUR;yearly;Barcelona
+Festo;Data Analyst;4;30000;32000;31000;EUR;yearly;Barcelona
+Quest Global;Data Analyst;3.7;37000;40000;38000;EUR;yearly;Barcelona
+Lidl;Data Analyst;3.4;38000;41000;40000;EUR;yearly;Barcelona
+Coniq;Data Analyst;4.5;36000;40000;38000;EUR;yearly;Barcelona
+ZITRO;Data Analyst;3.6;27000;29000;28000;EUR;yearly;Barcelona
+Médicos Sin Fronteras;Data Analyst;4.1;34000;36000;35000;EUR;yearly;Barcelona
+Merkle;Data Analyst;3.6;44000;47000;45000;EUR;yearly;Barcelona
+Takeda Pharmaceuticals;Data Analyst;3.9;78000;84000;81000;EUR;yearly;Barcelona
+Loyal Guru;Data Analyst;2.9;36000;39000;37000;EUR;yearly;Barcelona
+Alo Groups;Data Analyst;4.5;34000;36000;35000;EUR;yearly;Barcelona
+Durcal;Data Analyst;2.9;26000;28000;27000;EUR;yearly;Barcelona
+IWG;Data Analyst;3.5;29000;31000;30000;EUR;yearly;Barcelona
+TheFork;Data Analyst;3.8;47000;51000;49000;EUR;yearly;Barcelona
+Paack;Data Analyst;2.8;48000;52000;50000;EUR;yearly;Barcelona
+Travelport;Data Analyst;3.3;43000;47000;45000;EUR;yearly;Barcelona
+SDG;Data Analyst;4.2;26000;28000;27000;EUR;yearly;Barcelona
+Penguin Random House;Data Analyst;3.9;35000;38000;36000;EUR;yearly;Barcelona
+Universidade de São Paulo (USP);Data Analyst;4.4;2000;2000;2000;EUR;monthly;Barcelona
+Scalapay;Data Analyst;3.5;45000;49000;47000;EUR;yearly;Barcelona
+Unilever;Data Analyst;4;37000;39000;38000;EUR;yearly;Barcelona
+ARJ Business Advisory;Data Analyst;4.3;22000;24000;23000;EUR;yearly;Barcelona
+Ministerio de Salud y Protección Social;Data Analyst;4.4;2000;2000;2000;EUR;monthly;Barcelona
+Vall d'Hebron Institut de Recerca;Data Analyst;3.5;949;1000;983;EUR;monthly;Barcelona
+SAP;Data Analyst;4.2;24000;26000;25000;EUR;yearly;Barcelona
+CloudKitchens;Data Analyst;3.1;72000;79000;76000;EUR;yearly;Barcelona
+Por Cuenta Propia;Data Analyst;4.2;14000;15000;15000;EUR;yearly;Barcelona
+SeQura;Data Analyst;4.4;38000;42000;40000;EUR;yearly;Barcelona
+Capgemini Engineering;Data Analyst;3.5;25000;27000;26000;EUR;yearly;Barcelona
+Nespresso;Data Analyst;3.9;63000;68000;66000;EUR;yearly;Barcelona
+Tokiota;Data Analyst;3.5;29000;31000;30000;EUR;yearly;Barcelona
+CatSalut. Catalan Health Service;Data Analyst;2.9;27000;29000;28000;EUR;yearly;Barcelona
+Cofidis;Data Analyst;4;49000;53000;51000;EUR;yearly;Barcelona
+Wolters Kluwer;Data Analyst;3.7;38000;41000;40000;EUR;yearly;Barcelona
+Asepeyo;Data Analyst;3.6;41000;44000;42000;EUR;yearly;Barcelona
+ESTEVE (Spain);Data Analyst;3.8;10000;10000;10000;EUR;yearly;Barcelona
+Zurich Insurance;Data Analyst;4.3;30000;32000;31000;EUR;yearly;Barcelona
+JNU Analytics;Data Analyst;-0.10000000149011612;1000;2000;1000;EUR;monthly;Barcelona
+RBA (Spain);Data Analyst;2.8;25000;27000;26000;EUR;yearly;Barcelona
+Mitsubishi;Data Analyst;3.8;34000;38000;36000;EUR;yearly;Barcelona
+Next Digital Hub;Data Analyst;4.3;34000;36000;35000;EUR;yearly;Barcelona
+Unioncrate;Data Analyst;4.7;39000;41000;40000;EUR;yearly;Barcelona
+CECOT;Data Analyst;4;19000;21000;20000;EUR;yearly;Barcelona
+Semrush;Data Analyst;3.7;53000;58000;55000;EUR;yearly;Barcelona
+Heroes Technology;Data Analyst;4.1;43000;47000;45000;EUR;yearly;Barcelona
+Test;Data Analyst;4;67000;73000;70000;EUR;yearly;Barcelona
+asf;Data Analyst;4.2;24000;26000;25000;EUR;yearly;Barcelona
+Decathlon;Data Analyst;4;19000;21000;20000;EUR;yearly;Barcelona
+Stanley Black & Decker;Data Analyst;3.5;35000;37000;36000;EUR;yearly;Barcelona
+Amber Solutions;Data Analyst;2.4;33000;36000;35000;EUR;yearly;Barcelona
+LCR Group;Data Analyst;4.6;24000;26000;25000;EUR;yearly;Barcelona
+HBX Group;Data Analyst;4.2;19000;21000;20000;EUR;yearly;Barcelona
+Adevinta;Data Analyst;3.6;33000;36000;35000;EUR;yearly;Barcelona
+Edreams Edusoft;Data Analyst;3.6;41000;43000;42000;EUR;yearly;Barcelona
+OBS Business School;Data Analyst;3.9;24000;26000;25000;EUR;yearly;Barcelona
+Impress;Data Analyst;3.1;34000;37000;35000;EUR;yearly;Barcelona
+lastminute.com;Data Analyst;3.4;39000;41000;40000;EUR;yearly;Barcelona
+Privalia;Data Analyst;3.3;19000;21000;20000;EUR;yearly;Barcelona
+Normmal;Data Analyst;4;33000;36000;35000;EUR;yearly;Barcelona
+Deloitte;Data Analyst;3.8;24000;26000;25000;EUR;yearly;Barcelona
+Torrons Vicens;Data Analyst;3.3;6;6;6;EUR;hourly;Barcelona
+Volkswagen Group Services;Data Analyst;3.5;37000;40000;38000;EUR;yearly;Barcelona
+Havas Media;Data Analyst;3.6;24000;26000;25000;EUR;yearly;Barcelona
+CSS;Data Analyst;3.7;58000;63000;60000;EUR;yearly;Barcelona
+Universitat Oberta de Catalunya;Data Analyst;3.8;29000;31000;30000;EUR;yearly;Barcelona
+Siemens Energy;Data Analyst;4.2;57000;62000;60000;EUR;yearly;Barcelona
+BaseTIS;Data Analyst;3.5;23000;25000;24000;EUR;yearly;Barcelona
+Preply;Data Analyst;4.1;62000;67000;65000;EUR;yearly;Barcelona
+AstraZeneca;Data Analyst;4;58000;62000;60000;EUR;yearly;Barcelona
+HP Inc.;Data Analyst;4.1;29000;31000;30000;EUR;yearly;Barcelona
+Linde;Data Analyst;3.6;41000;45000;43000;EUR;yearly;Barcelona
+Barcelona de Serveis Municipals;Data Analyst;3.7;8;8;8;EUR;hourly;Barcelona
+Meeting Doctors;Data Analyst;3.4;34000;37000;35000;EUR;yearly;Barcelona
+Generalitat de Catalunya;Data Analyst;4;34000;36000;35000;EUR;yearly;Barcelona
+Cash App;Data Analyst;3.6;50000;54000;52000;EUR;yearly;Barcelona
+Pentrilo;Data Analyst;3;24000;26000;25000;EUR;yearly;Barcelona
+Gaming Laboratories International;Data Analyst;3;26000;28000;27000;EUR;yearly;Barcelona
+Laguna;Data Analyst;3.2;30000;32000;31000;EUR;yearly;Barcelona
+CloudBlue;Data Analyst;3;42000;45000;43000;EUR;yearly;Barcelona
+CIRSA;Data Analyst;3.6;29000;31000;30000;EUR;yearly;Barcelona
+Doctoralia;Data Analyst;3.9;27000;29000;28000;EUR;yearly;Barcelona
+Ara Vinc;Data Analyst;3.3;27000;29000;28000;EUR;yearly;Barcelona
+Global Green Growth Institute;Data Analyst;3.8;24000;26000;25000;EUR;yearly;Barcelona
+Immfly;Data Analyst;3.5;31000;34000;32000;EUR;yearly;Barcelona
+Bitpanda;Data Analyst;3.8;53000;57000;55000;EUR;yearly;Barcelona
+Rakuten TV;Data Analyst;3.8;40000;44000;42000;EUR;yearly;Barcelona
+Comisión Federal de Competencia Económica;Data Analyst;4.2;3000;3000;3000;EUR;monthly;Barcelona
+Ironhack;Data Analyst;3.5;1000;1000;1000;EUR;monthly;Barcelona
+everis;Data Analyst;3.6;32000;36000;34000;EUR;yearly;Barcelona
+Papernest;Data Analyst;3.7;2000;3000;2000;EUR;monthly;Barcelona
+Ideawise Group;Data Analyst;4;42000;46000;44000;EUR;yearly;Barcelona
+AMBAR SOLUCIONES;Data Analyst;4.1;27000;29000;28000;EUR;yearly;Barcelona
+Vista;Data Analyst;3.8;43000;47000;45000;EUR;yearly;Barcelona
+NDT Global;Data Analyst;3.9;29000;31000;30000;EUR;yearly;Barcelona
+Allianz;Data Analyst;4;37000;40000;38000;EUR;yearly;Barcelona
+Adevinta Spain;Data Analyst;4;59000;64000;61000;EUR;yearly;Barcelona
+SICK;Data Analyst;4.1;24000;26000;25000;EUR;yearly;Barcelona
+TD SYNNEX;Data Analyst;3.7;29000;31000;30000;EUR;yearly;Barcelona
+Vall d'Hebron Institut de Recerca;Data Analyst;3.5;29000;31000;30000;EUR;yearly;Barcelona
+Stuart;Data Analyst;3;39000;42000;40000;EUR;yearly;Barcelona
+Phiture;Data Analyst;3.8;49000;53000;51000;EUR;yearly;Barcelona
+Gameloft;Data Analyst;3.8;43000;46000;45000;EUR;yearly;Barcelona
+La Capricciosa;Data Analyst;4.6;2000;2000;2000;EUR;monthly;Barcelona
+TravelPerk;Data Analyst;4.1;50000;54000;52000;EUR;yearly;Barcelona
+Human Technopole;Data Analyst;3.4;2000;2000;2000;EUR;monthly;Barcelona
+B-Led;Data Analyst;5;2000;2000;2000;EUR;monthly;Barcelona
+Antai Venture Builder;Data Analyst;4.6;26000;28000;27000;EUR;yearly;Barcelona
+Gift Campaign;Data Analyst;4.7;29000;31000;30000;EUR;yearly;Barcelona
+SI Group;Data Analyst;3.5;2000;2000;2000;EUR;monthly;Barcelona
+Barcelona Supercomputing Center;Data Analyst;3.9;38000;42000;40000;EUR;yearly;Barcelona
+UL Solutions;Data Analyst;3.7;26000;28000;27000;EUR;yearly;Barcelona
+Remote;Data Analyst;3.6;61000;66000;63000;EUR;yearly;Barcelona
+Lodgify;Data Analyst;4.2;53000;57000;55000;EUR;yearly;Barcelona
+Smadex;Data Analyst;4;28000;30000;29000;EUR;yearly;Barcelona
+4sfera Innova;Data Analyst;-0.10000000149011612;25000;27000;26000;EUR;yearly;Barcelona
+Ampans;Data Analyst;2.3;21000;23000;22000;EUR;yearly;Barcelona
+Shiji Group;Data Analyst;3.5;2000;3000;3000;EUR;monthly;Barcelona
+Zeptolab;Data Analyst;4.1;39000;42000;41000;EUR;yearly;Barcelona
+Sibilare;Data Analyst;5;27000;29000;28000;EUR;yearly;Barcelona
+Schneider Electric;Data Analyst;4.3;861;945;903;EUR;monthly;Barcelona
+Citibeats;Data Analyst;4;31000;33000;32000;EUR;yearly;Barcelona
+Cafler;Data Analyst;3.1;17000;19000;18000;EUR;yearly;Barcelona
+Activision Blizzard;Data Analyst;3.7;51000;55000;53000;EUR;yearly;Barcelona
+:Tappx;Big Data Engineer;4.3;45000;49000;47000;EUR;yearly;Barcelona
+Adevinta Spain;Big Data Engineer;4;44000;48000;46000;EUR;yearly;Barcelona
+Prasist Sistemas;Big Data Engineer;4;22000;24000;23000;EUR;yearly;Barcelona
+Emailing Network;Big Data Engineer;3.2;29000;31000;30000;EUR;yearly;Barcelona
+Minsait;Big Data Engineer;3.8;26000;28000;27000;EUR;yearly;Barcelona
+I2cat;Big Data Engineer;4.2;9;9;9;EUR;hourly;Barcelona
+SDG;Big Data Engineer;4.2;43000;46000;45000;EUR;yearly;Barcelona
+Beabloo;Big Data Engineer;2.4;39000;42000;40000;EUR;yearly;Barcelona
+GFT Technologies;Big Data Engineer;4.2;34000;37000;36000;EUR;yearly;Barcelona
+Telefónica;Big Data Engineer;4.1;57000;62000;60000;EUR;yearly;Barcelona
+Deloitte;Big Data Engineer;3.9;39000;43000;41000;EUR;yearly;Barcelona
+SCRM;Big Data Engineer;4.3;37000;40000;38000;EUR;yearly;Barcelona
+Zurich Insurance;Big Data Engineer;4.3;41000;43000;42000;EUR;yearly;Barcelona
+Bertrandt;Big Data Engineer;3.5;32000;35000;34000;EUR;yearly;Barcelona
+Mango;Big Data Engineer;3.5;2000;2000;2000;EUR;monthly;Barcelona
+Rakuten TV;Big Data Engineer;3.8;34000;37000;35000;EUR;yearly;Barcelona
+PwC;Big Data Engineer;3.8;29000;31000;30000;EUR;yearly;Barcelona
+SEAT S.A.;Big Data Engineer;4.2;24000;25000;24000;EUR;yearly;Barcelona
+knowmad mood;Big Data Engineer;4.1;42000;46000;44000;EUR;yearly;Barcelona
+Schneider Electric;Big Data Engineer;4.3;51000;55000;53000;EUR;yearly;Barcelona
+Roche;Data Science Engineer;4.2;24000;26000;25000;EUR;yearly;Barcelona
+Hybrid Theory;Senior Data Scientist;3.7;50000;54000;52000;EUR;yearly;Barcelona
+Derbysoft;Senior Data Scientist;4;46000;50000;48000;EUR;yearly;Barcelona
+Kintai;Senior Data Scientist;3;43000;47000;45000;EUR;yearly;Barcelona
+Novartis Gene Therapies;Senior Data Scientist;3.8;57000;62000;60000;EUR;yearly;Barcelona
+Exoticca;Senior Data Scientist;3;58000;63000;60000;EUR;yearly;Barcelona
+Impress;Senior Data Scientist;3.1;52000;57000;54000;EUR;yearly;Barcelona
+Amadeus;Senior Data Scientist;4.1;46000;50000;48000;EUR;yearly;Barcelona
+Scopely;Senior Data Scientist;3.9;63000;69000;66000;EUR;yearly;Barcelona
+Servihabitat Servicios Inmobiliarios;Senior Data Scientist;3.3;48000;52000;50000;EUR;yearly;Barcelona
+Datarmony;Senior Data Scientist;5;38000;42000;40000;EUR;yearly;Barcelona
+Mática;Senior Data Scientist;3.5;42000;46000;44000;EUR;yearly;Barcelona
+Adevinta Spain;Senior Data Scientist;4;77000;84000;80000;EUR;yearly;Barcelona
+Caixa d'Enginyers;Senior Data Scientist;2.6;41000;45000;43000;EUR;yearly;Barcelona
+ID Finance;Senior Data Scientist;3.6;4000;4000;4000;EUR;monthly;Barcelona
+Cofidis;Senior Data Scientist;4;47000;51000;49000;EUR;yearly;Barcelona
+Amazon;Senior Data Scientist;3.6;135000;145000;140000;EUR;yearly;Barcelona
+NDT Global;Senior Data Scientist;3.9;67000;73000;70000;EUR;yearly;Barcelona
+Hospital Sant Joan de Déu;Senior Data Scientist;3.7;32000;34000;33000;EUR;yearly;Barcelona
+Rover.com;Senior Data Scientist;3.9;97000;105000;101000;EUR;yearly;Barcelona
+GFT Technologies;Senior Data Scientist;4.2;40000;44000;42000;EUR;yearly;Barcelona
+BaseTIS;Senior Data Scientist;3.5;51000;56000;53000;EUR;yearly;Barcelona
+IntelliSense.io;Senior Data Scientist;4.4;45000;49000;47000;EUR;yearly;Barcelona
+Kings Games;Senior Data Scientist;3.7;63000;69000;66000;EUR;yearly;Barcelona
+Schneider Electric;Senior Data Scientist;4.3;53000;57000;55000;EUR;yearly;Barcelona
+Oracle;Senior Data Scientist;3.8;68000;73000;70000;EUR;yearly;Barcelona
+Institut d'Investigacions Biomèdiques August Pi i Sunyer;Senior Data Scientist;3.6;31000;33000;32000;EUR;yearly;Barcelona
+Microsoft;Senior Data Scientist;4.2;73000;77000;75000;EUR;yearly;Barcelona
+Deloitte;Senior Data Scientist;3.9;48000;52000;50000;EUR;yearly;Barcelona
+Nnergix;Senior Data Scientist;5;45000;49000;47000;EUR;yearly;Barcelona
+SDG Group;Senior Data Scientist;3.9;44000;47000;45000;EUR;yearly;Barcelona
+Barcelona Supercomputing Center;Senior Data Scientist;3.9;57000;63000;60000;EUR;yearly;Barcelona
+BigBlue Analytics;Senior Data Scientist;-0.10000000149011612;48000;52000;50000;EUR;yearly;Barcelona
+SelfEmployed.com;Senior Data Scientist;4.4;56000;61000;58000;EUR;yearly;Barcelona
+AIMS;Senior Data Scientist;3.8;60000;65000;63000;EUR;yearly;Barcelona
+Locaria;Senior Data Scientist;4.5;53000;58000;55000;EUR;yearly;Barcelona
+Archroma;Senior Data Scientist;3.6;61000;66000;63000;EUR;yearly;Barcelona
+CWT;Senior Data Scientist;3.4;67000;72000;70000;EUR;yearly;Barcelona
+BigML;Senior Data Scientist;4.7;58000;62000;60000;EUR;yearly;Barcelona
+Nuage Therapeutics;Senior Data Scientist;5;39000;43000;41000;EUR;yearly;Barcelona
+Innovamat Education;Senior Data Scientist;3.7;34000;36000;35000;EUR;yearly;Barcelona
+Wallapop;Senior Data Scientist;4.2;59000;64000;62000;EUR;yearly;Barcelona
+Almirall;Senior Data Scientist;4.2;58000;63000;61000;EUR;yearly;Barcelona
+C.H. Robinson;Senior Data Scientist;3.4;105000;114000;109000;EUR;yearly;Barcelona
+Lead Ratings;Senior Data Scientist;-0.10000000149011612;36000;40000;38000;EUR;yearly;Barcelona
+Autodesk;Senior Data Scientist;4.2;48000;52000;50000;EUR;yearly;Barcelona
+Freelancer;Senior Data Scientist;4.2;48000;52000;50000;EUR;yearly;Barcelona
+Adevinta;Senior Data Scientist;3.6;83000;91000;87000;EUR;yearly;Barcelona
+WIND Mobility;Senior Data Scientist;3.5;67000;71000;69000;EUR;yearly;Barcelona
+Cognizant Technology Solutions;Senior Data Scientist;3.7;47000;51000;49000;EUR;yearly;Barcelona
+Feedzai;Senior Data Scientist;3.6;48000;52000;50000;EUR;yearly;Barcelona
+Satellogic;Senior Data Scientist;3.8;58000;63000;60000;EUR;yearly;Barcelona
+Copious;Senior Data Scientist;3.4;48000;52000;50000;EUR;yearly;Barcelona
+Teamworks (NC);Senior Data Scientist;4.3;101000;108000;104000;EUR;yearly;Barcelona
+Gartner;Senior Data Scientist;4;83000;90000;87000;EUR;yearly;Barcelona
+everis;Senior Data Scientist;3.6;48000;52000;50000;EUR;yearly;Barcelona
+ABC Consulting;Senior Data Scientist;4;54000;58000;56000;EUR;yearly;Barcelona
+Haufe Group;Senior Data Scientist;4.5;56000;60000;58000;EUR;yearly;Barcelona
+Momentum Data;Senior Data Scientist;4.2;47000;51000;49000;EUR;yearly;Barcelona
+SegurCaixa Adeslas;Senior Data Scientist;3.6;38000;41000;40000;EUR;yearly;Barcelona
+AREX;Senior Data Scientist;4.3;48000;52000;50000;EUR;yearly;Barcelona
+SEAT:CODE;Senior Data Scientist;3.3;38000;42000;40000;EUR;yearly;Barcelona
+Shopify;Senior Data Scientist;3.3;109000;119000;114000;EUR;yearly;Barcelona
+Outfit7;Senior Data Scientist;4.1;67000;72000;70000;EUR;yearly;Barcelona
+Red Hat;Senior Data Scientist;4.2;80000;86000;83000;EUR;yearly;Barcelona
+Pandora;Senior Data Scientist;3.7;82000;88000;85000;EUR;yearly;Barcelona
+MadBox;Senior Data Scientist;4.9;54000;59000;57000;EUR;yearly;Barcelona
+Banco Sabadell;Senior Data Scientist;3.8;45000;49000;47000;EUR;yearly;Barcelona
+Capgemini;Senior Data Scientist;3.8;43000;46000;45000;EUR;yearly;Barcelona
+Criteo;Senior Data Scientist;4.1;47000;51000;49000;EUR;yearly;Barcelona
+Pervasive Technologies;Senior Data Scientist;3.9;32000;35000;33000;EUR;yearly;Barcelona
+Zurich Insurance;Data Engineer Intern;4.3;10;10;10;EUR;hourly;Barcelona
+BMAT;Data Engineer Intern;4.3;898;967;932;EUR;monthly;Barcelona
+Hopper;Senior Data Analyst;2.9;72000;78000;75000;EUR;yearly;Barcelona
+Wolters Kluwer;Senior Data Analyst;3.7;36000;40000;38000;EUR;yearly;Barcelona
+TravelPerk;Senior Data Analyst;4.1;69000;74000;71000;EUR;yearly;Barcelona
+Ogilvy;Senior Data Analyst;3.7;41000;44000;42000;EUR;yearly;Barcelona
+Eventbrite;Senior Data Analyst;3.5;94000;101000;97000;EUR;yearly;Barcelona
+Keyrus;Senior Data Analyst;4.1;43000;46000;44000;EUR;yearly;Barcelona
+Sagaci Research;Senior Data Analyst;3.6;30000;33000;32000;EUR;yearly;Barcelona
+Ocado Technology;Senior Data Analyst;3.7;56000;61000;58000;EUR;yearly;Barcelona
+Servihabitat Servicios Inmobiliarios;Senior Data Analyst;3.3;42000;46000;44000;EUR;yearly;Barcelona
+Allianz;Senior Data Analyst;4;47000;50000;48000;EUR;yearly;Barcelona
+TeamCMP;Senior Data Analyst;3.7;42000;45000;44000;EUR;yearly;Barcelona
+Norwegian Air Shuttle;Senior Data Analyst;4.3;31000;33000;32000;EUR;yearly;Barcelona
+Woolsocks;Senior Data Analyst;3.5;53000;57000;55000;EUR;yearly;Barcelona
+Panasonic;Senior Data Analyst;3.7;53000;58000;55000;EUR;yearly;Barcelona
+ISDIN;Senior Data Analyst;4;54000;58000;56000;EUR;yearly;Barcelona
+Booking.com;Senior Data Analyst;4;58000;64000;61000;EUR;yearly;Barcelona
+Vista;Senior Data Analyst;-0.10000000149011612;44000;48000;46000;EUR;yearly;Barcelona
+Kiwi.com;Senior Data Analyst;3.6;48000;52000;50000;EUR;yearly;Barcelona
+Grupo Planeta;Senior Data Analyst;4.4;43000;47000;45000;EUR;yearly;Barcelona
+isolutions;Senior Data Analyst;4.6;36000;39000;38000;EUR;yearly;Barcelona
+PageGroup;Senior Data Analyst;3.8;39000;41000;40000;EUR;yearly;Barcelona
+Voicemod;Senior Data Analyst;3.1;64000;69000;66000;EUR;yearly;Barcelona
+Hemav;Senior Data Analyst;3.9;43000;47000;45000;EUR;yearly;Barcelona
+H&M;Senior Data Analyst;3.5;43000;47000;45000;EUR;yearly;Barcelona
+Mática;Senior Data Analyst;3.5;37000;40000;38000;EUR;yearly;Barcelona
+Stuart;Senior Data Analyst;3;36000;39000;38000;EUR;yearly;Barcelona
+Uplift Games;Senior Data Analyst;4.4;67000;72000;69000;EUR;yearly;Barcelona
+Amazon;Senior Data Analyst;3.6;52000;57000;55000;EUR;yearly;Barcelona
+MoonPay;Senior Data Analyst;3.7;82000;89000;85000;EUR;yearly;Barcelona
+Ara Vinc;Senior Data Analyst;3.3;29000;31000;30000;EUR;yearly;Barcelona
+Capgemini;Senior Data Analyst;3.8;37000;40000;39000;EUR;yearly;Barcelona
+SEAT S.A.;Senior Data Analyst;4.2;3000;4000;3000;EUR;monthly;Barcelona
+ClearPeaks;Senior Data Analyst;4.3;27000;29000;28000;EUR;yearly;Barcelona
+McKinsey & Company;Senior Data Analyst;4.1;48000;52000;50000;EUR;yearly;Barcelona
+letgo;Senior Data Analyst;3.9;64000;69000;66000;EUR;yearly;Barcelona
+L'Oréal;Senior Data Analyst;4.1;62000;67000;65000;EUR;yearly;Barcelona
+IThinkUPC;Senior Data Analyst;3.8;29000;31000;30000;EUR;yearly;Barcelona
+CaixaBank;Senior Data Analyst;3.8;37000;40000;39000;EUR;yearly;Barcelona
+Noatum Logistics;Senior Data Analyst;3.7;36000;39000;38000;EUR;yearly;Barcelona
+TD SYNNEX;Senior Data Analyst;3.7;33000;36000;35000;EUR;yearly;Barcelona
+Mars;Senior Data Analyst;4.3;38000;42000;40000;EUR;yearly;Barcelona
+FREENOW;Senior Data Analyst;3.7;62000;67000;65000;EUR;yearly;Barcelona
+Bacardi;Senior Data Analyst;4.1;24;26;25;EUR;hourly;Barcelona
+Afterpay;Senior Data Analyst;3.9;45000;48000;46000;EUR;yearly;Barcelona
+CUBIK;Senior Data Analyst;-0.10000000149011612;3000;4000;4000;EUR;monthly;Barcelona
+Job&Talent;Senior Data Analyst;4;48000;52000;50000;EUR;yearly;Barcelona
+Grupo Mediapro;Senior Data Analyst;3.3;48000;52000;50000;EUR;yearly;Barcelona
+Zurn Elkay Water Solutions;Senior Data Analyst;2.9;41000;45000;43000;EUR;yearly;Barcelona
+SGS;Senior Data Analyst;3.3;23000;25000;24000;EUR;yearly;Barcelona
+VIEWNEXT;Senior Data Analyst;3.5;29000;31000;30000;EUR;yearly;Barcelona
+Momentum Data;Senior Data Analyst;4.2;43000;46000;45000;EUR;yearly;Barcelona
+Clarivate;Senior Data Analyst;3.6;39000;42000;40000;EUR;yearly;Barcelona
+Teladoc Health;Data Engineer II;3.3;48000;52000;50000;EUR;yearly;Barcelona
+SEAT:CODE;Data Engineer II;3.3;96000;104000;100000;EUR;yearly;Barcelona
+Syniti;Lead Data Engineer;4.2;60000;65000;62000;EUR;yearly;Barcelona
+Schneider Electric;Lead Data Engineer;4.3;53000;58000;55000;EUR;yearly;Barcelona
+Metyis;Lead Data Engineer;3.6;86000;94000;90000;EUR;yearly;Barcelona
+Vista;Lead Data Engineer;3.8;57000;63000;60000;EUR;yearly;Barcelona
+Siemens Energy;Lead Data Engineer;4.2;82000;90000;86000;EUR;yearly;Barcelona
+Novartis;Sr Data Engineer;4;72000;77000;75000;EUR;yearly;Barcelona
+Stratesys;Sr Data Engineer;3.8;40000;43000;42000;EUR;yearly;Barcelona
+Auctane;Sr Data Engineer;3.4;45000;49000;47000;EUR;yearly;Barcelona
+Vista;Sr Data Engineer;3.8;63000;68000;65000;EUR;yearly;Barcelona
+Shalion;Junior Data Engineer;2.7;31000;34000;33000;EUR;yearly;Barcelona
+Schneider Electric;Junior Data Engineer;4.3;43000;47000;45000;EUR;yearly;Barcelona
+GFT Technologies;Junior Data Engineer;4.2;18000;20000;19000;EUR;yearly;Barcelona
+Minsait;Junior Data Engineer;3.8;23000;25000;24000;EUR;yearly;Barcelona
+Altostratus Cloud Consulting;Junior Data Engineer;3.5;22000;25000;24000;EUR;yearly;Barcelona
+Glovo;Junior Data Engineer;3.5;36000;38000;37000;EUR;yearly;Barcelona
+FIATC Seguros;Junior Data Engineer;4;33000;35000;34000;EUR;yearly;Barcelona
+Ecolab;Junior Data Engineer;3.7;32000;35000;33000;EUR;yearly;Barcelona
+Flanks;Junior Data Engineer;3.6;17000;19000;18000;EUR;yearly;Barcelona
+Aglaia Consulting;Junior Data Engineer;5;29000;31000;30000;EUR;yearly;Barcelona
+SEIDOR;Junior Data Engineer;3.9;24000;26000;25000;EUR;yearly;Barcelona
+Concentro;Junior Data Engineer;4.8;26000;28000;27000;EUR;yearly;Barcelona
+BaseTIS;Junior Data Engineer;3.5;23000;25000;24000;EUR;yearly;Barcelona
+everis;Junior Data Engineer;3.6;27000;29000;28000;EUR;yearly;Barcelona
+K-LAGAN;Junior Data Engineer;3.8;31000;33000;32000;EUR;yearly;Barcelona
+Capgemini;Junior Data Engineer;3.8;13;14;13;EUR;hourly;Barcelona
+Aily;Junior Data Engineer;3.2;48000;52000;50000;EUR;yearly;Barcelona
+Veepee;Data Science Intern;3.5;952;1000;1000;EUR;monthly;Barcelona
+Accenture;Data Science Intern;3.8;2000;2000;2000;EUR;monthly;Barcelona
+Verychic;Data Science Intern;3.6;666;735;700;EUR;monthly;Barcelona
+inLab FIB;Data Science Intern;4.9;619;677;648;EUR;monthly;Barcelona
+Glovo;Data Science Intern;3.5;479;525;502;EUR;monthly;Barcelona
+CICLICA;Data Science Intern;-0.10000000149011612;46000;49000;47000;EUR;yearly;Barcelona
+Adevinta Spain;Data Science Intern;4;11;11;11;EUR;hourly;Barcelona
+Aily;Data Science Intern;3.2;11;11;11;EUR;hourly;Barcelona
+Appen;Data Science Intern;3.7;7;7;7;EUR;hourly;Barcelona
+Hospital Universitari Joan XXIII;Data Science Intern;4.8;2000;2000;2000;EUR;monthly;Barcelona
+Zinio;Data Analyst Intern;4.1;760;839;800;EUR;monthly;Barcelona
+Sanofi;Data Analyst Intern;4.2;17000;19000;18000;EUR;yearly;Barcelona
+italki;Data Analyst Intern;4.4;11000;12000;12000;EUR;yearly;Barcelona
+Grupo Nacional Provincial;Data Analyst Intern;4.2;970;1000;1000;EUR;monthly;Barcelona
+wefox;Data Analyst Intern;3.1;1000;1000;1000;EUR;monthly;Barcelona
+Wallbox;Data Analyst Intern;2.7;7;7;7;EUR;hourly;Barcelona
+Immfly;Data Analyst Intern;3.5;8;8;8;EUR;hourly;Barcelona
+Catalana Occidente;Data Analyst Intern;3.8;10;10;10;EUR;hourly;Barcelona
+PayXpert;Data Analyst Intern;4;10;10;10;EUR;hourly;Barcelona
+Glovo;Data Analyst Intern;3.5;763;826;795;EUR;monthly;Barcelona
+IOMED Medical Solutions;Data Analyst Intern;4.8;19000;21000;20000;EUR;yearly;Barcelona
+Allianz;Data Analyst Intern;4;763;831;797;EUR;monthly;Barcelona
+Endesa S.A.;Data Analyst Intern;4;726;788;757;EUR;monthly;Barcelona
+Ecolab;Data Analyst Intern;3.7;21000;23000;22000;EUR;yearly;Barcelona
+TAI Smart Factory;Data Analyst Intern;5;10;10;10;EUR;hourly;Barcelona
+PayXpert;Data Analyst Intern;4;9;9;9;EUR;hourly;Barcelona
+Cofidis;Data Analyst Intern;4;17000;19000;18000;EUR;yearly;Barcelona
+NTT DATA;Data Analyst Intern;3.8;8;8;8;EUR;hourly;Barcelona
+Aily;Data Analyst Intern;3.2;11;11;11;EUR;hourly;Barcelona
+Sanofi;Junior Data Scientist;4.2;30000;33000;31000;EUR;yearly;Barcelona
+D-Link;Junior Data Scientist;3.4;27000;29000;28000;EUR;yearly;Barcelona
+Transtext Global Translation Services;Junior Data Scientist;4;27000;29000;28000;EUR;yearly;Barcelona
+PepsiCo;Junior Data Scientist;3.9;24000;26000;25000;EUR;yearly;Barcelona
+Desigual;Junior Data Scientist;3.6;34000;36000;35000;EUR;yearly;Barcelona
+NTT DATA;Junior Data Scientist;3.8;23000;25000;24000;EUR;yearly;Barcelona
+Dribia;Junior Data Scientist;4.3;27000;29000;28000;EUR;yearly;Barcelona
+DQSconsulting;Junior Data Scientist;4.5;8;8;8;EUR;hourly;Barcelona
+Siemens Energy;Junior Data Scientist;4.2;29000;31000;30000;EUR;yearly;Barcelona
+ZeClinics;Junior Data Scientist;3.1;27000;29000;28000;EUR;yearly;Barcelona
+Cofidis;Junior Data Scientist;4;27000;29000;28000;EUR;yearly;Barcelona
+Mango;Junior Data Scientist;3.5;34000;36000;35000;EUR;yearly;Barcelona
+T-Systems;Junior Data Scientist;3.7;27000;29000;28000;EUR;yearly;Barcelona
+Top Doctors;Junior Data Scientist;2.6;23000;25000;24000;EUR;yearly;Barcelona
+Stayforlong;Junior Data Scientist;4.3;13000;13000;13000;EUR;yearly;Barcelona
+Aplicaciones en Informática Avanzada;Junior Data Scientist;2.9;7;7;7;EUR;hourly;Barcelona
+SEAT S.A.;Junior Data Scientist;4.2;26000;28000;27000;EUR;yearly;Barcelona
+Evidenze;Junior Data Scientist;3.1;21000;23000;22000;EUR;yearly;Barcelona
+Barcelona Dragons;Junior Data Scientist;-0.10000000149011612;21000;23000;22000;EUR;yearly;Barcelona
+Grupo Planeta;Junior Data Scientist;4.4;478;517;498;EUR;monthly;Barcelona
+Abast;Junior Data Scientist;3.8;23000;25000;24000;EUR;yearly;Barcelona
+The Hotels Network;Junior Data Scientist;4.6;26000;28000;27000;EUR;yearly;Barcelona
+Allianz;Junior Data Scientist;4;32000;35000;34000;EUR;yearly;Barcelona
+Sogeti;Junior Data Scientist;3.4;20000;22000;21000;EUR;yearly;Barcelona
+San Juan USD - Sacramento County;Junior Data Scientist;3.9;19000;21000;20000;EUR;yearly;Barcelona
+Eurecat;Junior Data Scientist;3.5;19000;21000;20000;EUR;yearly;Barcelona
+BusUp;Junior Data Scientist;4.1;25000;27000;26000;EUR;yearly;Barcelona
+Fossil Group;Junior Data Scientist;3.6;37000;41000;39000;EUR;yearly;Barcelona
+Bis Structures;Junior Data Scientist;3.3;23000;25000;24000;EUR;yearly;Barcelona
+Prueba;Junior Data Scientist;3.8;29000;31000;30000;EUR;yearly;Barcelona
+ADP;Junior Data Scientist;3.9;39000;42000;41000;EUR;yearly;Barcelona
+Telefónica;Junior Data Scientist;4.1;31000;33000;32000;EUR;yearly;Barcelona
+International Swimming League;Junior Data Scientist;5;31000;34000;32000;EUR;monthly;Barcelona
+Novartis;Junior Data Scientist;4;31000;34000;32000;EUR;yearly;Barcelona
+Damm;Junior Data Scientist;4.2;32000;34000;33000;EUR;yearly;Barcelona
+DMD;Junior Data Scientist;3.2;43000;47000;45000;EUR;yearly;Barcelona
+IBM;Junior Data Scientist;4;34000;37000;36000;EUR;yearly;Barcelona
+HolaLuz;Junior Data Scientist;2.8;22000;24000;23000;EUR;yearly;Barcelona
+Accenture;Junior Data Scientist;3.8;28000;30000;29000;EUR;yearly;Barcelona
+Accenture;Data Analyst/Data Scientist;3.8;24000;26000;25000;EUR;yearly;Barcelona
+Glovo;Data Analyst/Data Scientist;3.5;58000;62000;60000;EUR;yearly;Barcelona
+freelance;Data Analyst/Data Scientist;4.2;58000;62000;60000;EUR;yearly;Barcelona
+PwC;Data Analyst/Data Scientist;3.8;26000;28000;27000;EUR;yearly;Barcelona
+Veepee;Data Analyst/Data Scientist;3.5;36000;39000;37000;EUR;yearly;Barcelona
+Mango;Data Analyst/Data Scientist;3.5;43000;47000;45000;EUR;yearly;Barcelona
+Colt Technology Services Group Limited;Data Analyst/Data Scientist;4.2;49000;53000;51000;EUR;yearly;Barcelona
+STALICLA;Data Analyst/Data Scientist;4;27000;29000;28000;EUR;yearly;Barcelona
+Wealize;Data Analyst/Data Scientist;3.6;24;26;25;EUR;hourly;Barcelona
+Merkle;Data Analyst/Data Scientist;3.6;34000;37000;35000;EUR;yearly;Barcelona
+Glovo;Data Analyst/Data Scientist;3.5;43000;47000;45000;EUR;yearly;Barcelona
+VidaCaixa;Data Analyst/Data Scientist;3.4;29000;31000;30000;EUR;yearly;Barcelona
+Gocleer;Data Analyst/Data Scientist;5;29000;31000;30000;EUR;yearly;Barcelona
+HolaLuz;Data Analyst/Data Scientist;2.8;33000;36000;34000;EUR;yearly;Barcelona
+POS Potential;Data Analyst/Data Scientist;4;29000;31000;30000;EUR;yearly;Barcelona
+Aily;Data Engineering;3.2;68000;72000;70000;EUR;yearly;Barcelona
+everis;Data Engineering;3.6;44000;47000;45000;EUR;yearly;Barcelona
+Stuart;Data Engineering;3;58000;62000;60000;EUR;yearly;Barcelona
+Adevinta;Data Engineering;3.6;46000;50000;48000;EUR;yearly;Barcelona
+Catalan Institute Of Oncology;Data Entry;4.6;26000;27000;27000;EUR;yearly;Barcelona
+Ciber;Data Entry;3.7;24000;26000;25000;EUR;yearly;Barcelona
+Redondos;Data Entry;3.9;5;5;5;EUR;hourly;Barcelona
+INVEX Controladora;Data Entry;2.9;15000;15000;15000;EUR;yearly;Barcelona
+Impress;Data Entry;3.1;17000;19000;18000;EUR;yearly;Barcelona
+Freightos;Data Entry;4;2000;2000;2000;EUR;monthly;Barcelona
+S.A. DAMM;Data Entry;3.7;1000;1000;1000;EUR;monthly;Barcelona
+UnderwaterPro;Data Entry;5;2000;2000;2000;EUR;monthly;Barcelona
+DDB;Data Entry;3.6;21000;23000;22000;EUR;yearly;Barcelona
+IGTP;Data Entry;3.9;22000;24000;23000;EUR;yearly;Barcelona
+Teleperformance;Data Entry;4.3;15000;17000;16000;EUR;yearly;Barcelona
+El Hospital Clínic de Barcelona;Data Entry;4.1;18000;20000;19000;EUR;yearly;Barcelona
+Raytheon;Data Entry;3.6;1000;2000;2000;EUR;monthly;Barcelona
+VHIO;Data Entry;4;28000;30000;29000;EUR;yearly;Barcelona
+Cofidis;Data Entry;4;19000;21000;20000;EUR;yearly;Barcelona
+International Security & Safety Systems;Data Entry;5;6;6;6;EUR;hourly;Barcelona
+Zeptolab;Data Science;4.1;952;1000;1000;EUR;monthly;Barcelona
+PepsiCo;Data Science;3.9;51000;55000;53000;EUR;yearly;Barcelona
+Cover-Tek;Data Science;2.8;23000;25000;24000;EUR;yearly;Barcelona
+Tripledot Studios;Data Science;3.7;58000;63000;60000;EUR;yearly;Barcelona
+freelance;Data Science;4.2;48000;52000;50000;EUR;yearly;Barcelona
+Institute of Photonic Sciences;Data Science;4.1;25000;28000;26000;EUR;yearly;Barcelona
+BIP;Data Science;3.9;26000;28000;27000;EUR;yearly;Barcelona
+Institut de Recerca en Energia;Data Science;3.5;761;834;798;EUR;monthly;Barcelona
+inAtlas;Data Science;4;33000;37000;35000;EUR;yearly;Barcelona
+Hospital de la Santa Creu i Sant Pau;Data Science;3.8;25000;28000;26000;EUR;yearly;Barcelona
+Schneider Electric;Data Science;4.3;42000;45000;43000;EUR;yearly;Barcelona
+Uptake;Data Science;2.9;38000;42000;40000;EUR;yearly;Barcelona
+San José State University;Data Science;4.2;1000;2000;2000;EUR;monthly;Barcelona
+Utopia Music;Data Science;2.3;58000;62000;60000;EUR;yearly;Barcelona
+Driving01;Data Science;4;29000;31000;30000;EUR;yearly;Barcelona
+Sanofi;Data Science;4.2;53000;57000;55000;EUR;yearly;Barcelona
+NTT DATA;Data Science;3.8;24000;26000;25000;EUR;yearly;Barcelona
+Schneider Electric;Data Science;4.3;969;1000;1000;EUR;monthly;Barcelona
+everis;Data Science;3.6;6;6;6;EUR;hourly;Barcelona
+Capgemini;Data Science;3.8;29000;31000;30000;EUR;yearly;Barcelona
+Universitat Oberta de Catalunya;Data Science;3.8;24000;26000;25000;EUR;yearly;Barcelona
+Capgemini;Data Science;3.8;10;10;10;EUR;hourly;Barcelona
+Universitat Politecnica de Catalunya;Data Science;4.1;29000;31000;30000;EUR;yearly;Barcelona
+Deloitte;Junior Data Analyst;3.9;23000;25000;24000;EUR;yearly;Barcelona
+Glovo;Junior Data Analyst;3.5;25000;27000;26000;EUR;yearly;Barcelona
+Suniva;Junior Data Analyst;3.4;31000;34000;33000;EUR;yearly;Barcelona
+BNP Paribas Personal Finance;Junior Data Analyst;3.8;14000;16000;15000;EUR;yearly;Barcelona
+Applus+;Junior Data Analyst;3.5;23000;25000;24000;EUR;yearly;Barcelona
+BATOU XYZ;Junior Data Analyst;4.5;12;12;12;EUR;hourly;Barcelona
+Grupo Hotusa;Junior Data Analyst;2.6;952;1000;998;EUR;monthly;Barcelona
+Unemployed Help Centre;Junior Data Analyst;3.8;29000;31000;30000;EUR;yearly;Barcelona
+SAP;Junior Data Analyst;4.2;27000;29000;28000;EUR;yearly;Barcelona
+Avanade;Junior Data Analyst;3.8;24000;26000;25000;EUR;yearly;Barcelona
+Volkswagen Group Services;Junior Data Analyst;3.5;24000;26000;25000;EUR;yearly;Barcelona
+VONZU;Junior Data Analyst;4.3;24000;26000;25000;EUR;yearly;Barcelona
+Adam Foods;Junior Data Analyst;3.5;24000;26000;25000;EUR;yearly;Barcelona
+Arkana (Spain);Junior Data Analyst;3;26000;28000;27000;EUR;yearly;Barcelona
+Cementos Molins;Junior Data Analyst;4.3;24000;26000;25000;EUR;yearly;Barcelona
+CTTI;Junior Data Analyst;3.3;669;725;697;EUR;monthly;Barcelona
+Prenomics;Junior Data Analyst;4;29000;31000;30000;EUR;yearly;Barcelona
+FocusEconomics;Junior Data Analyst;3.5;7;7;7;EUR;hourly;Barcelona
+Werfen;Junior Data Analyst;4;29000;31000;30000;EUR;yearly;Barcelona
+The Keenfolks;Junior Data Analyst;2.2;23000;25000;24000;EUR;yearly;Barcelona
+Arkana;Junior Data Analyst;4.2;13000;14000;14000;EUR;yearly;Barcelona
+Superprof;Junior Data Analyst;4.1;14;16;15;EUR;hourly;Barcelona
+NPAW;Junior Data Analyst;2.5;29000;31000;30000;EUR;yearly;Barcelona
+Bayer;Junior Data Analyst;3.9;26000;28000;27000;EUR;yearly;Barcelona
+GFT Technologies;Junior Data Analyst;4.2;18000;20000;19000;EUR;yearly;Barcelona
+Job&Talent;Junior Data Analyst;4;13000;15000;14000;EUR;yearly;Barcelona
+Monocrom;Junior Data Analyst;2.9;56000;60000;58000;EUR;yearly;Barcelona
+Novartis;Junior Data Analyst;4;29000;31000;30000;EUR;yearly;Barcelona
+Michael Page;Junior Data Analyst;3.7;20000;22000;21000;EUR;yearly;Barcelona
+CTIS;Junior Data Analyst;4;43000;47000;45000;EUR;yearly;Barcelona
+Biosystems;Junior Data Analyst;3.9;27000;29000;28000;EUR;yearly;Barcelona
+Welzia;Junior Data Analyst;3.6;16000;18000;17000;EUR;yearly;Barcelona
+PASSNFLY;Junior Data Analyst;3.4;16000;18000;17000;EUR;yearly;Barcelona
+Todevise;Junior Data Analyst;1.9;17000;19000;18000;EUR;yearly;Barcelona
+Cyient;Junior Data Analyst;3.5;1000;2000;1000;EUR;monthly;Barcelona
+Tekman Books;Junior Data Analyst;3.3;29000;31000;30000;EUR;yearly;Barcelona
+New Work SE;Junior Data Analyst;3.8;32000;34000;33000;EUR;yearly;Barcelona
+Cedec;Junior Data Analyst;3.8;23000;25000;24000;EUR;yearly;Barcelona
+Freelancer;Junior Data Analyst;4.2;20000;22000;21000;EUR;yearly;Barcelona
+Algorithmia;Junior Data Analyst;3.6;22000;24000;23000;EUR;yearly;Barcelona
+N26;Junior Data Analyst;3.5;48000;52000;50000;EUR;yearly;Barcelona
+Universitat Autonoma de Barcelona;Junior Data Analyst;4;21000;23000;22000;EUR;yearly;Barcelona
+IBM;Junior Data Analyst;4;27000;30000;29000;EUR;yearly;Barcelona
+Accenture;Junior Data Analyst;3.8;24000;26000;25000;EUR;yearly;Barcelona
+Paack;Junior Data Analyst;2.8;28000;31000;30000;EUR;yearly;Barcelona
+DONE by NONE;Junior Data Analyst;4.1;30000;33000;32000;EUR;yearly;Barcelona
+Hospital Universitari de Bellvitge;Junior Data Analyst;3.9;23000;25000;24000;EUR;yearly;Barcelona
+DatActions;Junior Data Analyst;3.5;2000;2000;2000;EUR;monthly;Barcelona
+Criterion Worldwide;Junior Data Analyst;3.7;42000;44000;43000;EUR;yearly;Barcelona
+IT Academy;Junior Data Analyst;4.6;21000;23000;22000;EUR;yearly;Barcelona
+Vueling Airlines;Junior Data Analyst;3.7;20000;22000;21000;EUR;yearly;Barcelona
+Bharat Oman Refineries;Junior Data Analyst;3.4;10000;10000;10000;EUR;yearly;Barcelona
+Colvin;Junior Data Analyst;3.4;24000;26000;25000;EUR;yearly;Barcelona
+farmàcies ecoceutics;Junior Data Analyst;3.7;21000;23000;22000;EUR;yearly;Barcelona
+Nutriterra;Junior Data Analyst;-0.10000000149011612;958;1000;1000;EUR;monthly;Barcelona
+Ingram Micro;Junior Data Analyst;3.6;36000;40000;38000;EUR;yearly;Barcelona
+Reby;Junior Data Analyst;3.2;25000;27000;26000;EUR;yearly;Barcelona
+Veepee Group;Junior Data Analyst;3.4;20000;22000;21000;EUR;yearly;Barcelona
+VML;Junior Data Analyst;3.4;24000;26000;25000;EUR;yearly;Barcelona
+Intercom Enterprises;Junior Data Analyst;3.4;21000;23000;22000;EUR;yearly;Barcelona
+Kiteris Solutions;Junior Data Analyst;4;27000;29000;28000;EUR;yearly;Barcelona
+inLab FIB;Junior Data Analyst;4.9;16000;17000;17000;EUR;yearly;Barcelona
+Worldline;Junior Data Analyst;3.6;40000;44000;42000;EUR;yearly;Barcelona
+Grohe;Junior Data Analyst;3.8;19000;21000;20000;EUR;yearly;Barcelona
+SOCOTEC Group;Junior Data Analyst;3.3;17000;19000;18000;EUR;yearly;Barcelona
+Sekuenz - Data Driven Seekers;Junior Data Analyst;3.4;29000;31000;30000;EUR;yearly;Barcelona
+Debug Nomad;Junior Data Analyst;5;19000;21000;20000;EUR;yearly;Barcelona
+Signaturit;Junior Data Analyst;3.2;34000;37000;35000;EUR;yearly;Barcelona
+HP Inc.;Junior Data Analyst;4.1;27000;30000;28000;EUR;yearly;Barcelona
+Reviewpro;Junior Data Analyst;3.5;23000;25000;24000;EUR;yearly;Barcelona
+BaseTIS;Junior Data Analyst;3.5;19000;21000;20000;EUR;yearly;Barcelona
+Aveda Institute;Junior Data Analyst;2.5;24000;26000;25000;EUR;yearly;Barcelona
+Tech Data;Junior Data Analyst;3.8;26000;28000;27000;EUR;yearly;Barcelona
+Volkswagen Group España Distribución;Junior Data Analyst;4.7;762;828;795;EUR;monthly;Barcelona
+Z-Score;Junior Data Analyst;4.5;19000;21000;20000;EUR;yearly;Barcelona
+DXC Technology;Junior Data Analyst;3.5;27000;29000;28000;EUR;yearly;Barcelona
+Nielsen Sports;Junior Data Analyst;3.2;21000;22000;21000;EUR;yearly;Barcelona
+LaMagnética;Junior Data Analyst;-0.10000000149011612;10;10;10;EUR;hourly;Barcelona
+Info Direct;Junior Data Analyst;3.8;24000;26000;25000;EUR;yearly;Barcelona
+Gameloft;Junior Data Analyst;3.8;29000;31000;30000;EUR;yearly;Barcelona
+Tecnologia y Precision en Metales (TPM);Junior Data Analyst;5;23000;25000;24000;EUR;yearly;Barcelona
+Emergia Contact Center;Junior Data Analyst;3.1;29000;31000;30000;EUR;yearly;Barcelona
+Mango;Junior Data Analyst;3.5;25000;27000;26000;EUR;yearly;Barcelona
+Annalect;Junior Data Analyst;3.7;46000;50000;48000;EUR;yearly;Barcelona
+El Hospital Clínic de Barcelona;Junior Data Analyst;4.1;24000;26000;25000;EUR;yearly;Barcelona
+Eurecat;Junior Data Analyst;3.5;10;10;10;EUR;hourly;Barcelona
+Allianz;Junior Data Analyst;4;10;10;10;EUR;hourly;Barcelona
+Mango;Junior Data Analyst;3.5;8;8;8;EUR;hourly;Barcelona
+Banc de Sang i Teixits;Junior Data Analyst;3.8;1000;1000;1000;EUR;monthly;Barcelona
+Atmira;Junior Data Analyst;3.5;1000;2000;1000;EUR;monthly;Barcelona
+EAE Business School;Junior Data Analyst;2.6;953;1000;998;EUR;monthly;Barcelona
+Vivendex;Junior Data Analyst;4;579;623;601;EUR;monthly;Barcelona
+Equivalenza;Junior Data Analyst;3.4;22000;24000;23000;EUR;yearly;Barcelona
+Fusion Lounge Restaurant;Junior Data Analyst;5;94000;102000;98000;EUR;yearly;Barcelona
+GESCOBRO COLLECTION SERVICES;Junior Data Analyst;3.3;28000;30000;29000;EUR;yearly;Barcelona
+CLEVERTASK.COM;Junior Data Analyst;3.5;17000;19000;18000;EUR;yearly;Barcelona
+Eden Springs;Junior Data Analyst;3.3;1000;1000;1000;EUR;monthly;Barcelona
+ITnow;Junior Data Analyst;3.5;10;10;10;EUR;hourly;Barcelona
+Primo Water;Junior Data Analyst;3.3;1000;1000;1000;EUR;monthly;Barcelona
+SEAT S.A.;Junior Data Analyst;4.2;769;836;802;EUR;monthly;Barcelona
+Volkswagen Group;Junior Data Analyst;4.1;25000;27000;26000;EUR;yearly;Barcelona
+Juguettos;Junior Data Analyst;3.5;591;634;613;EUR;monthly;Barcelona
+Mango;Data Scientist Intern;3.5;1000;2000;2000;EUR;monthly;Barcelona
+Vendo Services;Data Scientist Intern;4.4;594;651;622;EUR;monthly;Barcelona
+Aily;Data Scientist Intern;3.2;11;11;11;EUR;hourly;Barcelona
+New Born Solutions;Data Scientist Intern;-0.10000000149011612;9;9;9;EUR;hourly;Barcelona
+Socialpoint;Data Scientist Intern;4.1;542;585;563;EUR;monthly;Barcelona
+Parc Científic de Barcelona;Data Scientist Intern;4;9;9;9;EUR;hourly;Barcelona
+Accenture;Data Scientist Intern;3.8;1000;1000;1000;EUR;monthly;Barcelona
+Capchase;Data Scientist Intern;3.4;2000;2000;2000;EUR;monthly;Barcelona
+Allianz;Data Scientist Intern;4;579;628;604;EUR;monthly;Barcelona
+realXdata;Data Scientist Intern;3.5;1000;1000;1000;EUR;monthly;Barcelona
+Cofidis;Data Scientist Intern;4;11;12;11;EUR;hourly;Barcelona
+Aizon;Data Scientist Intern;4.1;2000;2000;2000;EUR;monthly;Barcelona
+Socialpoint;Lead Data Scientist;4.1;67000;73000;70000;EUR;yearly;Barcelona
+PepsiCo;Lead Data Scientist;3.9;67000;73000;70000;EUR;yearly;Barcelona
+Sanofi;Lead Data Scientist;4.2;64000;68000;66000;EUR;yearly;Barcelona
+Vueling Airlines;Lead Data Scientist;3.7;48000;52000;50000;EUR;yearly;Barcelona
+Braingaze;Lead Data Scientist;-0.10000000149011612;27000;29000;28000;EUR;yearly;Barcelona
+Block;Lead Data Scientist;3.8;57000;63000;60000;EUR;yearly;Barcelona
+Mango;Lead Data Scientist;3.5;51000;55000;53000;EUR;yearly;Barcelona
+Opticks;Lead Data Scientist;3.4;57000;62000;60000;EUR;yearly;Barcelona
+Sanofi;Lead Data Scientist;4.2;83000;89000;86000;EUR;yearly;Barcelona
+NTT DATA;Lead Data Scientist;3.8;53000;57000;55000;EUR;yearly;Barcelona
+Outfund;Lead Data Scientist;4.5;78000;85000;82000;EUR;yearly;Barcelona
+Glovo;Lead Data Scientist;3.5;67000;72000;70000;EUR;yearly;Barcelona
+Banco Sabadell;Lead Data Scientist;3.8;53000;57000;55000;EUR;yearly;Barcelona
+Nemuru;Lead Data Scientist;-0.10000000149011612;48000;52000;50000;EUR;yearly;Barcelona
+Techsoulogy;Lead Data Scientist;5;44000;47000;45000;EUR;yearly;Barcelona
+Zurich Insurance;Lead Data Scientist;4.3;65000;70000;67000;EUR;yearly;Barcelona
+BaseTIS;Lead Data Scientist;3.5;44000;47000;46000;EUR;yearly;Barcelona
+Gocleer;Data Analytics Engineer;5;29000;31000;30000;EUR;yearly;Barcelona
+Wallbox;Data Analytics Engineer;2.7;38000;41000;39000;EUR;yearly;Barcelona
+Papernest;Data Analytics Engineer;3.7;3000;3000;3000;EUR;monthly;Barcelona
+OpenClassrooms;Data Analytics Engineer;3.9;72000;79000;75000;EUR;yearly;Barcelona
+Veepee;Data Analytics Engineer;3.5;48000;52000;50000;EUR;yearly;Barcelona
+Treatwell;Data Analytics Engineer;3.4;58000;62000;60000;EUR;yearly;Barcelona
+Colvin;Data Analytics Engineer;3.4;35000;37000;36000;EUR;yearly;Barcelona
+Proyecto Universidad Empresa;Big Data Developer;2.5;18000;20000;19000;EUR;yearly;Barcelona
+Barcelona Supercomputing Center;Big Data Developer;3.9;23000;25000;24000;EUR;yearly;Barcelona
+Zurich Insurance;Big Data Developer;4.3;40000;44000;42000;EUR;yearly;Barcelona
+CaixaBank;Big Data Developer;3.8;58000;63000;60000;EUR;yearly;Barcelona
+Indra;Big Data Developer;3.7;23000;25000;24000;EUR;yearly;Barcelona
+T-Systems;Big Data Developer;3.7;43000;47000;45000;EUR;yearly;Barcelona
+Satellogic;Data Developer;3.8;41000;44000;42000;EUR;yearly;Barcelona
+knowmad mood;Data Developer;4.1;30000;32000;31000;EUR;yearly;Barcelona
+DesideDatum;Data Developer;-0.10000000149011612;28000;30000;29000;EUR;yearly;Barcelona
+Cognizant Technology Solutions;Associate Data Scientist;3.7;38000;41000;39000;EUR;yearly;Barcelona
+IBM;Associate Data Scientist;4;35000;38000;36000;EUR;yearly;Barcelona
+Zapier;Data Warehouse Engineer;3.9;98000;107000;102000;EUR;yearly;Barcelona
+Accenture;Data Engineering Analyst;3.8;33000;37000;35000;EUR;yearly;Barcelona
+Hiberus Tecnología;Data Engineer III;3.7;2000;3000;2000;EUR;monthly;Barcelona
+SDG Group;Business Data Analyst;3.9;23000;25000;24000;EUR;yearly;Barcelona
+Autodesk;Business Data Analyst;4.2;33000;35000;34000;EUR;yearly;Barcelona
+Vueling Airlines;Business Data Analyst;3.7;38000;41000;40000;EUR;yearly;Barcelona
+Ingram Micro;Business Data Analyst;3.6;34000;37000;35000;EUR;yearly;Barcelona
+Pleez;Business Data Analyst;4.8;41000;45000;43000;EUR;yearly;Barcelona
+Cafler;Business Data Analyst;3.1;574;628;601;EUR;monthly;Barcelona
+PageGroup;Business Data Analyst;3.8;43000;47000;45000;EUR;yearly;Barcelona
+Adevinta;Principal Data Engineer;3.6;72000;79000;75000;EUR;yearly;Barcelona
+King;Principal Data Engineer;3.4;81000;88000;85000;EUR;yearly;Barcelona
+Skyscanner;Data Scientist II;4.5;74000;80000;77000;EUR;yearly;Barcelona
+Glovo;Data Scientist II;3.5;60000;64000;62000;EUR;yearly;Barcelona
+CWT;Principal Data Scientist;3.4;7000;7000;7000;EUR;yearly;Barcelona
+Stuart;Principal Data Scientist;3;82000;89000;85000;EUR;yearly;Barcelona
+King;Principal Data Scientist;3.4;86000;94000;90000;EUR;yearly;Barcelona
+Criterion Worldwide;Data Analyst II;3.7;53000;57000;55000;EUR;yearly;Barcelona
+Agilent Technologies;Data Specialist;3.8;22000;24000;23000;EUR;yearly;Barcelona
+W. L. Gore & Associates;Data Specialist;3.3;35000;37000;36000;EUR;yearly;Barcelona
+Institut d'Investigacions Biomèdiques August Pi i Sunyer;Data Specialist;3.6;1000;1000;1000;EUR;monthly;Barcelona
+Omega CRM;Data Specialist;4.1;37000;40000;38000;EUR;yearly;Barcelona
+Unilever;Data Specialist;4;46000;50000;48000;EUR;yearly;Barcelona
+HP Inc.;Data Specialist;4.1;9;9;9;EUR;hourly;Barcelona
+Factorial HR;Data Specialist;3.1;34000;37000;35000;EUR;yearly;Barcelona
+Pro à Pro;Data Specialist;2.8;29000;31000;30000;EUR;yearly;Barcelona
+EY;Data Integration Engineer;3.7;36000;39000;37000;EUR;yearly;Barcelona
+Adevinta Spain;Staff Data Engineer;4;67000;71000;69000;EUR;yearly;Barcelona
+Lokalise;Staff Data Engineer;3.5;105000;114000;109000;EUR;yearly;Barcelona
+El Hospital Clínic de Barcelona;Data Science Manager;4.1;46000;49000;47000;EUR;yearly;Barcelona
+Accenture Solutions;Data Science Manager;3.9;72000;78000;75000;EUR;yearly;Barcelona
+HP Inc.;Data Science Manager;4.1;96000;105000;101000;EUR;yearly;Barcelona
+CaixaBank;Data Science Manager;3.8;55000;59000;57000;EUR;yearly;Barcelona
+ZF Group;Data Science Manager;3.9;79000;86000;83000;EUR;yearly;Barcelona
+eDreams ODIGEO;Data Science Manager;4.1;74000;82000;78000;EUR;yearly;Barcelona
+Chartboost;Data Science Manager;3.3;109000;119000;114000;EUR;yearly;Barcelona
+Cervest;Data Science Manager;2.7;77000;84000;80000;EUR;yearly;Barcelona
+Typeform;Data Science Manager;3.3;99000;110000;104000;EUR;yearly;Barcelona
+PepsiCo;Sr Data Scientist;3.9;53000;57000;55000;EUR;yearly;Barcelona
+Nemuru;Sr Data Scientist;-0.10000000149011612;46000;50000;48000;EUR;yearly;Barcelona
+Gartner;Sr Data Scientist;4;84000;92000;88000;EUR;yearly;Barcelona
+Universitat Politecnica de Catalunya;Sr Data Scientist;4.1;38000;41000;40000;EUR;yearly;Barcelona
+CaixaBank;Sr Data Scientist;3.8;71000;77000;74000;EUR;yearly;Barcelona
+DocPlanner;Data Manager;4.5;39000;43000;41000;EUR;yearly;Barcelona
+Grupo GACM;Data Manager;3.3;74000;81000;77000;EUR;yearly;Barcelona
+Boehringer Ingelheim;Data Manager;4.1;4000;4000;4000;EUR;monthly;Barcelona
+Barcelona;Data Manager;3.5;38000;41000;40000;EUR;yearly;Barcelona
+The Alvian Partnership;Data Manager;-0.10000000149011612;58000;63000;60000;EUR;yearly;Barcelona
+ACME;Data Manager;4;39000;42000;40000;EUR;yearly;Barcelona
+Privalia;Data Manager;3.3;67000;73000;70000;EUR;yearly;Barcelona
+Fairmont Hotels & Resorts;Data Manager;3.8;22000;24000;23000;EUR;yearly;Barcelona
+Loyal Guru;Data Manager;2.9;39000;42000;40000;EUR;yearly;Barcelona
+The European Society for Blood and Marrow Transplantation;Data Manager;4;36000;40000;38000;EUR;yearly;Barcelona
+ProtoPixel;Data Manager;4.1;59000;63000;61000;EUR;yearly;Barcelona
+Schwarz IT Barcelona;Data Manager;4.5;33000;36000;35000;EUR;yearly;Barcelona
+NETSUN;Data Manager;3.7;97000;105000;101000;EUR;yearly;Barcelona
+PepsiCo;Data Manager;3.9;96000;104000;100000;EUR;yearly;Barcelona
+Vueling Airlines;Data Manager;3.7;145000;156000;151000;EUR;yearly;Barcelona
+Expereo;Data Manager;3;57000;62000;59000;EUR;yearly;Barcelona
+Grupo Romeu;Data Manager;3.9;56000;61000;58000;EUR;yearly;Barcelona
+Reby;Data Manager;3.2;48000;52000;50000;EUR;yearly;Barcelona
+Veepee Group;Data Manager;3.4;17000;19000;18000;EUR;yearly;Barcelona
+Autodesk;Data Manager;4.2;125000;135000;130000;EUR;yearly;Barcelona
+VHIO;Data Manager;4;23000;25000;24000;EUR;yearly;Barcelona
+CaixaBank;Data Manager;3.8;69000;75000;72000;EUR;yearly;Barcelona
+HIPRA;Data Manager;3.9;33000;36000;34000;EUR;yearly;Barcelona
+CINESA;Data Manager;3.7;45000;50000;47000;EUR;yearly;Barcelona
+Mad Collective;Data Manager;3.3;38000;42000;40000;EUR;yearly;Barcelona
+CloudBlue;Data Manager;3;43000;46000;45000;EUR;yearly;Barcelona
+W. L. Gore & Associates;Data Manager;3.3;35000;37000;36000;EUR;yearly;Barcelona
+SDG Group;Data Manager;3.9;43000;47000;45000;EUR;yearly;Barcelona
+Veeva Systems;Data Platform Engineer;3.6;77000;84000;80000;EUR;yearly;Barcelona
+Vueling Airlines;Sr Data Analyst;3.7;32000;35000;33000;EUR;yearly;Barcelona
+Michael Page;Sr Data Analyst;3.7;83000;89000;86000;EUR;yearly;Barcelona
+NTT DATA;Sr Data Analyst;3.8;36000;40000;38000;EUR;yearly;Barcelona
+Accenture;Sr Data Analyst;3.8;29000;31000;30000;EUR;yearly;Barcelona
+Glovo;Sr Data Analyst;3.5;45000;50000;48000;EUR;yearly;Barcelona
+Grupo Constant;Data Architect;3.3;39000;43000;41000;EUR;yearly;Barcelona
+Sistemas Genómicos;Data Architect;3;43000;47000;45000;EUR;yearly;Barcelona
+Izertis;Data Architect;2.9;38000;41000;40000;EUR;yearly;Barcelona
+Primagaz;Data Architect;3.9;53000;57000;55000;EUR;yearly;Barcelona
+Indra;Data Architect;3.7;48000;52000;50000;EUR;yearly;Barcelona
+Bayer;Data Architect;3.9;59000;63000;61000;EUR;yearly;Barcelona
+Accenture;Data Architect;3.8;26000;28000;27000;EUR;yearly;Barcelona
+Hiberus Tecnología;Data Architect;3.7;40000;43000;41000;EUR;yearly;Barcelona
+NTT DATA;Data Architect;3.8;34000;36000;35000;EUR;yearly;Barcelona
+Capgemini;Data Architect;3.8;50000;54000;52000;EUR;yearly;Barcelona
+Freelancer;Data Architect;4.2;68000;72000;70000;EUR;yearly;Barcelona
+AGBAR;Data Architect;3.6;31000;33000;32000;EUR;yearly;Barcelona
+Privalia;Data Architect;3.3;48000;52000;50000;EUR;yearly;Barcelona
+Avanade;Data Architect;3.8;62000;68000;65000;EUR;yearly;Barcelona
+Freelancer;Data Science Analyst;4.2;24000;26000;25000;EUR;yearly;Barcelona
+Criteo;Data Science Analyst;4.1;1000;1000;1000;EUR;monthly;Barcelona
+Criteo;Associate Data Analyst;4.1;38000;42000;40000;EUR;yearly;Barcelona
+PwC;Data Science Consultant;3.8;22000;24000;23000;EUR;yearly;Barcelona
+Management Solutions;Data Science Consultant;3.8;28000;30000;29000;EUR;yearly;Barcelona
+IDAEA;Data Analyst | Data Scientist | Data Engineer;4.1;3000;3000;3000;EUR;monthly;Barcelona
+CaixaBank;Financial Data Analyst;3.8;37000;41000;39000;EUR;yearly;Barcelona
+eDreams ODIGEO;Financial Data Analyst;4.1;29000;31000;30000;EUR;yearly;Barcelona
+Vision Factory;Financial Data Analyst;4.6;482;518;500;EUR;monthly;Barcelona
+Aucun;Data Analytics;3.6;46000;50000;48000;EUR;yearly;Barcelona
+Deel;Data Analytics;4.6;77000;83000;80000;EUR;yearly;Barcelona
+roadsurfer;Data Analytics;4.1;38000;42000;40000;EUR;yearly;Barcelona
+Bayer;Data Analytics;3.9;41000;45000;43000;EUR;yearly;Barcelona
+Degital Future;Data Analytics;3.3;38000;42000;40000;EUR;yearly;Barcelona
+Allianz;Data Analytics;4;50000;54000;52000;EUR;yearly;Barcelona
+Zurich Insurance;Data Analytics;4.3;53000;57000;55000;EUR;yearly;Barcelona
+Alibaba Group;Data Analytics;3.8;90000;97000;93000;EUR;yearly;Barcelona
+XXXX Brewery;Data Analytics;4.3;27000;29000;28000;EUR;yearly;Barcelona
+Exoticca;Marketing Data Analyst;3;50000;54000;52000;EUR;yearly;Barcelona
+CE Sabadell FC;Marketing Data Analyst;-0.10000000149011612;21000;23000;22000;EUR;yearly;Barcelona
+Scopely;Marketing Data Analyst;3.9;42000;46000;44000;EUR;yearly;Barcelona
+eDreams ODIGEO;Marketing Data Analyst;4.1;40000;44000;42000;EUR;yearly;Barcelona
+Typeform;Marketing Data Analyst;3.3;56000;61000;59000;EUR;yearly;Barcelona
+Suma Thinking Digital;Marketing Data Analyst;3.8;26000;28000;27000;EUR;yearly;Barcelona
+Adevinta;Marketing Data Analyst;3.6;44000;48000;46000;EUR;yearly;Barcelona
+Papernest;Marketing Data Analyst;3.7;672;729;701;EUR;monthly;Barcelona
+Badi;Marketing Data Analyst;3.5;34000;37000;35000;EUR;yearly;Barcelona
+Omega CRM;Marketing Data Analyst;4.1;34000;37000;36000;EUR;yearly;Barcelona
+SoloLearn;Lead Data Analyst;4.1;72000;78000;75000;EUR;yearly;Barcelona
+PUIG;Lead Data Analyst;3.7;57000;62000;60000;EUR;yearly;Barcelona
+NTT DATA;Lead Data Analyst;3.8;37000;39000;38000;EUR;yearly;Barcelona
+Affirm;Lead Data Analyst;3.9;95000;102000;98000;EUR;yearly;Barcelona
+Papernest;Lead Data Analyst;3.7;43000;47000;45000;EUR;yearly;Barcelona
+Adevinta Spain;Lead Data Analyst;4;50000;54000;52000;EUR;yearly;Barcelona
+Mango;Lead Data Analyst;3.5;53000;57000;55000;EUR;yearly;Barcelona
+GE Renewable Energy;Lead Data Analyst;4.1;44000;48000;46000;EUR;yearly;Barcelona
+Wallbox;Data Engineer Manager;2.7;57000;63000;60000;EUR;yearly;Barcelona
+Accenture;Data Engineer Manager;3.8;72000;78000;75000;EUR;yearly;Barcelona
+Glovo;Staff Data Scientist;3.5;86000;93000;90000;EUR;yearly;Barcelona
+Typeform;Staff Data Scientist;3.3;77000;83000;80000;EUR;yearly;Barcelona
+Shopify;Staff Data Scientist;3.3;183000;197000;190000;EUR;yearly;Barcelona
+TELUS;Data Entry Operator;3.5;8;8;8;EUR;hourly;Barcelona
+Zurich Insurance;Manager Data Engineering;4.3;57000;62000;59000;EUR;yearly;Barcelona
+Ogilvy;Data Consultant;3.7;34000;37000;35000;EUR;yearly;Barcelona
+Accenture;Data Consultant;3.8;48000;52000;50000;EUR;yearly;Barcelona
+Servihabitat Servicios Inmobiliarios;Data Consultant;3.3;34000;38000;36000;EUR;yearly;Barcelona
+Air Products;Master Data Analyst;4;2000;2000;2000;EUR;monthly;Barcelona
+Masterdata;Master Data Analyst;4.4;24000;26000;25000;EUR;yearly;Barcelona
+Duracell;Master Data Analyst;3.8;26000;28000;27000;EUR;yearly;Barcelona
+Fundació Jaume Bofill;Data Coordinator;3.3;39000;42000;40000;EUR;yearly;Barcelona
+Jaume Bofill Foundation;Data Coordinator;2;38000;42000;40000;EUR;yearly;Barcelona

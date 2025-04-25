@@ -6,7 +6,7 @@ __pycache__/
 *.ipynb~ 
 
 # === Virtual Environments ===
-*venv_scraper*
+venv_scraper/
 *venv*
 
 .DS_Store

@@ -1,0 +1,1007 @@
+company;job_description;rating;min_salary;max_salary;median_salary;currency;frequency;city
+Delivery Hero;Data Scientist;3.3;70000;87000;80000;EUR;yearly;Berlin
+Zalando;Data Scientist;3.6;60000;76000;70000;EUR;yearly;Berlin
+Klarna;Data Scientist;2.9;60000;68000;65000;EUR;yearly;Berlin
+Bayer;Data Scientist;3.9;77000;94000;84000;EUR;yearly;Berlin
+AUTO1 Group;Data Scientist;3.1;57000;65000;62000;EUR;yearly;Berlin
+Deutsche Bank;Data Scientist;3.8;64000;75000;67000;EUR;yearly;Berlin
+HelloFresh;Data Scientist;3.4;57000;75000;68000;EUR;yearly;Berlin
+Amazon;Data Scientist;3.6;60000;98000;80000;EUR;yearly;Berlin
+DAIN Studios;Data Scientist;3.9;52000;72000;62000;EUR;yearly;Berlin
+Babbel;Data Scientist;3.5;53000;60000;55000;EUR;yearly;Berlin
+Diconium;Data Scientist;4.1;48000;64000;50000;EUR;yearly;Berlin
+Technische Universität Berlin;Data Scientist;4;50000;60000;52000;EUR;yearly;Berlin
+SAP;Data Scientist;4.2;56000;79000;66000;EUR;yearly;Berlin
+TD Reply;Data Scientist;3.8;55000;60000;55000;EUR;yearly;Berlin
+Siemens;Data Scientist;4.1;64000;95000;70000;EUR;yearly;Berlin
+Wayfair;Data Scientist;2.9;73000;92000;81000;EUR;yearly;Berlin
+Fit Analytics;Data Scientist;4;54000;92000;61000;EUR;yearly;Berlin
+KPMG;Data Scientist;3.7;49000;70000;62000;EUR;yearly;Berlin
+Wooga;Data Scientist;4.5;50000;74000;52000;EUR;yearly;Berlin
+BASF;Data Scientist;4.1;43000;56000;54000;EUR;yearly;Berlin
+Supper & Supper;Data Scientist;4;51000;65000;60000;EUR;yearly;Berlin
+N26;Data Scientist;3.5;51000;75000;72000;EUR;yearly;Berlin
+Marley Spoon;Data Scientist;3.5;61000;70000;68000;EUR;yearly;Berlin
+Charité;Data Scientist;3.8;44000;65000;64000;EUR;yearly;Berlin
+Automation Hero;Data Scientist;3.5;65000;68000;65000;EUR;yearly;Berlin
+Bayes Esports Solutions;Data Scientist;3.7;54000;56000;55000;EUR;yearly;Berlin
+S Rating und Risikosysteme;Data Scientist;3.7;53000;67000;57000;EUR;yearly;Berlin
+FREENOW;Data Scientist;3.7;52000;70000;65000;EUR;yearly;Berlin
+Ada Health;Data Scientist;2.9;62000;78000;65000;EUR;yearly;Berlin
+IAV;Data Scientist;4.2;59000;85000;60000;EUR;yearly;Berlin
+SHARE NOW;Data Scientist;3.5;59000;69000;65000;EUR;yearly;Berlin
+OLX Group;Data Scientist;3.9;74000;90000;85000;EUR;yearly;Berlin
+McKinsey & Company;Data Scientist;4.1;60000;113000;80000;EUR;yearly;Berlin
+Teraki;Data Scientist;2.5;55000;68000;58000;EUR;yearly;Berlin
+Bolt;Data Scientist;3.9;82000;125000;91000;EUR;yearly;Berlin
+Deutsche Telekom;Data Scientist;4;74000;98000;76000;EUR;yearly;Berlin
+momox;Data Scientist;3.9;52000;62000;52000;EUR;yearly;Berlin
+TIER;Data Scientist;3.3;59000;65000;63000;EUR;yearly;Berlin
+Axel Springer;Data Scientist;3.7;64000;74000;68000;EUR;yearly;Berlin
+Fraugster;Data Scientist;4.4;59000;63000;60000;EUR;yearly;Berlin
+Deloitte;Data Scientist;3.9;52000;58000;57000;EUR;yearly;Berlin
+Haensel AMS;Data Scientist;2.8;35000;100000;43000;EUR;yearly;Berlin
+King;Data Scientist;3.4;55000;68000;65000;EUR;yearly;Berlin
+Shopify;Data Scientist;3.3;84000;95000;86000;EUR;yearly;Berlin
+Grover;Data Scientist;2.9;43000;70000;50000;EUR;yearly;Berlin
+Centogene;Data Scientist;2.9;60000;79000;71000;EUR;yearly;Berlin
+MYTOYS GROUP;Data Scientist;3.4;50000;63000;51000;EUR;yearly;Berlin
+Ströer SE & Co. KGaA;Data Scientist;3.9;53000;60000;55000;EUR;yearly;Berlin
+Google;Data Scientist;4.3;85000;100000;100000;EUR;yearly;Berlin
+Trade Republic;Data Scientist;2.6;50000;74000;61000;EUR;yearly;Berlin
+SumUp;Data Scientist;3.5;72000;80000;80000;EUR;yearly;Berlin
+4flow;Data Scientist;4.6;56000;68000;60000;EUR;yearly;Berlin
+IBM;Data Scientist;4;45000;80000;52000;EUR;yearly;Berlin
+Searchmetrics;Data Scientist;3.6;58000;65000;63000;EUR;yearly;Berlin
+Smart Pricer;Data Scientist;4.5;50000;55000;55000;EUR;yearly;Berlin
+Storymachine;Data Scientist;3;44000;55000;45000;EUR;yearly;Berlin
+Lieferando;Data Scientist;3.5;55000;75000;55000;EUR;yearly;Berlin
+JustWatch;Data Scientist;4.1;60000;82000;73000;EUR;yearly;Berlin
+Snap;Data Scientist;3.5;62000;219000;85000;EUR;yearly;Berlin
+The Stepstone Group;Data Scientist;3;60000;79000;62000;EUR;yearly;Berlin
+home24 SE;Data Scientist;2;60000;65000;62000;EUR;yearly;Berlin
+Bonial International;Data Scientist;4.3;69000;75000;73000;EUR;yearly;Berlin
+Beekin;Data Scientist;4.3;35000;36000;35000;EUR;yearly;Berlin
+Talentwunder;Data Scientist;3;55000;65000;60000;EUR;yearly;Berlin
+Revolut;Data Scientist;3.9;73000;101000;86000;EUR;yearly;Berlin
+Architrave;Data Scientist;4.4;50000;70000;70000;EUR;yearly;Berlin
+Sinfosy;Data Scientist;-0.10000000149011612;55000;55000;55000;EUR;yearly;Berlin
+The unbelievable Machine Company;Data Scientist;3.7;53000;74000;70000;EUR;yearly;Berlin
+Verve;Data Scientist;3.4;45000;70000;70000;EUR;yearly;Berlin
+Accenture;Data Scientist;3.8;43000;68000;50000;EUR;yearly;Berlin
+fromAtoB;Data Scientist;4.5;65000;80000;65000;EUR;yearly;Berlin
+Ratepay;Data Scientist;3.8;60000;78000;65000;EUR;yearly;Berlin
+MEDWING;Data Scientist;3.4;45000;70000;70000;EUR;yearly;Berlin
+HomeToGo;Data Scientist;3.8;55000;60000;58000;EUR;yearly;Berlin
+Lidl;Data Scientist;3.4;66000;82000;72000;EUR;yearly;Berlin
+KPMG;Data Scientist;3.7;52000;67000;60000;EUR;yearly;Berlin
+Deutsche Kreditbank;Data Scientist;3.8;61000;79000;65000;EUR;yearly;Berlin
+SoundCloud;Data Scientist;3.9;64000;84000;65000;EUR;yearly;Berlin
+Kayzen;Data Scientist;4;70000;82000;70000;EUR;yearly;Berlin
+Toll Collect;Data Scientist;3.4;50000;50000;50000;EUR;yearly;Berlin
+Spotify;Data Scientist;4;95000;157000;95000;EUR;yearly;Berlin
+Oviva;Data Scientist;3.5;53000;150000;65000;EUR;yearly;Berlin
+MBition;Data Scientist;3.8;51000;59000;55000;EUR;yearly;Berlin
+New Yorker;Data Scientist;3;60000;96000;75000;EUR;yearly;Berlin
+Tesla;Data Scientist;3.5;60000;94000;91000;EUR;yearly;Berlin
+Europace;Data Scientist;3.3;54000;57000;57000;EUR;yearly;Berlin
+GetYourGuide;Data Scientist;3.9;72000;105000;88000;EUR;yearly;Berlin
+ixto;Data Scientist;4.5;6;15;10;EUR;hourly;Berlin
+Flaconi;Data Scientist;3.6;75000;85000;80000;EUR;yearly;Berlin
+INFOMOTION;Data Scientist;4.4;5000;5000;5000;EUR;monthly;Berlin
+Elucidate;Data Scientist;3.6;1000;3000;2000;EUR;monthly;Berlin
+Watergenics;Data Scientist;2.3;35000;45000;40000;EUR;yearly;Berlin
+Lindera;Data Scientist;3;47000;50000;49000;EUR;yearly;Berlin
+wefox;Data Scientist;3.1;50000;60000;55000;EUR;yearly;Berlin
+Adjust;Data Scientist;3.6;65000;68000;67000;EUR;yearly;Berlin
+CHECK24;Data Scientist;3.8;62000;70000;66000;EUR;yearly;Berlin
+Freelance;Data Scientist;4.2;52000;75000;64000;EUR;yearly;Berlin
+Criteo;Data Scientist;4.1;72000;74000;73000;EUR;yearly;Berlin
+BMW Group;Data Scientist;4.1;65000;100000;83000;EUR;yearly;Berlin
+Cardisio;Data Scientist;3.2;60000;60000;60000;EUR;yearly;Berlin
+SmartRecruiters;Data Scientist;3.3;5000;6000;6000;EUR;monthly;Berlin
+Fraunhofer-Gesellschaft;Data Scientist;4.1;8;16;12;EUR;hourly;Berlin
+BuildingMinds;Data Scientist;3.5;64000;65000;65000;EUR;yearly;Berlin
+ImmoScout24;Data Scientist;3.9;74000;76000;75000;EUR;yearly;Berlin
+Amazon Web Services;Data Scientist;3.7;78000;100000;89000;EUR;yearly;Berlin
+CodeCheck AG;Data Scientist;5;40000;60000;50000;EUR;yearly;Berlin
+Deutsche Bahn;Data Scientist;3.8;52000;140000;96000;EUR;yearly;Berlin
+apheris AI;Data Scientist;5;63000;64000;64000;EUR;yearly;Berlin
+project44;Data Scientist;3.9;77000;77000;77000;EUR;yearly;Berlin
+Aignostics;Data Scientist;5;70000;80000;75000;EUR;yearly;Berlin
+Glassnode;Data Scientist;4.5;55000;115000;85000;EUR;yearly;Berlin
+Robert Bosch;Data Scientist;4.2;2000;5000;4000;EUR;monthly;Berlin
+Billie;Data Scientist;4;60000;70000;65000;EUR;yearly;Berlin
+Takeda;Data Scientist;4.3;5000;6000;6000;EUR;monthly;Berlin
+we are era;Data Scientist;4.1;64000;70000;67000;EUR;yearly;Berlin
+Ree Technology;Data Scientist;3.7;58000;76000;67000;EUR;yearly;Berlin
+StackFuel;Data Scientist;4.3;46000;60000;53000;EUR;yearly;Berlin
+Humboldt Universität zu Berlin;Data Scientist;3.8;60000;70000;65000;EUR;yearly;Berlin
+scoutbee;Data Scientist;3.9;58000;58000;58000;EUR;yearly;Berlin
+EPAM Systems;Data Scientist;4;70000;100000;85000;EUR;yearly;Berlin
+Fresenius Medical Care;Data Scientist;3.4;60000;70000;65000;EUR;yearly;Berlin
+EasyPark Group;Data Scientist;4;80000;90000;85000;EUR;yearly;Berlin
+Utopia Music;Data Scientist;2.3;60000;78000;69000;EUR;yearly;Berlin
+Levi Strauss;Data Scientist;3.9;110000;120000;115000;EUR;yearly;Berlin
+IAV Automotive Engineering;Data Scientist;4.1;60000;60000;60000;EUR;yearly;Berlin
+Dojo Madness;Data Scientist;3.7;53000;65000;59000;EUR;yearly;Berlin
+DATANOMIQ;Data Scientist;2.9;4000;4000;4000;EUR;monthly;Berlin
+crealytics;Data Scientist;3.6;53000;85000;69000;EUR;yearly;Berlin
+LBD-Beratungsgesellschaft;Data Scientist;4.3;52000;64000;58000;EUR;yearly;Berlin
+KNIME;Data Scientist;4.2;52000;74000;63000;EUR;yearly;Berlin
+EY;Data Scientist;3.7;49000;50000;49000;EUR;yearly;Berlin
+Allianz;Data Scientist;4;3000;6000;5000;EUR;monthly;Berlin
+CARIAD;Data Scientist;3.4;60000;75000;68000;EUR;yearly;Berlin
+virtualQ;Data Scientist;5;35000;45000;40000;EUR;yearly;Berlin
+HERE Technologies;Data Scientist;3.8;65000;75000;70000;EUR;yearly;Berlin
+flaschenpost;Data Scientist;2.8;65000;67000;66000;EUR;yearly;Berlin
+smava;Data Scientist;3.1;55000;80000;68000;EUR;yearly;Berlin
+TomTom;Data Scientist;4;76000;78000;77000;EUR;yearly;Berlin
+plista;Data Scientist;3.9;50000;55000;53000;EUR;yearly;Berlin
+Springer Nature;Data Scientist;4;56000;59000;58000;EUR;yearly;Berlin
+Microsoft;Data Scientist;4.2;78000;80000;79000;EUR;yearly;Berlin
+Acrolinx;Data Scientist;4;68000;70000;69000;EUR;yearly;Berlin
+HELLA Aglaia Mobile Vision;Data Scientist;4.5;78000;79000;79000;EUR;yearly;Berlin
+Deevio;Data Scientist;3;60000;70000;65000;EUR;yearly;Berlin
+wattx;Data Scientist;4.5;57000;60000;59000;EUR;yearly;Berlin
+Freie Universität Berlin;Data Scientist;4.1;32000;36000;34000;EUR;yearly;Berlin
+Scout24 SE;Data Scientist;3.7;72000;83000;77000;EUR;yearly;Berlin
+Freelancer;Data Scientist;4.2;60000;85000;72000;EUR;yearly;Berlin
+Home24;Data Scientist;3.5;62000;65000;64000;EUR;yearly;Berlin
+travel audience;Data Scientist;4.2;40000;45000;43000;EUR;yearly;Berlin
+Prestatech;Data Scientist;2.7;50000;50000;50000;EUR;yearly;Berlin
+T-Mobile;Data Scientist;3.7;14;16;15;EUR;hourly;Berlin
+Andy Frain;Data Scientist;3.5;53000;59000;56000;EUR;yearly;Berlin
+Bird;Data Scientist;3.6;67000;72000;70000;EUR;yearly;Berlin
+EPI-USE Labs;Data Scientist;4.6;69000;75000;72000;EUR;yearly;Berlin
+EXXETA;Data Scientist;3.7;960;1000;998;EUR;monthly;Berlin
+Digital Spine;Data Scientist;3.5;52000;56000;54000;EUR;yearly;Berlin
+InnoSphere (Germany);Data Scientist;2;57000;62000;60000;EUR;yearly;Berlin
+Max Planck Institute for Plasma Physics;Data Scientist;4.2;1000;1000;1000;EUR;monthly;Berlin
+Zolo Technologies;Data Scientist;4;67000;73000;70000;EUR;yearly;Berlin
+Leverton;Data Scientist;3.4;43000;47000;45000;EUR;yearly;Berlin
+Sierra Nevada Corporation;Data Scientist;4;72000;78000;75000;EUR;yearly;Berlin
+Common Sense Consulting;Data Scientist;2;3000;4000;3000;EUR;monthly;Berlin
+Diëtistenpraktijk Samen Sterk;Data Scientist;2;48000;52000;50000;EUR;yearly;Berlin
+Private TV;Data Scientist;4.1;57000;62000;60000;EUR;yearly;Berlin
+Infarm;Data Scientist;3.1;30000;32000;31000;EUR;yearly;Berlin
+ROKAF;Data Scientist;3.3;40000;43000;42000;EUR;yearly;Berlin
+Rakuten Advertising;Data Scientist;3.6;58000;63000;60000;EUR;yearly;Berlin
+Robert Koch Institut;Data Scientist;3.8;4000;4000;4000;EUR;monthly;Berlin
+foodora;Data Scientist;3.5;63000;68000;65000;EUR;yearly;Berlin
+Politecnico di Torino;Data Scientist;4.2;29000;31000;30000;EUR;yearly;Berlin
+Ratepay;Data Scientist;3.8;42000;45000;43000;EUR;yearly;Berlin
+Senacor Technologies;Data Scientist;4;58000;62000;60000;EUR;yearly;Berlin
+Datasite;Data Scientist;4.2;5000;5000;5000;EUR;monthly;Berlin
+Sony Music Entertainment;Data Scientist;3.7;71000;77000;74000;EUR;yearly;Berlin
+Wiley-VCH;Data Scientist;3.3;76000;84000;80000;EUR;yearly;Berlin
+Google;Data Scientist;4.3;39;41;40;EUR;hourly;Berlin
+Amazon;Data Scientist;3.6;13;14;14;EUR;hourly;Berlin
+Spoty Labs;Data Scientist;-0.10000000149011612;53000;57000;55000;EUR;yearly;Berlin
+Media Markt;Data Scientist;3.4;57000;63000;60000;EUR;yearly;Berlin
+CBTW;Data Scientist;3.8;52000;57000;55000;EUR;yearly;Berlin
+The SaaS Co.;Data Scientist;2.9;1000;1000;1000;EUR;monthly;Berlin
+Upvest;Data Scientist;4.5;69000;75000;72000;EUR;yearly;Berlin
+adviqo;Data Scientist;3.2;44000;46000;45000;EUR;yearly;Berlin
+Hella;Data Scientist;3.9;63000;68000;66000;EUR;yearly;Berlin
+Universität Paderborn;Data Scientist;4.4;50000;54000;52000;EUR;yearly;Berlin
+Loudly;Data Scientist;4.4;43000;47000;45000;EUR;yearly;Berlin
+ENERTRAG SE;Data Scientist;3.8;58000;63000;60000;EUR;yearly;Berlin
+Tripadvisor;Data Scientist;3.8;43000;46000;45000;EUR;yearly;Berlin
+Selfapy;Data Scientist;3.5;53000;58000;55000;EUR;yearly;Berlin
+Jazz;Data Scientist;4.3;67000;73000;70000;EUR;yearly;Berlin
+Wankel SuperTec;Data Scientist;4;3000;3000;3000;EUR;monthly;Berlin
+Flink;Data Scientist;2.9;57000;62000;60000;EUR;yearly;Berlin
+BASF;Data Scientist;4.1;62000;67000;64000;EUR;yearly;Berlin
+Zalando;Data Scientist;3.6;2000;2000;2000;EUR;monthly;Berlin
+Topia;Data Scientist;3;17000;19000;18000;EUR;yearly;Berlin
+Test;Data Scientist;4;77000;82000;80000;EUR;yearly;Berlin
+Intel Corporation;Data Scientist;3.9;57000;62000;60000;EUR;yearly;Berlin
+Spiced;Data Scientist;3.6;53000;57000;55000;EUR;yearly;Berlin
+BARMER;Data Scientist;4.2;53000;58000;55000;EUR;yearly;Berlin
+Peregrine Technologies;Data Scientist;-0.10000000149011612;53000;57000;55000;EUR;yearly;Berlin
+Deutsches Forschungszentrum für Künstliche Intelligenz;Data Scientist;4.2;48000;52000;50000;EUR;yearly;Berlin
+Dojo Madness;Data Scientist;3.7;35000;37000;36000;EUR;yearly;Berlin
+HeyJobs;Data Scientist;4.1;68000;73000;71000;EUR;yearly;Berlin
+Helmholtz-Zentrum Potsdam;Data Scientist;4.2;5000;6000;6000;EUR;monthly;Berlin
+SAP;Data Scientist;4.2;13;13;13;EUR;hourly;Berlin
+upday;Data Scientist;3.8;61000;65000;63000;EUR;yearly;Berlin
+Capgemini;Data Scientist;3.8;55000;61000;58000;EUR;yearly;Berlin
+Thünen Institute;Data Scientist;4.1;2000;3000;2000;EUR;monthly;Berlin
+Kompetenzzentrum Wasser Berlin;Data Scientist;4.9;435;470;453;EUR;monthly;Berlin
+Universität Potsdam;Data Scientist;3.6;2000;2000;2000;EUR;monthly;Berlin
+Phiture;Data Scientist;3.8;46000;50000;48000;EUR;yearly;Berlin
+Retresco;Data Scientist;3.4;18;20;19;EUR;hourly;Berlin
+Ooooo;Data Scientist;3.9;67000;73000;70000;EUR;yearly;Berlin
+Bloomberg;Data Scientist;4;86000;94000;90000;EUR;yearly;Berlin
+Deutsche Bank;Data Scientist;3.8;58000;62000;60000;EUR;yearly;Berlin
+Outfittery;Data Scientist;2.4;53000;57000;55000;EUR;yearly;Berlin
+TU Darmstadt;Data Scientist;4.3;50000;54000;52000;EUR;yearly;Berlin
+EY;Data Scientist;3.7;12;13;12;EUR;hourly;Berlin
+Awin;Data Scientist;4.4;73000;78000;76000;EUR;yearly;Berlin
+Movinga;Data Scientist;3.4;38000;42000;40000;EUR;yearly;Berlin
+Kolibri Games;Data Scientist;4;56000;60000;58000;EUR;yearly;Berlin
+DataScientest;Data Scientist;4.1;48000;52000;50000;EUR;yearly;Berlin
+AdvancePierre Foods;Data Scientist;3.2;58000;63000;60000;EUR;yearly;Berlin
+Bundesdruckerei Gruppe;Data Scientist;3.5;70000;75000;72000;EUR;yearly;Berlin
+TD Reply;Data Scientist;3.8;2000;2000;2000;EUR;monthly;Berlin
+Hyrd;Data Scientist;4.1;58000;63000;60000;EUR;yearly;Berlin
+JetBrains;Data Scientist;4.3;69000;75000;72000;EUR;yearly;Berlin
+Smart Steel Technologies;Data Scientist;3.5;76000;82000;79000;EUR;yearly;Berlin
+PHD;Data Scientist;3.9;62000;68000;65000;EUR;yearly;Berlin
+Capgemini Invent;Data Scientist;3.8;60000;65000;62000;EUR;yearly;Berlin
+Blinkist;Data Scientist;4.4;71000;78000;74000;EUR;yearly;Berlin
+PlusDental;Data Scientist;3;2000;2000;2000;EUR;monthly;Berlin
+BeeBI Consulting;Data Scientist;5;97000;104000;100000;EUR;yearly;Berlin
+Epcot Electric;Data Scientist;4.7;96000;105000;100000;EUR;yearly;Berlin
+BRIDGE Management Technologies;Data Scientist;5;57000;63000;60000;EUR;yearly;Berlin
+Deutsche Post;Data Scientist;3.2;3000;3000;3000;EUR;monthly;Berlin
+Jodel;Data Scientist;3;58000;62000;60000;EUR;yearly;Berlin
+CHRISTUS Health;Data Scientist;3.5;1000;1000;1000;EUR;monthly;Berlin
+Totaljobs;Data Scientist;3;76000;81000;79000;EUR;yearly;Berlin
+Fachhochschule Potsdam;Data Scientist;4.2;4000;4000;4000;EUR;monthly;Berlin
+Musikhaus Thomann;Data Scientist;3;48000;52000;50000;EUR;yearly;Berlin
+CISPA – Helmholtz Center for Information Security;Data Scientist;4.7;12;13;13;EUR;hourly;Berlin
+Silence Therapeutics;Data Scientist;4.4;75000;80000;77000;EUR;yearly;Berlin
+Synfioo;Data Scientist;4.6;43000;47000;45000;EUR;yearly;Berlin
+BSH Hausgeräte;Data Scientist;3.9;57000;63000;60000;EUR;yearly;Berlin
+Lindera;Data Scientist;3;48000;52000;50000;EUR;yearly;Berlin
+Page Group (London);Data Scientist;3.7;2000;2000;2000;EUR;monthly;Berlin
+NOW GMBH;Data Scientist;3.7;55000;60000;58000;EUR;yearly;Berlin
+Wayfair;Data Scientist;2.9;13;14;13;EUR;hourly;Berlin
+Selbständig;Data Scientist;4.5;53000;57000;55000;EUR;yearly;Berlin
+CompuGroup Medical;Data Scientist;3.4;56000;61000;58000;EUR;yearly;Berlin
+Oda;Data Scientist;3.8;74000;80000;77000;EUR;yearly;Berlin
+Mister Spex;Data Scientist;3;40000;44000;42000;EUR;yearly;Berlin
+Fraunhofer IWKS;Data Scientist;4;48000;52000;50000;EUR;yearly;Berlin
+JOEY Restaurants;Data Scientist;3.7;10;10;10;EUR;hourly;Berlin
+Hypatos;Data Scientist;3.3;58000;62000;60000;EUR;yearly;Berlin
+Audible;Data Scientist;3.4;68000;74000;71000;EUR;yearly;Berlin
+Talonic AI;Data Scientist;5;4000;4000;4000;EUR;monthly;Berlin
+KIT;Data Scientist;4.2;48000;52000;50000;EUR;yearly;Berlin
+Philip Morris International;Data Scientist;4;16;17;16;EUR;hourly;Berlin
+Kanzlei Gansel Rechtsanwälte;Data Scientist;3.6;1000;2000;2000;EUR;monthly;Berlin
+Joblift;Data Scientist;4.1;43000;47000;45000;EUR;yearly;Berlin
+American Automobile Association (AAA);Data Scientist;3.6;48000;52000;50000;EUR;yearly;Berlin
+General Logistics Systems;Data Scientist;3.3;60000;64000;62000;EUR;yearly;Berlin
+mymoria;Data Scientist;3.2;49000;53000;51000;EUR;yearly;Berlin
+Mercedes-Benz Mobility;Data Scientist;4.1;72000;78000;75000;EUR;yearly;Berlin
+Seatris;Data Scientist;3;4000;4000;4000;EUR;monthly;Berlin
+mymuesli;Data Scientist;3.6;43000;47000;45000;EUR;yearly;Berlin
+Inspirisys Solutions Limited;Data Scientist;3.6;63000;68000;65000;EUR;yearly;Berlin
+Vodafone;Data Scientist;3.9;79000;87000;83000;EUR;yearly;Berlin
+Hasso-Plattner-Institute;Data Scientist;4.3;4000;4000;4000;EUR;monthly;Berlin
+Siemens Energy;Data Scientist;4.2;67000;72000;70000;EUR;yearly;Berlin
+IBM iX;Data Scientist;3.9;60000;65000;62000;EUR;yearly;Berlin
+Mercedes-Benz Group;Data Scientist;4.1;1000;1000;1000;EUR;monthly;Berlin
+Lana Labs;Data Scientist;3.7;67000;72000;69000;EUR;yearly;Berlin
+Berliner Wasserbetriebe;Data Scientist;3.9;53000;57000;55000;EUR;yearly;Berlin
+ZIEGERT;Data Scientist;2.7;960;1000;1000;EUR;monthly;Berlin
+Creditsafe;Data Scientist;3.6;66000;71000;68000;EUR;yearly;Berlin
+Statice;Data Scientist;2.9;68000;73000;70000;EUR;yearly;Berlin
+SellerX;Data Scientist;3.2;86000;93000;90000;EUR;yearly;Berlin
+i2x;Data Scientist;4.3;69000;74000;72000;EUR;yearly;Berlin
+Hertie School of Governance;Data Scientist;4.5;21;23;22;EUR;hourly;Berlin
+Max Planck Institute for Mathematics;Data Scientist;4.3;47000;50000;48000;EUR;yearly;Berlin
+CENTA MG;Data Scientist;5;53000;57000;55000;EUR;yearly;Berlin
+Data Science Retreat;Data Scientist;-0.10000000149011612;63000;67000;65000;EUR;yearly;Berlin
+Envio Systems;Data Scientist;2;62000;67000;65000;EUR;yearly;Berlin
+Charité;Data Scientist;3.8;3000;4000;3000;EUR;monthly;Berlin
+Max Planck Institute for Molecular Genetics;Data Scientist;4;5000;5000;5000;EUR;monthly;Berlin
+Universidade Anhembi Morumbi;Data Scientist;3.6;95000;103000;99000;EUR;yearly;Berlin
+InPost;Data Scientist;3.4;5000;5000;5000;EUR;monthly;Berlin
+Tech Expert Academy;Data Scientist;5;48000;52000;50000;EUR;yearly;Berlin
+Significo;Data Scientist;2.9;58000;62000;60000;EUR;yearly;Berlin
+foodora;Data Scientist;3.5;68000;72000;70000;EUR;yearly;Berlin
+Nyris;Data Scientist;4.6;53000;58000;55000;EUR;yearly;Berlin
+Berliner Zeitung;Data Scientist;2;56000;61000;58000;EUR;yearly;Berlin
+Lenzing;Data Scientist;3.7;2000;2000;2000;EUR;monthly;Berlin
+Carmeq;Data Scientist;4.6;60000;66000;63000;EUR;yearly;Berlin
+Zibtek;Data Scientist;3.9;43000;46000;45000;EUR;yearly;Berlin
+Urban Energy (Germany);Data Scientist;-0.10000000149011612;52000;58000;55000;EUR;yearly;Berlin
+DCMN;Data Scientist;3.7;53000;57000;55000;EUR;yearly;Berlin
+Blinkist;Data Scientist;4.4;2000;2000;2000;EUR;monthly;Berlin
+Signavio;Data Scientist;3.9;54000;58000;56000;EUR;yearly;Berlin
+iNeuron;Data Scientist;3.7;954;1000;993;EUR;monthly;Berlin
+Leibniz-Forschungsinstitut für Molekulare Pharmakologie im Forschungsverbund;Data Scientist;4.1;3000;3000;3000;EUR;monthly;Berlin
+Spring Professional;Data Scientist;3.4;64000;70000;67000;EUR;yearly;Berlin
+Positive Thinking Company;Data Scientist;3.6;62000;68000;65000;EUR;yearly;Berlin
+Nielsen;Data Scientist;3.3;5000;5000;5000;EUR;monthly;Berlin
+Bayer;Data Scientist;3.9;4000;4000;4000;EUR;monthly;Berlin
+Volkswagen Financial Services;Data Scientist;3.7;82000;89000;86000;EUR;yearly;Berlin
+Auswärtiges Amt;Data Scientist;4.4;72000;79000;75000;EUR;yearly;Berlin
+Tempus Energy;Data Scientist;4.5;53000;58000;55000;EUR;yearly;Berlin
+Tourlane;Data Scientist;3.5;65000;71000;68000;EUR;yearly;Berlin
+Deine Mutter;Data Scientist;4;50000;54000;52000;EUR;yearly;Berlin
+AMBOSS;Data Scientist;4.3;46000;50000;48000;EUR;yearly;Berlin
+ENGIE;Data Scientist;3.9;63000;69000;66000;EUR;yearly;Berlin
+Storymachine;Data Scientist;3;43000;47000;45000;EUR;yearly;Berlin
+NetCheck;Data Scientist;3.8;50000;54000;52000;EUR;yearly;Berlin
+Trade Machines FI;Data Scientist;4.5;24;26;25;EUR;hourly;Berlin
+Mavuno Technologies;Data Scientist;4;491;526;509;EUR;monthly;Berlin
+NTT DATA;Data Scientist;3.8;2000;2000;2000;EUR;monthly;Berlin
+Orange Business;Data Scientist;4;74000;81000;78000;EUR;yearly;Berlin
+mymoria;Data Scientist;3.2;48000;52000;50000;EUR;yearly;Berlin
+SVA System Vertrieb Alexander;Data Scientist;4.3;42000;45000;43000;EUR;yearly;Berlin
+Blueground;Data Scientist;3.3;46000;50000;48000;EUR;yearly;Berlin
+Contorion;Data Scientist;4.1;65000;70000;68000;EUR;yearly;Berlin
+Universal Music Group;Data Scientist;3.7;53000;58000;56000;EUR;yearly;Berlin
+Philip Morris International;Data Scientist;4;57000;62000;60000;EUR;yearly;Berlin
+A Small Company;Data Scientist;3.7;43000;47000;45000;EUR;yearly;Berlin
+AiSight;Data Scientist;5;43000;47000;45000;EUR;yearly;Berlin
+Harnham;Data Scientist;3.4;65000;70000;67000;EUR;yearly;Berlin
+Universität Potsdam;Data Scientist;3.6;48000;52000;50000;EUR;yearly;Berlin
+BOLT;Data Scientist;3.9;87000;94000;91000;EUR;yearly;Berlin
+Ankorstore;Data Scientist;3.6;2000;2000;2000;EUR;monthly;Berlin
+sprylab technologies;Data Scientist;4.2;3000;3000;3000;EUR;monthly;Berlin
+World Wildlife Fund;Data Scientist;3.8;4000;4000;4000;EUR;monthly;Berlin
+super.AI;Data Scientist;4.3;1000;2000;2000;EUR;monthly;Berlin
+Technische Universität Dresden;Data Scientist;4.3;58000;63000;60000;EUR;yearly;Berlin
+eBay;Data Scientist;3.9;87000;94000;90000;EUR;yearly;Berlin
+Carmeq;Data Scientist;4.6;2000;2000;2000;EUR;monthly;Berlin
+CarOnSale;Data Scientist;3.7;52000;57000;55000;EUR;yearly;Berlin
+Porsche;Data Scientist;4.2;67000;72000;70000;EUR;yearly;Berlin
+Adevinta;Data Scientist;3.6;65000;71000;68000;EUR;yearly;Berlin
+TeamViewer;Data Scientist;3.2;61000;66000;63000;EUR;yearly;Berlin
+Oxera;Data Scientist;4.6;48000;52000;50000;EUR;yearly;Berlin
+Universität Göttingen;Data Scientist;4.2;13;15;14;EUR;hourly;Berlin
+Targomo;Data Scientist;4.3;52000;56000;54000;EUR;yearly;Berlin
+Keiner.com;Data Scientist;4.2;48000;52000;50000;EUR;yearly;Berlin
+Fractal;Data Scientist;4.2;58000;63000;60000;EUR;yearly;Berlin
+UP42;Data Scientist;4.5;48000;52000;50000;EUR;yearly;Berlin
+Charité;Data Scientist;3.8;2000;2000;2000;EUR;monthly;Berlin
+Hasso-Plattner-Institute;Data Scientist;4.3;68000;74000;71000;EUR;yearly;Berlin
+relayr;Data Scientist;3.3;69000;74000;72000;EUR;yearly;Berlin
+Computershare;Data Scientist;3.4;77000;83000;80000;EUR;yearly;Berlin
+Le Wagon;Data Scientist;4.1;48000;52000;50000;EUR;yearly;Berlin
+360dialog;Data Scientist;4.8;57000;63000;60000;EUR;yearly;Berlin
+Companion Data Services;Data Scientist;2.9;865;939;902;EUR;monthly;Berlin
+Öffentlicher-Dienst;Data Scientist;3.9;48000;53000;50000;EUR;yearly;Berlin
+Solaris Group;Data Scientist;3.2;64000;70000;67000;EUR;yearly;Berlin
+trivago;Data Scientist;3.8;67000;72000;70000;EUR;yearly;Berlin
+GREENPOL;Data Scientist;4;57000;63000;60000;EUR;yearly;Berlin
+NDA;Data Scientist;4.3;96000;104000;100000;EUR;yearly;Berlin
+Swiss Life Asset Management;Data Scientist;3.7;93000;99000;96000;EUR;yearly;Berlin
+Z&X CPAS;Data Scientist;4.7;77000;84000;80000;EUR;yearly;Berlin
+Architrave;Data Scientist;4.4;4000;4000;4000;EUR;monthly;Berlin
+UniLaSalle;Data Scientist;3.9;4;4;4;EUR;hourly;Berlin
+DiamondIT;Data Scientist;4.5;80000;86000;83000;EUR;yearly;Berlin
+Siemens;Data Scientist;4.1;13000;15000;14000;EUR;yearly;Berlin
+MPI Research;Data Scientist;3.1;58000;62000;60000;EUR;yearly;Berlin
+Tourlane;Data Scientist;3.5;56000;61000;58000;EUR;yearly;Berlin
+H&M Group;Data Scientist;3.6;67000;72000;70000;EUR;yearly;Berlin
+wenglor sensoric;Data Scientist;4.1;69000;75000;72000;EUR;yearly;Berlin
+Robert Koch Institut;Data Scientist;3.8;67000;72000;69000;EUR;yearly;Berlin
+Physikalisch-Technische Bundesanstalt;Data Scientist;4.1;65000;71000;68000;EUR;yearly;Berlin
+Universitätsmedizin Greifswald;Data Scientist;3.7;5000;6000;6000;EUR;monthly;Berlin
+Spotcap;Data Scientist;4.1;13;14;14;EUR;hourly;Berlin
+sprylab technologies;Data Scientist;4.2;14;16;15;EUR;hourly;Berlin
+Turner International;Data Scientist;4.2;96000;104000;100000;EUR;yearly;Berlin
+Big Data Scientists;Data Scientist;4.6;76000;84000;80000;EUR;yearly;Berlin
+Nooxit;Data Scientist;-0.10000000149011612;48000;52000;50000;EUR;yearly;Berlin
+Zara;Data Scientist;3.3;97000;103000;100000;EUR;yearly;Berlin
+Hasso-Plattner-Institute;Data Scientist;4.3;19;21;20;EUR;hourly;Berlin
+Resourceful Humans;Data Scientist;4.4;48000;52000;50000;EUR;yearly;Berlin
+CrossLend;Data Scientist;4;52000;56000;54000;EUR;yearly;Berlin
+PropellerAds;Data Scientist;4;34000;37000;36000;EUR;yearly;Berlin
+Ar­beit su­chend, ar­beit­su­chend;Data Scientist;2.6;35000;37000;36000;EUR;yearly;Berlin
+QiO Technologies;Data Scientist;2.7;72000;78000;75000;EUR;yearly;Berlin
+Amzone (CA);Data Scientist;3.4;83000;89000;86000;EUR;yearly;Berlin
+Medizinische Universität Innsbruck;Data Scientist;3.5;58000;62000;60000;EUR;yearly;Berlin
+Zenjob;Data Scientist;3.9;88000;96000;92000;EUR;yearly;Berlin
+Vinculim Technology;Data Scientist;4;43000;47000;45000;EUR;yearly;Berlin
+Rheinische Friedrich-Wilhelms-University Bonn;Data Scientist;4.2;11;12;12;EUR;hourly;Berlin
+Hypoport;Data Scientist;3.9;52000;57000;55000;EUR;yearly;Berlin
+FGG;Data Scientist;3.5;64000;70000;67000;EUR;yearly;Berlin
+Something;Data Scientist;4.3;96000;104000;100000;EUR;yearly;Berlin
+Arbeiter-Samariter-Bundes Landesverband;Data Scientist;4.2;3000;4000;4000;EUR;monthly;Berlin
+KoronaPay;Data Scientist;3.7;58000;62000;60000;EUR;yearly;Berlin
+realXdata;Data Scientist;3.5;67000;72000;70000;EUR;yearly;Berlin
+Gorillas Technologies GmbH;Data Scientist;3.1;63000;68000;65000;EUR;yearly;Berlin
+BlockAxs;Data Scientist;5;48000;52000;50000;EUR;yearly;Berlin
+PaxLife Innovations;Data Scientist;5;77000;83000;80000;EUR;yearly;Berlin
+Moss;Data Scientist;3.8;62000;68000;65000;EUR;yearly;Berlin
+CrossEngage;Data Scientist;4.1;47000;51000;49000;EUR;yearly;Berlin
+Panion (Berlin);Data Scientist;4.7;72000;77000;75000;EUR;yearly;Berlin
+Neugelb Studios;Data Scientist;2.7;62000;68000;65000;EUR;yearly;Berlin
+Detecon;Data Scientist;3.7;65000;70000;68000;EUR;yearly;Berlin
+PPHE Hotel Group;Data Scientist;3.4;72000;79000;76000;EUR;yearly;Berlin
+InstaFreight;Data Scientist;3.8;58000;63000;60000;EUR;yearly;Berlin
+Amentory Venture;Data Scientist;-0.10000000149011612;2000;2000;2000;EUR;monthly;Berlin
+dentsumcgarrybowen;Data Scientist;3.4;191000;208000;199000;EUR;yearly;Berlin
+Google;Data Scientist;4.3;58000;62000;60000;EUR;yearly;Berlin
+Berlin Institute of Health;Data Scientist;4.3;53000;57000;55000;EUR;yearly;Berlin
+Zalon by Zalando;Data Scientist;4.2;57000;62000;60000;EUR;monthly;Berlin
+Sumsub;Data Scientist;4.3;5000;5000;5000;EUR;monthly;Berlin
+Cognizant Technology Solutions;Data Scientist;3.7;68000;74000;71000;EUR;yearly;Berlin
+Hop Nhat Germany;Data Scientist;4;38000;42000;40000;EUR;yearly;Berlin
+Selbständig;Data Scientist;4.5;73000;78000;75000;EUR;yearly;Berlin
+Microsoft;Data Scientist;4.2;29000;31000;30000;EUR;yearly;Berlin
+Honeypot;Data Scientist;4.4;46000;50000;48000;EUR;yearly;Berlin
+Commerzbank;Data Scientist;4.1;56000;61000;58000;EUR;yearly;Berlin
+interactive tools;Data Scientist;4;38000;41000;40000;EUR;yearly;Berlin
+Dar Group;Data Scientist;3.5;53000;57000;55000;EUR;yearly;Berlin
+Elia;Data Scientist;4.4;62;68;65;EUR;hourly;Berlin
+idalab;Data Scientist;4.9;15;16;15;EUR;hourly;Berlin
+Spektrum;Data Scientist;4.5;42000;46000;44000;EUR;yearly;Berlin
+Enpal;Data Scientist;3.1;68000;75000;72000;EUR;yearly;Berlin
+Devika;Data Scientist;4.4;29000;31000;30000;EUR;yearly;Berlin
+Christian-Albrechts-Universität zu Kiel;Data Scientist;4;19000;21000;20000;EUR;yearly;Berlin
+Charité;Data Scientist;3.8;52000;56000;54000;EUR;yearly;Berlin
+Zoom Communications;Data Scientist;3.5;58000;62000;60000;EUR;yearly;Berlin
+Ubermetrics Technologies;Data Scientist;4.4;81000;89000;85000;EUR;yearly;Berlin
+Technische Universität Berlin;Data Scientist;4;2000;2000;2000;EUR;monthly;Berlin
+I.Q Technologies;Data Scientist;5;53000;57000;55000;EUR;yearly;Berlin
+Zolacode IT Solutions;Data Scientist;3.3;44000;47000;45000;EUR;yearly;Berlin
+Technology and Strategy;Data Scientist;3.2;1000;1000;1000;EUR;monthly;Berlin
+Scalable Minds;Data Scientist;-0.10000000149011612;54000;60000;57000;EUR;yearly;Berlin
+New Scientist;Data Scientist;4.2;53000;57000;55000;EUR;yearly;Berlin
+FLZR;Data Scientist;2.5;57000;62000;60000;EUR;yearly;Berlin
+Aicura Medical;Data Scientist;2.5;52000;56000;54000;EUR;yearly;Berlin
+JDJ Logistics;Data Scientist;3.7;48000;52000;50000;EUR;yearly;Berlin
+Dataqube (Germany);Data Scientist;-0.10000000149011612;58000;63000;60000;EUR;yearly;Berlin
+Plan D;Data Scientist;-0.10000000149011612;68000;72000;70000;EUR;yearly;Berlin
+University of Milano-Bicocca;Data Scientist;3.9;48000;52000;50000;EUR;yearly;Berlin
+Industrial Analytics;Data Scientist;3.7;63000;68000;65000;EUR;yearly;Berlin
+Fraunhofer-Gesellschaft;Data Scientist;4.1;45000;49000;47000;EUR;yearly;Berlin
+Green Fusion;Data Scientist;5;4000;4000;4000;EUR;monthly;Berlin
+PeakProfiling;Data Scientist;-0.10000000149011612;2000;2000;2000;EUR;monthly;Berlin
+MONO Analytics;Data Scientist;4;48000;52000;50000;EUR;yearly;Berlin
+AutoScout24;Data Scientist;4.1;67000;73000;70000;EUR;yearly;Berlin
+Université Gustave Eiffel;Data Scientist;4;57000;63000;60000;EUR;yearly;Berlin
+Berlin Brands Group;Data Scientist;2.6;53000;57000;55000;EUR;yearly;Berlin
+Pandata (Germany);Data Scientist;4.9;46000;50000;48000;EUR;yearly;Berlin
+Theta Lake;Data Scientist;4.1;72000;77000;74000;EUR;yearly;Berlin
+Amazon;Data Scientist;3.6;3000;4000;3000;EUR;monthly;Berlin
+ixto;Data Scientist;4.5;48000;52000;50000;EUR;yearly;Berlin
+Computomics;Data Scientist;-0.10000000149011612;53000;57000;55000;EUR;yearly;Berlin
+Webtrekk;Data Scientist;3.1;51000;55000;53000;EUR;yearly;Berlin
+BTA;Data Scientist;-0.10000000149011612;4000;4000;4000;EUR;monthly;Berlin
+Max Planck Institute for Gravitational Physics (Albert Einstein Institute);Data Scientist;4.7;29000;31000;30000;EUR;yearly;Berlin
+Ubeeqo;Data Scientist;2.6;41000;44000;42000;EUR;yearly;Berlin
+INWT Statistics;Data Scientist;5;65000;70000;67000;EUR;yearly;Berlin
+Turbit Systems;Data Scientist;-0.10000000149011612;17;19;18;EUR;hourly;Berlin
+Simplifa;Data Scientist;1.8;58000;62000;60000;EUR;yearly;Berlin
+theBASE FOL Group;Data Scientist;5;63000;68000;65000;EUR;yearly;Berlin
+Green Fusion (Germany);Data Scientist;4;16;18;17;EUR;hourly;Berlin
+Faraday Future;Data Scientist;2.9;48000;52000;50000;EUR;yearly;Berlin
+NOW GMBH;Data Scientist;3.7;56000;61000;58000;EUR;yearly;Berlin
+ABC;Data Scientist;3.9;78000;83000;80000;EUR;yearly;Berlin
+Rocket Internet;Data Scientist;4.2;67000;72000;70000;EUR;yearly;Berlin
+IAV;Data Scientist;4.2;15;16;15;EUR;hourly;Berlin
+ADOX (Germany);Data Scientist;-0.10000000149011612;4000;5000;5000;EUR;monthly;Berlin
+Zeitgold;Data Scientist;4.5;72000;78000;75000;EUR;yearly;Berlin
+Hypofriend;Data Scientist;4;63000;67000;65000;EUR;yearly;Berlin
+KIT;Data Scientist;4.2;12;12;12;EUR;hourly;Berlin
+Fraunhofer-Gesellschaft;Data Scientist;4.1;48000;52000;50000;EUR;yearly;Berlin
+PIK (Germany);Data Scientist;5;67000;72000;70000;EUR;yearly;Berlin
+The HEINEKEN Company;Data Scientist;4.2;4000;5000;5000;EUR;monthly;Berlin
+Amadeus;Data Scientist;4.1;38000;42000;40000;EUR;yearly;Berlin
+allmyhomes;Data Scientist;4;53000;57000;55000;EUR;yearly;Berlin
+Universität Würzburg;Data Scientist;3.9;58000;63000;61000;EUR;yearly;Berlin
+Remerge;Data Scientist;4.4;53000;58000;55000;EUR;yearly;Berlin
+Google;Data Scientist;4.3;43000;46000;44000;EUR;yearly;Berlin
+co2online gGmbh;Data Scientist;3.5;36000;40000;38000;EUR;yearly;Berlin
+mybet Holding;Data Scientist;2;48000;52000;50000;EUR;yearly;Berlin
+HMS Analytical Software;Data Scientist;4.7;49000;54000;51000;EUR;yearly;Berlin
+Sharpist;Data Scientist;3.5;4000;4000;4000;EUR;monthly;Berlin
+idealo internet;Data Scientist;4.2;48000;52000;50000;EUR;yearly;Berlin
+Adecco Group;Data Scientist;3.5;97000;107000;102000;EUR;yearly;Berlin
+dAlchemy;Data Scientist;4.6;10000;10000;10000;EUR;yearly;Berlin
+None of Your Business Boutique;Data Scientist;4.1;57000;63000;60000;EUR;yearly;Berlin
+Universität Potsdam;Data Scientist;3.6;52000;58000;55000;EUR;yearly;Berlin
+Audatic;Data Scientist;5;67000;73000;70000;EUR;yearly;Berlin
+O&O Software;Data Scientist;-0.10000000149011612;63000;67000;65000;EUR;yearly;Berlin
+NOBODY;Data Scientist;3.8;39000;42000;40000;EUR;yearly;Berlin
+Chegg;Data Scientist;4;76000;84000;80000;EUR;yearly;Berlin
+MSAID;Data Scientist;5;63000;67000;65000;EUR;yearly;Berlin
+Wolt;Data Scientist;3.6;82000;89000;86000;EUR;yearly;Berlin
+University of California Berkeley;Data Scientist;4.3;87000;93000;90000;EUR;yearly;Berlin
+Max-Planck-Gesellschaft;Data Scientist;4.3;62000;68000;65000;EUR;yearly;Berlin
+Grant Thornton;Data Scientist;3.8;14;16;15;EUR;hourly;Berlin
+Everstores Technologies;Data Scientist;-0.10000000149011612;73000;78000;75000;EUR;yearly;Berlin
+DX FACTURE;Data Scientist;4;14;16;15;EUR;hourly;Berlin
+Kuehne+Nagel;Data Scientist;3.6;44000;48000;46000;EUR;yearly;Berlin
+Tech Data;Data Scientist;3.8;29000;31000;30000;EUR;yearly;Berlin
+BrandCompete;Data Scientist;-0.10000000149011612;62000;67000;64000;EUR;yearly;Berlin
+Freie Universität Berlin;Data Scientist;4.1;15;16;15;EUR;hourly;Berlin
+Pamono;Data Scientist;3.1;25;27;26;EUR;hourly;Berlin
+OZON.ru;Data Scientist;4.1;4000;4000;4000;EUR;monthly;Berlin
+future demand;Data Scientist;3.1;58000;62000;60000;EUR;yearly;Berlin
+Freelancer;Data Scientist;4.2;961;1000;1000;EUR;monthly;Berlin
+Gaadi Service;Data Scientist;-0.10000000149011612;57000;62000;60000;EUR;yearly;Berlin
+Statice GmbH;Data Scientist;5;61000;65000;63000;EUR;yearly;Berlin
+zero44;Data Scientist;-0.10000000149011612;13;14;14;EUR;hourly;Berlin
+Stealth Startup;Data Scientist;4.2;66000;71000;68000;EUR;yearly;Berlin
+50Hertz;Data Scientist;4.4;63000;68000;65000;EUR;yearly;Berlin
+Reply;Data Scientist;3.9;63000;68000;66000;EUR;yearly;Berlin
+Yagora;Data Scientist;4;62000;68000;65000;EUR;yearly;Berlin
+FintechDB;Data Scientist;-0.10000000149011612;29000;31000;30000;EUR;yearly;Berlin
+Ottobock;Data Scientist;3.6;73000;79000;76000;EUR;yearly;Berlin
+Zolon Tech;Data Scientist;4;67000;73000;70000;EUR;yearly;Berlin
+21st Real Estate;Data Scientist;3;45000;48000;46000;EUR;yearly;Berlin
+Apple;Data Scientist;4.1;134000;144000;139000;EUR;yearly;Berlin
+ENERGY4U;Data Scientist;4.4;3000;3000;3000;EUR;monthly;Berlin
+Verivox;Data Scientist;3.7;77000;83000;80000;EUR;yearly;Berlin
+Labforward;Data Scientist;3.1;48000;52000;50000;EUR;yearly;Berlin
+Samsung Electronics;Data Scientist;3.7;5000;5000;5000;EUR;monthly;Berlin
+Microsoft;Data Scientist;4.2;5000;5000;5000;EUR;monthly;Berlin
+FactoryPal;Data Scientist;2.9;70000;76000;73000;EUR;yearly;Berlin
+LifeBonus Gesundheitsmanagement;Data Scientist;4.5;77000;83000;80000;EUR;yearly;Berlin
+eze.network;Data Scientist;4;54000;58000;56000;EUR;yearly;Berlin
+RK;Data Scientist;3.1;82000;89000;85000;EUR;yearly;Berlin
+powercloud;Data Scientist;3.7;72000;79000;75000;EUR;yearly;Berlin
+Entelect;Data Scientist;4.5;3000;3000;3000;EUR;monthly;Berlin
+Bolt;Data Scientist;3.9;84000;92000;88000;EUR;yearly;Berlin
+DHL;Data Scientist;3.8;59000;64000;62000;EUR;yearly;Berlin
+NET CHECK;Data Scientist;3.6;64000;69000;66000;EUR;yearly;Berlin
+Google;Data Scientist;4.3;48000;52000;50000;EUR;yearly;Berlin
+RadioShack;Data Scientist;3.7;63000;68000;65000;EUR;yearly;Berlin
+The Mobility House;Data Scientist;4.4;15;17;16;EUR;hourly;Berlin
+Bosch;Data Scientist;4.1;77000;83000;80000;EUR;yearly;Berlin
+Spoke (Germany);Data Scientist;4.1;58000;62000;60000;EUR;yearly;Berlin
+Berlin Brands Group;Data Scientist;2.6;966;1000;1000;EUR;monthly;Berlin
+enpact;Data Scientist;4.3;53000;57000;55000;EUR;yearly;Berlin
+DWS Group;Data Scientist;3.6;91000;99000;95000;EUR;yearly;Berlin
+inovex;Data Scientist;4.5;77000;83000;80000;EUR;yearly;Berlin
+Freelancer;Data Scientist;4.2;4000;5000;4000;EUR;monthly;Berlin
+Jass;Data Scientist;3.9;68000;73000;70000;EUR;yearly;Berlin
+McMakler GmbH;Data Scientist;3.2;53000;57000;55000;EUR;yearly;Berlin
+INURU;Data Scientist;2.6;38000;42000;40000;EUR;yearly;Berlin
+Theia Finance Labs;Data Scientist;4;52000;57000;55000;EUR;yearly;Berlin
+Ottobock;Data Scientist;3.6;15;17;16;EUR;hourly;Berlin
+Machine Xchange Coin;Data Scientist;4;57000;62000;60000;EUR;yearly;Berlin
+Hitachi Vantara;Data Scientist;3.6;58000;62000;60000;EUR;yearly;Berlin
+sonnen;Data Scientist;3.5;70000;74000;72000;EUR;yearly;Berlin
+XYZ;Data Scientist;3.7;50000;54000;52000;EUR;yearly;Berlin
+Delivery Hero;Data Scientist;3.3;54000;58000;56000;EUR;yearly;Berlin
+Yango (Australia);Data Scientist;4;48000;52000;50000;EUR;yearly;Berlin
+K - New Media;Data Scientist;3.2;53000;57000;55000;EUR;yearly;Berlin
+d-fine;Data Scientist;4.6;64000;69000;66000;EUR;yearly;Berlin
+ZDF;Data Scientist;3.8;72000;78000;75000;EUR;yearly;Berlin
+Agentur für Arbeit Jena;Data Scientist;4.1;2000;2000;2000;EUR;monthly;Berlin
+Fayetteville State University;Data Scientist;3.8;75000;81000;78000;EUR;yearly;Berlin
+MEDIAN Kliniken;Data Scientist;2.5;67000;72000;70000;EUR;yearly;Berlin
+Circ;Data Scientist;3.7;58000;62000;60000;EUR;yearly;Berlin
+cerema;Data Scientist;3.7;625;678;651;EUR;monthly;Berlin
+Helmholtz-Zentrum Berlin;Data Scientist;4;56000;60000;58000;EUR;yearly;Berlin
+Zahlen Solutions;Data Scientist;-0.10000000149011612;48000;52000;50000;EUR;yearly;Berlin
+Talenthouse;Data Scientist;2;63000;67000;65000;EUR;yearly;Berlin
+Expath;Data Scientist;3.9;27000;29000;28000;EUR;yearly;Berlin
+Bundesministerium Für Arbeit Und Soziales;Data Scientist;3.6;70000;77000;74000;EUR;yearly;Berlin
+saracus consulting;Data Scientist;4.2;53000;57000;55000;EUR;yearly;Berlin
+Cision;Data Scientist;3;53000;57000;55000;EUR;yearly;Berlin
+Knowtrex;Data Scientist;3.5;58000;62000;60000;EUR;yearly;Berlin
+Fraunhofer;Data Scientist;4.2;48000;52000;50000;EUR;yearly;Berlin
+Other;Data Scientist;4;3000;3000;3000;EUR;monthly;Berlin
+Alacris Theranostics;Data Scientist;1.8;57000;61000;59000;EUR;yearly;Berlin
+PayPal;Data Scientist;3.7;5000;5000;5000;EUR;monthly;Berlin
+FAIRmat;Data Scientist;4.5;54000;58000;56000;EUR;yearly;Berlin
+IOM;Data Scientist;3.8;67000;72000;70000;EUR;yearly;Berlin
+Zapp;Data Scientist;3.1;40000;44000;42000;EUR;yearly;Berlin
+Startup Germany;Data Scientist;4.2;19;21;20;EUR;hourly;Berlin
+Curalie;Data Scientist;3.2;79000;86000;82000;EUR;yearly;Berlin
+Delivery Hero;Data Scientist;3.3;58000;62000;60000;EUR;yearly;Berlin
+Potsdam Institute for Climate Impact Research;Data Scientist;4.2;3000;3000;3000;EUR;monthly;Berlin
+SoftwareOne;Data Scientist;3.9;3000;3000;3000;EUR;monthly;Berlin
+Magmatic Games;Data Scientist;5;77000;83000;80000;EUR;yearly;Berlin
+Compado;Data Scientist;3.2;70000;76000;73000;EUR;yearly;Berlin
+Free2Move;Data Scientist;2.4;53000;57000;55000;EUR;yearly;Berlin
+PwC;Data Scientist;3.8;54000;58000;56000;EUR;yearly;Berlin
+ZaLat Pizza;Data Scientist;3.6;38000;41000;40000;EUR;yearly;Berlin
+Sparkasse;Data Scientist;3.8;49000;53000;51000;EUR;yearly;Berlin
+Lightspeed;Data Scientist;3.6;58000;62000;60000;EUR;yearly;Berlin
+trendence Institut;Data Scientist;3.5;68000;73000;70000;EUR;yearly;Berlin
+Frequenz;Data Scientist;-0.10000000149011612;41000;44000;42000;EUR;yearly;Berlin
+Takeda Pharmaceuticals;Data Scientist;3.9;77000;83000;80000;EUR;yearly;Berlin
+orderbird;Data Scientist;4.2;57000;63000;60000;EUR;yearly;Berlin
+Cornelsen Verlag;Data Scientist;3.6;55000;60000;58000;EUR;yearly;Berlin
+Qonto;Data Scientist;4.3;68000;73000;70000;EUR;yearly;Berlin
+Activision Blizzard;Data Scientist;3.7;53000;57000;55000;EUR;yearly;Berlin
+Envio;Data Scientist;4.5;53000;57000;55000;EUR;yearly;Berlin
+EIDU;Data Scientist;4.4;72000;78000;75000;EUR;yearly;Berlin
+Boston Consulting Group;Data Scientist;4.2;73000;79000;76000;EUR;yearly;Berlin
+Rubrik;Data Scientist;3.6;96000;104000;100000;EUR;yearly;Berlin
+Delivery Hero;Senior Data Scientist;3.3;93000;113000;105000;EUR;yearly;Berlin
+Klarna;Senior Data Scientist;2.9;70000;80000;78000;EUR;yearly;Berlin
+SAP;Senior Data Scientist;4.2;75000;85000;77000;EUR;yearly;Berlin
+Zalando;Senior Data Scientist;3.6;86000;118000;93000;EUR;yearly;Berlin
+Delivery Hero;Data Science Manager;3.3;110000;127000;125000;EUR;yearly;Berlin
+Trade Republic;Senior Data Scientist;2.6;95000;115000;95000;EUR;yearly;Berlin
+SoundCloud;Senior Data Scientist;3.9;78000;91000;90000;EUR;yearly;Berlin
+HelloFresh;Senior Data Scientist;3.4;72000;85000;80000;EUR;yearly;Berlin
+GetYourGuide;Senior Data Scientist;3.9;82000;113000;105000;EUR;yearly;Berlin
+Bayer;Senior Data Scientist;3.9;71000;104000;100000;EUR;yearly;Berlin
+New Yorker;Senior Data Scientist;3;84000;106000;90000;EUR;yearly;Berlin
+AUTO1 Group;Senior Data Scientist;3.1;72000;81000;73000;EUR;yearly;Berlin
+DAIN Studios;Senior Data Scientist;3.9;75000;81000;78000;EUR;yearly;Berlin
+TIER;Senior Data Scientist;3.3;68000;90000;85000;EUR;yearly;Berlin
+OLX Group;Junior Data Scientist;3.9;60000;65000;63000;EUR;yearly;Berlin
+Scorable;Junior Data Scientist;3.7;45000;45000;45000;EUR;yearly;Berlin
+Delivery Hero;Associate Data Scientist;3.3;52000;61000;53000;EUR;yearly;Berlin
+N26;Senior Data Scientist;3.5;74000;84000;80000;EUR;yearly;Berlin
+Wayfair;Senior Data Scientist;2.9;66000;155000;73000;EUR;yearly;Berlin
+SmartRecruiters;Senior Data Scientist;3.3;80000;91000;84000;EUR;yearly;Berlin
+rebuy;Senior Data Scientist;4.2;80000;84000;84000;EUR;yearly;Berlin
+eyeem;Senior Data Scientist;2.7;75000;780000;80000;EUR;yearly;Berlin
+Deutsche Bahn;Senior Data Scientist;3.8;76000;200000;104000;EUR;yearly;Berlin
+Microsoft;Senior Data Scientist;4.2;110000;160000;132000;EUR;yearly;Berlin
+Remerge;Senior Data Scientist;4.4;71000;78000;78000;EUR;yearly;Berlin
+Latana;Senior Data Scientist;3.8;65000;90000;70000;EUR;yearly;Berlin
+Shopify;Senior Data Scientist;3.3;96000;135000;132000;EUR;yearly;Berlin
+Wooga;Senior Data Scientist;4.5;80000;96000;88000;EUR;yearly;Berlin
+Deutsche Kreditbank;Senior Data Scientist;3.8;67000;92000;90000;EUR;yearly;Berlin
+future demand;Junior Data Scientist;3.1;48000;55000;55000;EUR;yearly;Berlin
+Flix;Junior Data Scientist;4;48000;58000;48000;EUR;yearly;Berlin
+AUTO1 Group;Junior Data Scientist;3.1;45000;55000;45000;EUR;yearly;Berlin
+Finiata;Head of Data Science;4.4;109000;110000;110000;EUR;yearly;Berlin
+Wayfair;Data Science;2.9;2000;2000;2000;EUR;monthly;Berlin
+Contorion;Senior Data Scientist;4.1;88000;95000;92000;EUR;yearly;Berlin
+IBM;Senior Data Scientist;4;68000;100000;84000;EUR;yearly;Berlin
+Wargaming;Senior Data Scientist;4.2;68000;73000;71000;EUR;yearly;Berlin
+scoutbee;Senior Data Scientist;3.9;80000;90000;85000;EUR;yearly;Berlin
+Supper & Supper;Senior Data Scientist;4;80000;80000;80000;EUR;yearly;Berlin
+Wolt;Senior Data Scientist;3.6;100000;140000;120000;EUR;yearly;Berlin
+Revolut;Senior Data Scientist;3.9;95000;105000;100000;EUR;yearly;Berlin
+BCG Digital Ventures;Senior Data Scientist;3.7;88000;130000;109000;EUR;yearly;Berlin
+smava;Senior Data Scientist;3.1;85000;90000;88000;EUR;yearly;Berlin
+Oviva;Senior Data Scientist;3.5;65000;70000;68000;EUR;yearly;Berlin
+Enpal;Senior Data Scientist;3.1;80000;80000;80000;EUR;yearly;Berlin
+Plan D;Senior Data Scientist;-0.10000000149011612;70000;70000;70000;EUR;yearly;Berlin
+Zenjob;Senior Data Scientist;3.9;75000;76000;76000;EUR;yearly;Berlin
+CARIAD;Senior Data Scientist;3.4;75000;147000;111000;EUR;yearly;Berlin
+Adjust;Senior Data Scientist;3.6;88000;95000;92000;EUR;yearly;Berlin
+Sharpist;Senior Data Scientist;3.5;80000;80000;80000;EUR;yearly;Berlin
+Kayzen;Senior Data Scientist;4;74000;75000;75000;EUR;yearly;Berlin
+Positive Thinking Company;Junior Data Scientist;3.6;50000;52000;51000;EUR;yearly;Berlin
+SmartRecruiters;Junior Data Scientist;3.3;45000;50000;48000;EUR;yearly;Berlin
+Deutsche Telekom;Junior Data Scientist;4;57000;61000;59000;EUR;yearly;Berlin
+Home24;Junior Data Scientist;3.5;40000;45000;43000;EUR;yearly;Berlin
+KNIME;Data Science Intern;4.2;6;15;11;EUR;hourly;Berlin
+Bayer;Data Science Intern;3.9;1000;2000;1000;EUR;monthly;Berlin
+Klarna;Lead Data Scientist;2.9;89000;150000;120000;EUR;yearly;Berlin
+EPAM Systems;Lead Data Scientist;4;84000;100000;92000;EUR;yearly;Berlin
+N26;Lead Data Scientist;3.5;100000;105000;103000;EUR;yearly;Berlin
+orderbird;Lead Data Scientist;4.2;96000;96000;96000;EUR;yearly;Berlin
+Wayfair;Data Scientist II;2.9;75000;90000;83000;EUR;yearly;Berlin
+Automation Hero;Principal Data Scientist;3.5;85000;90000;88000;EUR;yearly;Berlin
+Zalando;Data Science Manager;3.6;92000;129000;111000;EUR;yearly;Berlin
+OLX Group;Data Science Manager;3.9;160000;168000;164000;EUR;yearly;Berlin
+Wayfair;Data Science Manager;2.9;101000;161000;131000;EUR;yearly;Berlin
+GetYourGuide;Data Science Manager;3.9;110000;140000;125000;EUR;yearly;Berlin
+UP42;Data Science Engineer;4.5;55000;65000;60000;EUR;yearly;Berlin
+HelloFresh;Jr. Data Scientist;3.4;4000;5000;4000;EUR;monthly;Berlin
+Civey;Head of Data Science;4.7;96000;100000;98000;EUR;yearly;Berlin
+50Hertz;Data Scientist Working Student;4.4;1000;1000;1000;EUR;monthly;Berlin
+Dida;Data Scientist Working Student;3.9;12;13;13;EUR;hourly;Berlin
+Elli – A Volkswagen Group brand;Data Science;3.4;5000;5000;5000;EUR;monthly;Berlin
+Sopra Steria;Data Science;3.6;14;15;14;EUR;hourly;Berlin
+ABB;Data Science;4;4000;4000;4000;EUR;monthly;Berlin
+Technische Universität Berlin;Data Science;4;3000;3000;3000;EUR;monthly;Berlin
+MTN Irancell;Data Science;3.8;58000;62000;60000;EUR;yearly;Berlin
+IABG;Data Science;3.2;870;944;907;EUR;monthly;Berlin
+Zalando;Data Science;3.6;10;10;10;EUR;hourly;Berlin
+Riverty;Data Science;3.7;75000;82000;79000;EUR;yearly;Berlin
+Charité;Data Science;3.8;57000;62000;60000;EUR;yearly;Berlin
+My 4-Year Plan;Data Science;4.3;56000;60000;58000;EUR;yearly;Berlin
+SAP;Data Science;4.2;13;13;13;EUR;hourly;Berlin
+Cinedom;Data Science;2;31000;34000;33000;EUR;yearly;Berlin
+Deutsche Bank;Data Science;3.8;67000;72000;69000;EUR;yearly;Berlin
+Therefore;Data Science;5;91000;100000;95000;EUR;yearly;Berlin
+Williams-Sonoma, Inc.;Data Science;3.3;5000;5000;5000;EUR;yearly;Berlin
+Smart Host (Germany);Data Science;1;57000;63000;60000;EUR;yearly;Berlin
+HelloFresh;Data Science;3.4;62000;68000;65000;EUR;yearly;Berlin
+KPMG;Data Scientistst;3.7;42000;46000;44000;EUR;yearly;Berlin
+Axel Springer;Data scientists;3.7;62000;67000;64000;EUR;yearly;Berlin
+Centogene;Data scientists;2.9;65000;70000;68000;EUR;yearly;Berlin
+Spiced;Datenwissenschaftler;3.6;58000;62000;60000;EUR;yearly;Berlin
+Mercedes-Benz Group;Datenwissenschaftler;4.1;48000;52000;50000;EUR;yearly;Berlin
+Dédalo;Datenwissenschaftler;1;57000;62000;60000;EUR;yearly;Berlin
+softgarden e-recruiting;Datenwissenschaftler;4.3;53000;57000;55000;EUR;yearly;Berlin
+Quarters Co-Living;Datenwissenschaftler;3;53000;57000;55000;EUR;yearly;Berlin
+FREENOW;Datenwissenschaftler;3.7;67000;73000;70000;EUR;yearly;Berlin
+Flink;Senior Data Scientist;2.9;80000;87000;83000;EUR;yearly;Berlin
+Softgames;Senior Data Scientist;3.7;59000;64000;62000;EUR;yearly;Berlin
+Funding Circle;Senior Data Scientist;3.7;54000;58000;56000;EUR;yearly;Berlin
+Codepan;Senior Data Scientist;4.6;79000;85000;82000;EUR;yearly;Berlin
+HeyJobs;Senior Data Scientist;4.1;77000;83000;80000;EUR;yearly;Berlin
+Deutsches Rheuma-Forschungszentrum;Senior Data Scientist;4;52000;57000;55000;EUR;yearly;Berlin
+Private TV;Senior Data Scientist;4.1;86000;93000;89000;EUR;yearly;Berlin
+Talenthouse;Senior Data Scientist;2;72000;78000;75000;EUR;yearly;Berlin
+Rolls-Royce;Senior Data Scientist;4;81000;89000;85000;EUR;yearly;Berlin
+TeamViewer;Senior Data Scientist;3.2;53000;57000;55000;EUR;yearly;Berlin
+Ada Health;Senior Data Scientist;2.9;81000;88000;85000;EUR;yearly;Berlin
+Free2Move;Senior Data Scientist;2.4;75000;82000;78000;EUR;yearly;Berlin
+Charité;Senior Data Scientist;3.8;63000;67000;65000;EUR;yearly;Berlin
+EPAM Systems;Senior Data Scientist;4;90000;98000;94000;EUR;yearly;Berlin
+Alfa Bank;Senior Data Scientist;4.6;7000;7000;7000;EUR;monthly;Berlin
+Tourlane;Senior Data Scientist;3.5;77000;84000;81000;EUR;yearly;Berlin
+Shift Technology;Senior Data Scientist;3.8;76000;82000;79000;EUR;yearly;Berlin
+Mister Spex;Senior Data Scientist;3;6000;6000;6000;EUR;monthly;Berlin
+Native Instruments;Senior Data Scientist;3.1;77000;82000;80000;EUR;yearly;Berlin
+MakerVerse;Senior Data Scientist;2.6;79000;86000;83000;EUR;yearly;Berlin
+Boston Consulting Group;Senior Data Scientist;4.2;132000;142000;137000;EUR;yearly;Berlin
+Siemens;Senior Data Scientist;4.1;82000;89000;85000;EUR;yearly;Berlin
+Axel Springer;Senior Data Scientist;3.7;68000;73000;70000;EUR;yearly;Berlin
+m2hycon;Senior Data Scientist;4;67000;73000;70000;EUR;yearly;Berlin
+HELLA Aglaia Mobile Vision;Senior Data Scientist;4.5;87000;94000;90000;EUR;yearly;Berlin
+2Degrees Investing Initiative;Senior Data Scientist;4.2;52000;57000;55000;EUR;yearly;Berlin
+BESTSECRET Group;Senior Data Scientist;4.1;88000;96000;92000;EUR;yearly;Berlin
+Mesh;Senior Data Scientist;4.4;58000;62000;60000;EUR;yearly;Berlin
+JOKR;Senior Data Scientist;4.1;87000;94000;91000;EUR;yearly;Berlin
+Anonymous;Senior Data Scientist;3.5;86000;94000;90000;EUR;yearly;Berlin
+Zentralinstitut für die kassenärztliche Versorgung;Senior Data Scientist;3.2;86000;94000;90000;EUR;yearly;Berlin
+Europace;Senior Data Scientist;3.3;78000;85000;82000;EUR;yearly;Berlin
+numa;Senior Data Scientist;3.7;76000;84000;80000;EUR;yearly;Berlin
+TomTom;Senior Data Scientist;4;77000;83000;80000;EUR;yearly;Berlin
+Acrolinx;Senior Data Scientist;4;58000;62000;60000;EUR;yearly;Berlin
+Remerge;Senior Data Scientist;4.4;87000;95000;91000;EUR;yearly;Berlin
+Bundesdruckerei Gruppe;Senior Data Scientist;3.5;79000;86000;82000;EUR;yearly;Berlin
+Home24;Senior Data Scientist;3.5;62000;67000;65000;EUR;yearly;Berlin
+SelfEmployed.com;Senior Data Scientist;4.4;75000;82000;78000;EUR;yearly;Berlin
+The Stepstone Group;Senior Data Scientist;3;88000;95000;92000;EUR;yearly;Berlin
+Blinkist;Senior Data Scientist;4.4;67000;73000;70000;EUR;yearly;Berlin
+Teraki;Senior Data Scientist;2.5;72000;78000;75000;EUR;yearly;Berlin
+Schindler;Senior Data Scientist;3.7;87000;94000;90000;EUR;yearly;Berlin
+Vaayu.Tech;Senior Data Scientist;4.3;73000;80000;76000;EUR;yearly;Berlin
+Thales;Senior Data Scientist;4;5000;5000;5000;EUR;monthly;Berlin
+SHARE NOW;Senior Data Scientist;3.5;65000;71000;68000;EUR;yearly;Berlin
+MILES Mobility;Senior Data Scientist;3.2;80000;87000;83000;EUR;yearly;Berlin
+Arrival;Senior Data Scientist;3.8;86000;93000;90000;EUR;yearly;Berlin
+MBition;Senior Data Scientist;3.8;74000;81000;78000;EUR;yearly;Berlin
+Borg Collective;Senior Data Scientist;5;62000;68000;65000;EUR;yearly;Berlin
+EY;Senior Data Scientist;3.7;47000;51000;49000;EUR;yearly;Berlin
+home24 SE;Senior Data Scientist;2;73000;79000;76000;EUR;yearly;Berlin
+21st Real Estate;Senior Data Scientist;3;69000;74000;72000;EUR;yearly;Berlin
+Moss;Senior Data Scientist;3.8;81000;89000;85000;EUR;yearly;Berlin
+ZIEGERT;Senior Data Scientist;2.7;118000;128000;123000;EUR;yearly;Berlin
+Flix;Senior Data Scientist;4;81000;88000;84000;EUR;yearly;Berlin
+adsquare;Senior Data Scientist;4.4;68000;73000;70000;EUR;yearly;Berlin
+Deutsche Bank;Senior Data Scientist;3.8;67000;73000;70000;EUR;yearly;Berlin
+Grover;Senior Data Scientist;2.9;74000;80000;77000;EUR;yearly;Berlin
+Amadeus;Senior Data Scientist;4.2;86000;93000;89000;EUR;yearly;Berlin
+KPMG;Senior Data Scientist;3.7;6000;6000;6000;EUR;monthly;Berlin
+E.ON;Senior Data Scientist;4.1;79000;86000;83000;EUR;yearly;Berlin
+Careerfoundry;Senior Data Scientist;3.8;75000;81000;78000;EUR;yearly;Berlin
+GfK;Senior Data Scientist;3.6;87000;94000;90000;EUR;yearly;Berlin
+Curalie;Senior Data Scientist;3.2;74000;82000;78000;EUR;yearly;Berlin
+Fresenius Medical Care;Senior Data Scientist;3.4;76000;81000;79000;EUR;yearly;Berlin
+Deutsche Telekom;Senior Data Scientist;4;97000;104000;100000;EUR;yearly;Berlin
+McMakler GmbH;Senior Data Scientist;3.2;73000;79000;76000;EUR;yearly;Berlin
+Harnham;Senior Data Scientist;3.4;77000;83000;80000;EUR;yearly;Berlin
+Deloitte;Senior Data Scientist;3.9;96000;103000;100000;EUR;yearly;Berlin
+Opinary;Senior Data Scientist;4.3;63000;68000;65000;EUR;yearly;Berlin
+Ottobock;Senior Data Scientist;3.6;83000;90000;86000;EUR;yearly;Berlin
+Helmholtz-Zentrum Berlin;Senior Data Scientist;4;58000;63000;60000;EUR;yearly;Berlin
+Neugelb Studios;Senior Data Scientist;2.7;65000;71000;68000;EUR;yearly;Berlin
+mobile.de;Senior Data Scientist;4.3;81000;88000;85000;EUR;yearly;Berlin
+ImmoScout24;Senior Data Scientist;3.9;72000;79000;75000;EUR;yearly;Berlin
+Transporeon;Senior Data Scientist;3.8;81000;88000;85000;EUR;yearly;Berlin
+Trendyol;Senior Data Scientist;3.7;92000;100000;96000;EUR;yearly;Berlin
+OLX Group;Senior Data Scientist;3.9;112000;122000;117000;EUR;yearly;Berlin
+Dunbar (Germany);Senior Data Scientist;-0.10000000149011612;86000;93000;90000;EUR;yearly;Berlin
+Google;Senior Data Scientist;4.3;72000;78000;75000;EUR;yearly;Berlin
+Publicis Sapient;Senior Data Scientist;3.6;80000;87000;84000;EUR;yearly;Berlin
+Preply;Senior Data Scientist;4.1;116000;124000;120000;EUR;yearly;Berlin
+Peregrine Corporation;Senior Data Scientist;2.9;72000;78000;75000;EUR;yearly;Berlin
+Technische Universität Berlin;Senior Data Scientist;4;63000;69000;66000;EUR;yearly;Berlin
+F.H. Incubator;Senior Data Scientist;1;73000;78000;75000;EUR;yearly;Berlin
+Haensel AMS;Senior Data Scientist;2.8;72000;79000;76000;EUR;yearly;Berlin
+Mondu;Senior Data Scientist;3.7;93000;101000;97000;EUR;yearly;Berlin
+Hella;Senior Data Scientist;3.9;93000;101000;97000;EUR;yearly;Berlin
+Frankfurt School of Finance and Management;Senior Data Scientist;3.4;58000;63000;60000;EUR;yearly;Berlin
+Sennder;Senior Data Scientist;3.5;71000;78000;75000;EUR;yearly;Berlin
+upday;Senior Data Scientist;3.8;81000;88000;84000;EUR;yearly;Berlin
+Amadeus;Senior Data Scientist;4.1;77000;83000;80000;EUR;yearly;Berlin
+Gorillas Technologies GmbH;Senior Data Scientist;3.1;81000;88000;85000;EUR;yearly;Berlin
+Parkling;Senior Data Scientist;3.5;77000;84000;80000;EUR;yearly;Berlin
+Ströer SE & Co. KGaA;Senior Data Scientist;3.9;63000;68000;65000;EUR;yearly;Berlin
+Makersite;Senior Data Scientist;4.4;83000;90000;86000;EUR;yearly;Berlin
+SO1 - Segment of One;Senior Data Scientist;4.5;68000;73000;70000;EUR;yearly;Berlin
+7Learnings;Senior Data Scientist;3.9;72000;78000;75000;EUR;yearly;Berlin
+Inne;Senior Data Scientist;5;79000;87000;83000;EUR;yearly;Berlin
+MSX International;Senior Data Scientist;3.5;96000;105000;100000;EUR;yearly;Berlin
+Zuse Institute;Senior Data Scientist;3.9;57000;62000;60000;EUR;yearly;Berlin
+SLB;Senior Data Scientist;4;94000;102000;98000;EUR;yearly;Berlin
+21st Real Estate;Junior Data Scientist;3;46000;50000;48000;EUR;yearly;Berlin
+Mavuno Technologies;Junior Data Scientist;4;43000;46000;45000;EUR;yearly;Berlin
+Fraunhofer-Gesellschaft;Junior Data Scientist;4.1;3000;4000;3000;EUR;monthly;Berlin
+Max-Planck-Gesellschaft;Junior Data Scientist;4.3;68000;74000;71000;EUR;yearly;Berlin
+T-Systems;Junior Data Scientist;3.7;988;1000;1000;EUR;monthly;Berlin
+7Learnings;Junior Data Scientist;3.9;48000;52000;50000;EUR;yearly;Berlin
+Charité;Junior Data Scientist;3.8;12;13;13;EUR;hourly;Berlin
+Targomo;Junior Data Scientist;4.3;40000;43000;42000;EUR;yearly;Berlin
+DTAD Deutscher Auftragsdienst;Junior Data Scientist;3.4;43000;47000;45000;EUR;yearly;Berlin
+Bayer;Junior Data Scientist;3.9;5000;5000;5000;EUR;monthly;Berlin
+TeamViewer;Junior Data Scientist;3.2;50000;55000;53000;EUR;yearly;Berlin
+LinkedIn;Junior Data Scientist;4;53000;57000;55000;EUR;yearly;Berlin
+Alexandria University;Junior Data Scientist;3.6;58000;62000;60000;EUR;yearly;Berlin
+TD Reply;Junior Data Scientist;3.8;40000;44000;42000;EUR;yearly;Berlin
+Everphone;Junior Data Scientist;3.8;14;16;15;EUR;hourly;Berlin
+ZAGENO;Junior Data Scientist;3.5;43000;46000;44000;EUR;yearly;Berlin
+Dojo Madness;Junior Data Scientist;3.7;38000;41000;40000;EUR;yearly;Berlin
+Lightspeed;Junior Data Scientist;3.6;43000;47000;45000;EUR;yearly;Berlin
+Bringmeister;Junior Data Scientist;3.7;53000;58000;55000;EUR;yearly;Berlin
+Freie Universität Berlin;Junior Data Scientist;4.1;38000;42000;40000;EUR;yearly;Berlin
+Appel Medical;Junior Data Scientist;3.5;43000;46000;45000;EUR;yearly;Berlin
+Delivery Hero;Junior Data Scientist;3.3;48000;52000;50000;EUR;yearly;Berlin
+Ratepay;Junior Data Scientist;3.8;44000;47000;45000;EUR;yearly;Berlin
+Google;Junior Data Scientist;4.3;36000;40000;38000;EUR;yearly;Berlin
+Lidl;Junior Data Scientist;3.4;61000;65000;63000;EUR;yearly;Berlin
+DHL;Junior Data Scientist;3.8;60000;65000;63000;EUR;yearly;Berlin
+Yagora;Junior Data Scientist;4;47000;50000;48000;EUR;yearly;Berlin
+MBition;Junior Data Scientist;3.8;49000;53000;51000;EUR;yearly;Berlin
+Berliner Hochschule für Technik;Junior Data Scientist;4.1;13;14;13;EUR;hourly;Berlin
+Maastricht University;Junior Data Scientist;4.2;16;18;17;EUR;hourly;Berlin
+BMW Group;Junior Data Scientist;4.1;67000;73000;70000;EUR;yearly;Berlin
+HelloFresh;Junior Data Scientist;3.4;40000;44000;42000;EUR;yearly;Berlin
+Etil research group;Junior Data Scientist;-0.10000000149011612;2000;2000;2000;EUR;monthly;Berlin
+Watergenics;Junior Data Scientist;2.3;43000;47000;45000;EUR;yearly;Berlin
+SHARE NOW;Junior Data Scientist;3.5;56000;61000;58000;EUR;yearly;Berlin
+MAYD: Meds At Your Doorstep;Junior Data Scientist;3.4;33000;36000;34000;EUR;yearly;Berlin
+SelfEmployed.com;Junior Data Scientist;4.4;19000;21000;20000;EUR;yearly;Berlin
+YUKKA Lab;Junior Data Scientist;4.6;44000;47000;45000;EUR;yearly;Berlin
+VDI/VDE Innovation + Technik;Junior Data Scientist;4;51000;55000;53000;EUR;yearly;Berlin
+HelloFresh;Junior Data Scientist;3.4;2000;2000;2000;EUR;monthly;Berlin
+Ar­beit su­chend, ar­beit­su­chend;Junior Data Scientist;2.6;48000;52000;50000;EUR;yearly;Berlin
+Picsart;Junior Data Scientist;3.1;48000;52000;50000;EUR;yearly;Berlin
+Flink;Junior Data Scientist;2.9;51000;55000;53000;EUR;yearly;Berlin
+Blinkist;Junior Data Scientist;4.4;47000;51000;49000;EUR;yearly;Berlin
+Deichmann;Junior Data Scientist;2.9;51000;55000;53000;EUR;yearly;Berlin
+Neugelb Studios;Junior Data Scientist;2.7;47000;51000;49000;EUR;yearly;Berlin
+Outfittery;Junior Data Scientist;2.4;4000;4000;4000;EUR;monthly;Berlin
+Lovehoney;Junior Data Scientist;2.9;15;17;16;EUR;hourly;Berlin
+Actori;Junior Data Scientist;4.6;43000;47000;45000;EUR;yearly;Berlin
+Movinga;Junior Data Scientist;3.4;43000;47000;45000;EUR;yearly;Berlin
+circ (Germany);Junior Data Scientist;-0.10000000149011612;58000;62000;60000;EUR;yearly;Berlin
+JSJ Staffing;Junior Data Scientist;3.9;5000;6000;6000;EUR;monthly;Berlin
+Pair Finance;Junior Data Scientist;4.3;53000;57000;55000;EUR;yearly;Berlin
+Plan D;Junior Data Scientist;-0.10000000149011612;48000;52000;50000;EUR;yearly;Berlin
+Max-Delbrück-Center;Junior Data Scientist;3.7;14;16;15;EUR;hourly;Berlin
+LEONI;Data Scientist Intern;3.7;24000;26000;25000;EUR;yearly;Berlin
+SAP;Data Scientist Intern;4.2;58000;62000;60000;EUR;yearly;Berlin
+Amazon;Data Scientist Intern;3.6;1000;1000;1000;EUR;monthly;Berlin
+MBition;Data Scientist Intern;3.8;2000;2000;2000;EUR;monthly;Berlin
+DATANOMIQ;Data Scientist Intern;2.9;11;13;12;EUR;hourly;Berlin
+Zalando;Data Scientist Intern;3.6;2000;2000;2000;EUR;monthly;Berlin
+Deutsche Bahn;Data Scientist Intern;3.8;9;9;9;EUR;hourly;Berlin
+sprylab technologies;Data Scientist Intern;4.2;14;16;15;EUR;hourly;Berlin
+Mercedes-Benz Group;Data Scientist Intern;4.1;2000;2000;2000;EUR;monthly;Berlin
+Amazon;Data Science Intern;3.6;14000;15000;14000;EUR;monthly;Berlin
+Bayer;Data Science Intern;3.9;53000;58000;55000;EUR;yearly;Berlin
+McKinsey & Company;Data Science Intern;4.1;32000;35000;33000;EUR;yearly;Berlin
+Delivery Hero;Data Science Intern;3.3;19000;21000;20000;EUR;yearly;Berlin
+SAP;Data Science Intern;4.2;1000;1000;1000;EUR;hourly;Berlin
+KptnCook;Data Science Intern;4.7;11000;13000;12000;EUR;yearly;Berlin
+KPMG;Data Science Intern;3.7;956;1000;1000;EUR;monthly;Berlin
+Sparrks;Data Science Intern;5;762;827;795;EUR;monthly;Berlin
+PwC;Data Science Intern;3.8;53000;58000;55000;EUR;yearly;Berlin
+Finiata;Data Science Intern;4.4;2000;2000;2000;EUR;monthly;Berlin
+Mcon (Germany);Data Science Intern;4;13;14;14;EUR;hourly;Berlin
+Finiata;Data Science Intern;4.4;2000;2000;2000;EUR;monthly;Berlin
+Universität Bielefeld;Data Science Intern;4.3;12000;14000;13000;EUR;yearly;Berlin
+KPMG;Data Science Intern;3.7;950;1000;993;EUR;monthly;Berlin
+Liefery;Data Science Intern;3.4;966;1000;1000;EUR;monthly;Berlin
+QuoData;Data Science Intern;2.8;1000;1000;1000;EUR;monthly;Berlin
+Audible;Data Science Intern;3.4;1000;1000;1000;EUR;monthly;Berlin
+Delivery Hero;Data Science Intern;3.3;14;16;15;EUR;hourly;Berlin
+NIO;Data Science Intern;3.4;2000;2000;2000;EUR;monthly;Berlin
+Forto Logistics GmbH & Co. KG;Data Science Intern;3.3;2000;2000;2000;EUR;monthly;Berlin
+Technische Universität Berlin;Data Science Intern;4;950;1000;997;EUR;monthly;Berlin
+Grover;Data Science Intern;2.9;2000;2000;2000;EUR;monthly;Berlin
+MMMMAVEN;Data Science Intern;4.1;38000;42000;40000;EUR;yearly;Berlin
+Knowunity;Data Science Intern;3.7;53000;58000;55000;EUR;yearly;Berlin
+Fresenius Medical Care;Data Science Intern;3.4;9;10;10;EUR;hourly;Berlin
+acs plus;Data Science Intern;4;2000;2000;2000;EUR;monthly;Berlin
+Dell Technologies;Lead Data Scientist;3.8;86000;93000;90000;EUR;yearly;Berlin
+OLX Group;Lead Data Scientist;3.9;102000;110000;106000;EUR;yearly;Berlin
+Axel Springer;Lead Data Scientist;3.7;96000;103000;99000;EUR;yearly;Berlin
+scoutbee;Lead Data Scientist;3.9;95000;104000;100000;EUR;yearly;Berlin
+audibene;Lead Data Scientist;3.6;82000;89000;85000;EUR;yearly;Berlin
+Trade Republic;Lead Data Scientist;2.6;116000;125000;121000;EUR;yearly;Berlin
+Boston Consulting Group;Lead Data Scientist;4.2;187000;202000;195000;EUR;yearly;Berlin
+Capgemini;Lead Data Scientist;3.8;58000;63000;60000;EUR;yearly;Berlin
+KA Resources;Lead Data Scientist;5;102000;109000;105000;EUR;yearly;Berlin
+SumUp;Lead Data Scientist;3.5;115000;125000;120000;EUR;yearly;Berlin
+Targomo;Lead Data Scientist;4.3;67000;73000;70000;EUR;yearly;Berlin
+Pepper;Lead Data Scientist;4.4;58000;62000;60000;EUR;yearly;Berlin
+Minodes;Lead Data Scientist;3.3;52000;57000;54000;EUR;yearly;Berlin
+Travelcircus;Lead Data Scientist;2.8;86000;93000;90000;EUR;yearly;Berlin
+HERE Technologies;Lead Data Scientist;3.8;108000;117000;113000;EUR;yearly;Berlin
+The Adept Group;Lead Data Scientist;2;82000;88000;85000;EUR;yearly;Berlin
+MYTOYS GROUP;Data Analyst/Data Scientist;3.4;58000;63000;60000;EUR;yearly;Berlin
+Amazon;Data Analyst/Data Scientist;3.6;19;21;20;EUR;hourly;Berlin
+Lunar X;Data Analyst/Data Scientist;1;70000;76000;73000;EUR;yearly;Berlin
+Deutsche Bank;Data Analyst/Data Scientist;3.8;5000;5000;5000;EUR;monthly;Berlin
+KPMG;Data Analyst/Data Scientist;3.7;47000;51000;49000;EUR;yearly;Berlin
+SISKON Software & Automation;Data Analyst/Data Scientist;4.8;62000;68000;65000;EUR;yearly;Berlin
+Wayfair;Data Analyst/Data Scientist;2.9;13;15;14;EUR;hourly;Berlin
+mybet Holding;Data Analyst/Data Scientist;2;63000;69000;66000;EUR;yearly;Berlin
+SAP;Data Analyst/Data Scientist;4.2;5000;5000;5000;EUR;monthly;Berlin
+ResearchGate;Data Analyst/Data Scientist;2.7;33000;36000;35000;EUR;yearly;Berlin
+Zalando;Data Analyst/Data Scientist;3.6;48000;52000;50000;EUR;yearly;Berlin
+HelloFresh;Data Analyst/Data Scientist;3.4;43000;47000;45000;EUR;yearly;Berlin
+KPMG;Data Analyst/Data Scientist;3.7;2000;2000;2000;EUR;monthly;Berlin
+Lingoda;Data Analyst/Data Scientist;3.8;54000;58000;56000;EUR;yearly;Berlin
+Alcemy;Data Analyst/Data Scientist;5;51000;55000;53000;EUR;yearly;Berlin
+AUTO1 Group;Data Analyst/Data Scientist;3.1;43000;47000;45000;EUR;yearly;Berlin
+Sonda Delivery;Associate Data Scientist;3.7;65000;71000;68000;EUR;yearly;Berlin
+IBM;Associate Data Scientist;4;63000;67000;65000;EUR;yearly;Berlin
+StacksMind;Associate Data Scientist;5;16;18;17;EUR;hourly;Berlin
+Tesla;Associate Data Scientist;3.5;57000;62000;59000;EUR;yearly;Berlin
+Delivery Hero;Data Scientist II;3.3;84000;92000;88000;EUR;yearly;Berlin
+Sage;Principal Data Scientist;3.5;160000;172000;166000;EUR;yearly;Berlin
+Bayes Esports Solutions;Principal Data Scientist;3.7;135000;146000;140000;EUR;yearly;Berlin
+Anaplan;Principal Data Scientist;3.3;13000;14000;13000;EUR;monthly;Berlin
+Festo;Sr Data Scientist;4;5000;5000;5000;EUR;monthly;Berlin
+Tourlane;Sr Data Scientist;3.5;77000;83000;80000;EUR;yearly;Berlin
+FREENOW;Sr Data Scientist;3.7;82000;90000;86000;EUR;yearly;Berlin
+FactoryPal;Sr Data Scientist;2.9;90000;97000;93000;EUR;yearly;Berlin
+Vinted;Data Science Manager;4;28;30;29;EUR;hourly;Berlin
+HelloFresh;Data Science Manager;3.4;72000;78000;75000;EUR;yearly;Berlin
+Spiced;Data Science Manager;3.6;90000;97000;93000;EUR;yearly;Berlin
+Careem;Data Science Manager;3.6;8000;8000;8000;EUR;monthly;Berlin
+Wayfair;Data Science Analyst;2.9;66000;71000;69000;EUR;yearly;Berlin
+GetYourGuide;Staff Data Scientist;3.9;116000;126000;121000;EUR;yearly;Berlin
+Zapier;Staff Data Scientist;3.9;119000;131000;125000;EUR;yearly;Berlin
+New Yorker;Staff Data Scientist;3;72000;77000;75000;EUR;yearly;Berlin
+TIER;Staff Data Scientist;3.3;80000;87000;84000;EUR;yearly;Berlin
+IBM;Data Science Consultant;4;72000;78000;75000;EUR;yearly;Berlin
+Mercedes-Benz Consulting;Data Science Consultant;3.8;58000;62000;60000;EUR;yearly;Berlin
+Oliver Wyman;Data Science Consultant;4.1;71000;76000;73000;EUR;yearly;Berlin
+Accenture;Data Science Consultant;3.8;70000;76000;73000;EUR;yearly;Berlin
+idalab;Data Science Consultant;4.9;50000;54000;52000;EUR;yearly;Berlin
+Square Metrics;Data Science Engineer;4.3;53000;57000;55000;EUR;yearly;Berlin
+Navkonzept;Data Science Engineer;-0.10000000149011612;52000;57000;55000;EUR;yearly;Berlin
+GetYourGuide;Intern data scientist;3.9;2000;2000;2000;EUR;monthly;Berlin
+Delivery Hero;Sr. Data Scientist;3.3;92000;99000;95000;EUR;yearly;Berlin
+TIER;Sr. Data Scientist;3.3;59000;64000;62000;EUR;yearly;Berlin
+Tourlane;Sr. Data Scientist;3.5;91000;99000;95000;EUR;yearly;Berlin
+Mercedes-Benz Group;Data Scientist Internship;4.1;27000;29000;28000;EUR;yearly;Berlin
+TD Reply;Jr. Data Scientist;3.8;37000;40000;38000;EUR;yearly;Berlin
+NEXT Data Service;Jr. Data Scientist;3.6;52000;57000;55000;EUR;yearly;Berlin
+StackFuel;Jr. Data Scientist;4.3;43000;47000;45000;EUR;yearly;Berlin
+Bayer;Data Science Associate;3.9;5000;5000;5000;EUR;monthly;Berlin
+N26;Data Scientist Junior;3.5;53000;57000;55000;EUR;yearly;Berlin
+Salman Group;data science internship;3;2000;2000;2000;EUR;monthly;Berlin
+Lindera;Research Data Scientist;3;53000;57000;55000;EUR;yearly;Berlin
+Pitch;Research Data Scientist;4.6;84000;90000;87000;EUR;yearly;Berlin
+Digital Science;Data Scientist Consultant;3.6;67000;73000;70000;EUR;yearly;Berlin
+McKinsey & Company;Data Science Specialist;4.1;114000;125000;119000;EUR;yearly;Berlin
+Delivery Hero;Manager - Data Science;3.3;131000;143000;137000;EUR;yearly;Berlin
+Zalando;Data and Applied Scientist;3.6;87000;93000;90000;EUR;yearly;Berlin
+OLX Group;Head of Data Science;3.9;141000;150000;145000;EUR;yearly;Berlin
+peekd;Head of Data Science;4.1;101000;109000;105000;EUR;yearly;Berlin
+Mika (Germany);Head of Data Science;3.2;105000;114000;109000;EUR;yearly;Berlin
+Stenon;Head of Data Science;4.4;87000;94000;90000;EUR;yearly;Berlin
+GetYourGuide;Head of Data Science;3.9;72000;78000;75000;EUR;yearly;Berlin
+SAP;Head of Data Science;4.2;103000;111000;107000;EUR;yearly;Berlin
+BCG Digital Ventures;Data Science Lead;3.7;115000;125000;120000;EUR;yearly;Berlin
+StackFuel;Data Scientist Trainee;4.3;3000;3000;3000;EUR;monthly;Berlin
+HelloFresh;Senior Data Scientist Manager;3.4;77000;84000;80000;EUR;yearly;Berlin
+TIER;Senior Data Scientist Manager;3.3;67000;73000;70000;EUR;yearly;Berlin
+Universität Bielefeld;NLP Data Scientist;4.3;46000;50000;48000;EUR;yearly;Berlin
+Artsy;Director of Data Science;4;115000;124000;119000;EUR;yearly;Berlin
+Bertelsmann;Data Science Trainee;3.9;69000;74000;71000;EUR;yearly;Berlin
+Smartly;Director Data Science;3.3;145000;156000;151000;EUR;yearly;Berlin
+Remerge;Director Data Science;4.4;110000;119000;114000;EUR;yearly;Berlin
+Billie;Director Data Science;4;86000;94000;90000;EUR;yearly;Berlin
+Amazon;Data Scientist Working Student;3.6;21;23;22;EUR;hourly;Berlin
+HTW Berlin;Data Scientist Working Student;4.2;970;1000;1000;EUR;monthly;Berlin
+BayWa r.e.;Data Scientist Working Student;4;914;981;947;EUR;monthly;Berlin
+Verdane;Data Scientist Working Student;5;15;17;16;EUR;hourly;Berlin
+Omni:us;Data Scientist Working Student;4.7;14;15;15;EUR;hourly;Berlin
+McMakler GmbH;Data Scientist Working Student;3.2;53000;57000;55000;EUR;yearly;Berlin
+Everphone;Data Scientist Working Student;3.8;14;16;15;EUR;hourly;Berlin
+index Gruppe;Werkstudent Data Scientist;3.3;17;19;18;EUR;hourly;Berlin
+KUGU Home;Werkstudent Data Scientist;3.7;14;16;15;EUR;hourly;Berlin
+Siemens;Werkstudent Data Scientist;4.1;1000;1000;1000;EUR;monthly;Berlin
+Fraunhofer-Gesellschaft;Werkstudent Data Scientist;4.1;1000;1000;1000;EUR;monthly;Berlin
+delphai;Werkstudent Data Scientist;4.4;15;17;16;EUR;hourly;Berlin
+Siemens;Werkstudent Data Scientist;4.1;2000;2000;2000;EUR;monthly;Berlin
+Deutsche Telekom;Werkstudent Data Scientist;4;770;833;801;EUR;monthly;Berlin
+orderbird;Werkstudent Data Scientist;4.2;15;17;16;EUR;hourly;Berlin
+Ada Health;(Senior) Data Scientist;2.9;92000;99000;95000;EUR;yearly;Berlin
+MathWorks;Data Analyst | Data Scientist | Data Engineer;4.3;4000;4000;4000;EUR;monthly;Berlin
+Delivery Hero;Senior Manager Data Science;3.3;153000;166000;160000;EUR;yearly;Berlin
+OLX Group;Senior Lead Data Scientist;3.9;124000;134000;129000;EUR;yearly;Berlin

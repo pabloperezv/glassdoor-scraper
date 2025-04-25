@@ -2,6 +2,7 @@ from fake_useragent import UserAgent
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
 from selenium import webdriver
 from time import sleep
 
@@ -58,7 +59,12 @@ class GlassdoorBot:
                 frequency = frequency.replace('mes', 'monthly')
 
                 # Procesar salarios
-                min_salary_raw, max_salary_raw = salary_range.strip().split(" - ")
+                salary_parts = salary_range.strip().split(" - ")
+                if len(salary_parts) == 2:
+                    min_salary_raw, max_salary_raw = salary_parts
+                else:
+                    # Only one salary given, use it for both min and max
+                    min_salary_raw = max_salary_raw = salary_parts[0]
 
                 def clean_salary(salary_text):
 
@@ -93,7 +99,11 @@ class GlassdoorBot:
                     "frequency": frequency
                 })
             except Exception as e:
-                print("Error extracting card:", e)
+                try:
+                    company_name = card.find_element(By.CLASS_NAME, "salary-card_EmployerName__y02_p").text
+                except:
+                    company_name = "Unknown company"
+                print(f"❌ Error extracting card for {company_name}: {e}")
                 continue
 
         return extracted_data
@@ -106,9 +116,22 @@ class GlassdoorBot:
         for page in range(max_pages):
             print(f"Escrapeando página {page + 1}...")
 
-            WebDriverWait(self.driver, 20).until(
-                EC.presence_of_all_elements_located((By.CLASS_NAME, "salary-card_SalaryCard__U6U4w"))
-            )
+            try:
+                WebDriverWait(self.driver, 20).until(
+                    EC.presence_of_all_elements_located((By.CLASS_NAME, "salary-card_SalaryCard__U6U4w"))
+                )
+            except TimeoutException:
+                print("⚠️ Timeout waiting for salary cards. Checking for security page...")
+                self.handle_security_popup()
+                # Try again after handling security
+                try:
+                    WebDriverWait(self.driver, 20).until(
+                        EC.presence_of_all_elements_located((By.CLASS_NAME, "salary-card_SalaryCard__U6U4w"))
+                    )
+                except TimeoutException:
+                    print("❌ Still no salary cards after reload.")
+                    break
+
             data = self.scrape_salary_list_page()
             all_data.extend(data)
 
@@ -182,3 +205,22 @@ class GlassdoorBot:
                 break
 
         return all_data
+
+    def handle_security_popup(self):
+        try:
+            if "Security | Glassdoor" in self.driver.title:
+                print("⚠️ Security page detected, trying to reload...")
+                # Try clicking on the reload link
+                try:
+                    reload_link = WebDriverWait(self.driver, 5).until(
+                        EC.element_to_be_clickable((By.CLASS_NAME, "reload"))
+                    )
+                    reload_link.click()
+                    print("✅ Clicked on reload link.")
+                except Exception:
+                    print("ℹ️ Reload link not found, refreshing page directly.")
+                    self.driver.refresh()
+                    print("✅ Page refreshed.")
+                sleep(3)  # wait a bit after reload
+        except Exception as e:
+            print("ℹ️ Error handling security popup:", e)
