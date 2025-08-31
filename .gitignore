@@ -10,3 +10,5 @@ venv_scraper/
 *venv*
 
 .DS_Store
+
+.env
